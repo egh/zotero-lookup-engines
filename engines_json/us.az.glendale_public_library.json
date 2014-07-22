@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "AZ",
+  "title": "Glendale Public Library",
+  "linktemplate": "http://www.glendalelibrary.org/ipac20/ipac.jsp?menu=search&index=ISBNEX&term={rft:isbn}"
+}

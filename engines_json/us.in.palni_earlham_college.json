@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IN",
+  "title": "PALNI - Earlham College",
+  "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnecp&scan_start={rft:isbn}"
+}

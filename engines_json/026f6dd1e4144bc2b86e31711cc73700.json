@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MA",
+  "title": "Harvard University Libraries",
+  "linktemplate": "http://hollis.harvard.edu/?q=isbn:{rft:isbn}+"
+}

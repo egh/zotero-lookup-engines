@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "PA",
+  "title": "LS - North Suburban/Roscoe",
+  "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=13&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"
+}

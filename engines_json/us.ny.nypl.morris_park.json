@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "NY",
+  "title": "NYPL - Morris Park",
+  "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=50"
+}

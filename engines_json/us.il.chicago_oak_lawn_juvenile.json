@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IL",
+  "title": "Chicago Oak Lawn Juvenile",
+  "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=107"
+}

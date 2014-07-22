@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "CA",
+  "title": "Monterey Public Library - Monterey",
+  "linktemplate": "http://montn.ci.monterey.ca.us/search/i?SEARCH={rft:isbn}&sortdropdown=-&searchscope=1"
+}

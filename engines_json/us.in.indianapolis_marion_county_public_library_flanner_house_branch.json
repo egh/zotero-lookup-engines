@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IN",
+  "title": "Indianapolis - Marion County Public Library - Flanner House Branch",
+  "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Flanner+House+Branch"
+}

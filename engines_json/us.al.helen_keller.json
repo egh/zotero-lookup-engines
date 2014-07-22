@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "AL",
+  "title": "Helen Keller",
+  "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=41"
+}

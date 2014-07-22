@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "OH",
+  "title": "Hamilton - Blue Ash",
+  "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=BLUE_ASH"
+}

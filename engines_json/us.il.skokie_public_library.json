@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IL",
+  "title": "Skokie Public Library",
+  "linktemplate": "http://catalog.skokielibrary.info/search~S4/i?SEARCH={rft:isbn}"
+}

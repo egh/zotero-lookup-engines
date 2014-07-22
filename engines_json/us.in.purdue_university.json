@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IN",
+  "title": "Purdue University",
+  "linktemplate": "https://www1.lib.purdue.edu/cgi-bin/Pwebrecon.cgi?SAB1={rft:isbn}&BOOL1=any+of+these&FLD1=ISBN+%28ISBN%29&CNT=50"
+}

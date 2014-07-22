@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MA",
+  "title": "Simmons College",
+  "linktemplate": "http://library.simmons.edu/search/i?SEARCH={rft:isbn}"
+}

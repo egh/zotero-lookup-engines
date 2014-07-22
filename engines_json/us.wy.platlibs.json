@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "WY",
+  "title": "Platte County Libraries",
+  "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=platweb&library=PLATLIBS&searchdata1={rft:isbn}"
+}

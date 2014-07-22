@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IA",
+  "title": "Carnegie-Stout Public Library",
+  "linktemplate": "http://hip.dubuque.lib.ia.us/ipac20/ipac.jsp?menu=search&aspect=subtab25&npp=10&ipp=20&spp=20&profile=cspl-horizon-main&ri=3&source=~%21horizon&index=ISBNEX&term={rft:isbn}&x=4&y=8&aspect=subtab25"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "CA",
+  "title": "Orange Co. - Laguna Woods Library",
+  "linktemplate": "http://orca.ocpl.org/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=LAGUNAWOOD"
+}

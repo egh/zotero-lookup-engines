@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "NY",
+  "title": "CUNY Union Catalog",
+  "linktemplate": "http://apps.appl.cuny.edu:83/F?func=scan&local_base=U-CUN01&scan_code=ISBN&scan_start={rft:isbn}"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "OR",
+  "title": "Multnomah County Library",
+  "linktemplate": "http://catalog.multcolib.org/search/i?SEARCH={rft:isbn}"
+}

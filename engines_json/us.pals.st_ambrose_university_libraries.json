@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "PA",
+  "title": "LS - St. Ambrose University Libraries",
+  "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SAUGGRP01&sort_by=ANY%27"
+}

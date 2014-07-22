@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MA",
+  "title": "Arlington's Robbins Library",
+  "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=4"
+}

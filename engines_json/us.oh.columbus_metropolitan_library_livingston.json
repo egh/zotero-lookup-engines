@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "OH",
+  "title": "Columbus Metropolitan Library - Livingston",
+  "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Livingston"
+}

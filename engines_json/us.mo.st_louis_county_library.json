@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MO",
+  "title": "St. Louis County Library",
+  "linktemplate": "http://webpac.slcl.org/search/i={rft:isbn}&searchscope=32"
+}

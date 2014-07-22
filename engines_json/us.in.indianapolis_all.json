@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IN",
+  "title": "Indianapolis - All Libraries",
+  "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}"
+}

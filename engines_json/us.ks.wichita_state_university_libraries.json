@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "KS",
+  "title": "Wichita State University Libraries",
+  "linktemplate": "http://libcat.wichita.edu/vwebv/search?searchArg1={rft:isbn}&argType1=phrase&searchCode1=ISBN&combine2=and&searchArg2=&argType2=phrase&searchCode2=GKEY&combine3=and&searchArg3=&argType3=phrase&searchCode3=GKEY&year=2010-2011&fromYear=&toYear=&location=all&place=all&type=all&status=all&medium=all&language=all&recCount=30&searchType=2&page.search.search.button=Search"
+}

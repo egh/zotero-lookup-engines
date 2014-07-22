@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "TX",
+  "title": "Wichita Falls Public Library",
+  "linktemplate": "http://wfpl.ipac.dynixasp.com/ipac20/ipac.jsp?term={rft:isbn}&index=ISBNEX"
+}

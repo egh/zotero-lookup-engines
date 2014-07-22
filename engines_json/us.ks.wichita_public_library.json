@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "KS",
+  "title": "Wichita Public Library",
+  "linktemplate": "http://catalog.wichita.lib.ks.us/polaris/search/searchresults.aspx?ctx=1.1033.0.0.4&type=Keyword&term={rft:isbn}&by=ISBN&sort=PD_TI&limit=TOM=*&query=&page=0"
+}

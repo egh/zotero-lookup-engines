@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MA",
+  "title": "Boston Public Library",
+  "linktemplate": "http://catalog.mbln.org/ipac20/ipac.jsp?profile=bpl1&index=.BN&term={rft:isbn}"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "NJ",
+  "title": "BCCLS - Ramsey",
+  "linktemplate": "http://web22.bccls.org/web2/tramp2.exe/do_keyword_search/log_in?setting_key=BCCLS&servers=1home&query={rft:isbn}&highlightorlimit=Limit+to&whichlibrary=RAMS"
+}

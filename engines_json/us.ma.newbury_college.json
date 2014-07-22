@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MA",
+  "title": "Newbury College Library",
+  "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=30"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "AZ",
+  "title": "Phoenix Public Library - Cholla",
+  "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=6646"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "OH",
+  "title": "Columbus Metropolitan Library - Northwest",
+  "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Northwest"
+}

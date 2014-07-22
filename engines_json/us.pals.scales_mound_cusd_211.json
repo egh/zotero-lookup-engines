@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "PA",
+  "title": "LS - Scales Mound CUSD 211",
+  "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SMLY-13&sort_by=ANY%27"
+}

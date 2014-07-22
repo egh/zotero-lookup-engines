@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IN",
+  "title": "Indianapolis - Marion County Public Library - Franklin Road Branch",
+  "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Franklin+Road+Branch"
+}

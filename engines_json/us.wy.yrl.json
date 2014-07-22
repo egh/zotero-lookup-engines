@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "WY",
+  "title": "Yellowstone Research Library",
+  "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=yrlweb&library=YRL&searchdata1={rft:isbn}"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "TX",
+  "title": "Austin - Cepeda Branch",
+  "linktemplate": "https://www.ci.austin.tx.us/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CP"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IL",
+  "title": "Chicago Public Library",
+  "linktemplate": "http://www.chipublib.org/search/results?isbn={rft:isbn}&advancedSearch=submitted"
+}

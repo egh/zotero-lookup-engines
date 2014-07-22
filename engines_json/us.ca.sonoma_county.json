@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "CA",
+  "title": "Sonoma County",
+  "linktemplate": "http://catalog.sonomalibrary.org/ipac20/ipac.jsp?menu=search&term={rft:isbn}&index=ISBNEX"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MA",
+  "title": "Curry College",
+  "linktemplate": "http://artemis.curry.edu/search/i?{rft:isbn}"
+}

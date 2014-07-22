@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MA",
+  "title": "Western Mass. Public",
+  "linktemplate": "http://wmars.cwmars.org/search~/i?SEARCH={rft:isbn}"
+}

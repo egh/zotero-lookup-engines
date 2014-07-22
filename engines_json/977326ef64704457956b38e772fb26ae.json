@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "CA",
+  "title": "Stanford Libraries",
+  "linktemplate": "http://searchworks.stanford.edu/?utf8=%E2%9C%93&number={rft:isbn}&search_field=advanced"
+}

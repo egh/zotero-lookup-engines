@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "AZ",
+  "title": "Scottsdale Public Library",
+  "linktemplate": "http://encore.scottsdaleaz.gov/iii/encore/search?formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&target={rft:isbn}"
+}

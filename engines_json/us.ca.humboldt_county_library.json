@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "CA",
+  "title": "Humboldt County Library",
+  "linktemplate": "http://libcat.co.humboldt.ca.us/search/?SORT=D&searchscope=13&searchtype=i&searcharg={rft:isbn}"
+}

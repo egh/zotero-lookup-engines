@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "WA",
+  "title": "King County Library System",
+  "linktemplate": "http://catalog.kcls.org/search/i?{rft:isbn}&searchscope=1&SORT=D"
+}

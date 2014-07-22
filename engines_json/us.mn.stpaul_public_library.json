@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MN",
+  "title": "St. Paul Public Library",
+  "linktemplate": "http://alpha.stpaul.lib.mn.us/search/i?SEARCH={rft:isbn}&sortdropdown=-&searchscope=16"
+}

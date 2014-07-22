@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "TX",
+  "title": "UT Austin  - Engineering Library",
+  "linktemplate": "http://catalog.lib.utexas.edu/search/i?SEARCH={rft:isbn}&searchscope=15"
+}

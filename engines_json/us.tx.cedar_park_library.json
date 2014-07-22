@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "TX",
+  "title": "Cedar Park Library",
+  "linktemplate": "http://webcat.cedarparktx.us/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^SUBJECT^GENERAL^^isbn"
+}

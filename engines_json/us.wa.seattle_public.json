@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "WA",
+  "title": "Seattle Public Library",
+  "linktemplate": "http://catalog.spl.org/ipac20/ipac.jsp?index=ISBNEX&term={rft:isbn}"
+}

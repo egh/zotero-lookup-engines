@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "NY",
+  "title": "Ithaca College Library",
+  "linktemplate": "http://icarus.ithaca.edu/cgi-bin/Pwebrecon.cgi?SAB1={rft:isbn}&FLD1=ISBN+%28ISBN%29&CNT=10&HIST=1"
+}

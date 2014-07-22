@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "NY",
+  "title": "NYPL - Morningside Heights",
+  "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=49"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "CA",
+  "state": "BC",
+  "title": "Ottawa Public Library - Constance Bay",
+  "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Constance+Bay%22&custom_edit=false"
+}

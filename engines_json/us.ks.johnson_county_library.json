@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "KS",
+  "title": "Johnson County Library",
+  "linktemplate": "http://ibistro3.jocolibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ALL"
+}

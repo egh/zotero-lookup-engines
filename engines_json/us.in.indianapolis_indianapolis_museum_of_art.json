@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IN",
+  "title": "Indianapolis - Indianapolis Museum of Art",
+  "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Indianapolis+Museum+of+Art"
+}

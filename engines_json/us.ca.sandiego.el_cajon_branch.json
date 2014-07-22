@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "CA",
+  "title": "San Diego - El Cajon Branch",
+  "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=13"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "PA",
+  "title": "LS - Nippersink Library/Richmond",
+  "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=10&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"
+}

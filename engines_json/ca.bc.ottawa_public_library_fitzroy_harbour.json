@@ -1,0 +1,6 @@
+{
+  "country": "CA",
+  "state": "BC",
+  "title": "Ottawa Public Library - Fitzroy Harbour",
+  "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Fitzroy+Harbour%22&custom_edit=false"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "WY",
+  "title": "Fremont Co. - Lander Library",
+  "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=fremweb&library=FREM&searchdata1={rft:isbn}"
+}

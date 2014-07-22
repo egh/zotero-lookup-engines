@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "CA",
+  "title": "Sonoma County Library - Petaluma",
+  "linktemplate": "http://catalog.sonomalibrary.org/ipac20/ipac.jsp?menu=search&index=ISBNEX&term={rft:isbn}&LO01=peta"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MO",
+  "title": "University of Missouri, St. L",
+  "linktemplate": "http://laurel.lso.missouri.edu/search~S6/?searchtype=i&searcharg={rft:isbn}&searchscope=6"
+}

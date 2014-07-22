@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MA",
+  "title": "Acton Memorial Library",
+  "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=3"
+}

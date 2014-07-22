@@ -1,0 +1,6 @@
+{
+  "country": "CA",
+  "state": "ON",
+  "title": "Toronto Public Library - Jane/Dundas",
+  "linktemplate": "http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&N=0&advancedSearch=true&Ntt={rft:isbn}&N=33138"
+}

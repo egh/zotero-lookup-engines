@@ -1,0 +1,6 @@
+{
+  "country": "CA",
+  "state": "ON",
+  "title": "Toronto Public Library - Oakwood Village Library and Arts Centre",
+  "linktemplate": "http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&N=0&advancedSearch=true&Ntt={rft:isbn}&N=33159"
+}

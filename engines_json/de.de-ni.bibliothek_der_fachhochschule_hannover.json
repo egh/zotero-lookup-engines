@@ -1,0 +1,6 @@
+{
+  "country": "DE",
+  "state": null,
+  "title": "Bibliothek der Fachhochschule Hannover",
+  "linktemplate": "http://opac.tib.uni-hannover.de/DB=4/SET=1/TTL=1/CLK?IKT=1007&TRM={rft:isbn}"
+}

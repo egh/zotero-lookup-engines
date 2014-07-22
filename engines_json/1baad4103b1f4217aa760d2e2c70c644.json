@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "CA",
+  "title": "Mountain View",
+  "linktemplate": "http://encore.mountainview.gov/iii/encore/search/C__S%28{rft:isbn}%29__Orightresult__U1?lang=eng&suite=pearl"
+}

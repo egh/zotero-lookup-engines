@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IL",
+  "title": "Chicago McConathy",
+  "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=91"
+}

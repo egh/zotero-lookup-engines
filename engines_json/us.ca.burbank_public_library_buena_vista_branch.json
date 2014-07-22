@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "CA",
+  "title": "Burbank Public Library - Buena Vista Branch",
+  "linktemplate": "http://66.77.127.97/uhtbin/cgisirsi.exe/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=BUENAVISTA"
+}

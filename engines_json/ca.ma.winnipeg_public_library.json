@@ -1,0 +1,6 @@
+{
+  "country": "CA",
+  "state": "MA",
+  "title": "Winnipeg Public Library",
+  "linktemplate": "http://wpl-pac.winnipeg.ca/ipac20/ipac.jsp?menu=search&profile=wpl&index=ISBNEX&term={rft:isbn}"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "UT",
+  "title": "Davis County Library System - North Branch/Clearfield",
+  "linktemplate": "http://168.180.199.11/uhtbin/cgisirsi.exe/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=NOD"
+}

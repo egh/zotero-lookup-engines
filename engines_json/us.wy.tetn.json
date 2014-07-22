@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "WY",
+  "title": "Teton Co. Library",
+  "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=tetnweb&library=TETN&searchdata1={rft:isbn}"
+}

@@ -1,0 +1,6 @@
+{
+  "country": "CA",
+  "state": "BC",
+  "title": "Vancouver Public Library - Carnegie Reading Room",
+  "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Carnegie+Reading+Room%22&custom_edit=false"
+}

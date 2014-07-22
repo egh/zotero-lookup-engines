@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "MO",
+  "title": "St. L Community Colleges",
+  "linktemplate": "http://archway.missouri.edu/search~/Y?searchtype=i&searcharg={rft:isbn}&searchscope=12"
+}

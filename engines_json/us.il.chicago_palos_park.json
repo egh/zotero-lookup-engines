@@ -1,0 +1,6 @@
+{
+  "country": "US",
+  "state": "IL",
+  "title": "Chicago Palos Park",
+  "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=113"
+}
