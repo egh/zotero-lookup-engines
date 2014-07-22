@@ -15,17 +15,22 @@ xml_template = Liquid::Template.parse(File.read("engine.xml"))
 html_template = Liquid::Template.parse(File.read("engine.html"))
 index_template = Liquid::Template.parse(File.read("index.html"))
 
-items = {}
-Dir["engines_json/*"].each do |filename|
+countries = {}
+items = Dir["engines_json/*"].map { |filename|
   item = JSON.parse(File.read(filename))
   name = File.basename(filename, ".json")
-  country = item['country'] || "NONE"
-  state = item['state'] || "NONE"
-  items[country] ||= {}
-  items[country][state] ||= []
-  items[country][state].push(item)
   item['xmlurl'] = "#{BASE_URL}#{name}.xml"
   item['name'] = name
+  item
+}.sort_by{|i| [i['country'] || "", i['state'] || "", i['title']]}
+
+items.each do |item|
+  name = item['name']
+  country = item['country'] || "NONE"
+  state = item['state'] || "NONE"
+  countries[country] ||= {}
+  countries[country][state] ||= []
+  countries[country][state].push(item)
   File.open(File.join("engines", "#{name}.xml"), "w") do |f|
     f << xml_template.render('item' => item)
   end
@@ -35,5 +40,5 @@ Dir["engines_json/*"].each do |filename|
 end
 
 File.open(File.join("engines", "index.html"), "w") do |f|
-  f << index_template.render('items' => items)
+  f << index_template.render('countries' => countries)
 end
