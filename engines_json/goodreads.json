@@ -1,0 +1,5 @@
+{
+  "name": "goodreads",
+  "title": "GoodReads",
+  "link": "http://www.goodreads.com/search?q={rft:isbn}&group_id=&search_type=books"
+}

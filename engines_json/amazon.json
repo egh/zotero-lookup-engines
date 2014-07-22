@@ -1,0 +1,5 @@
+{
+  "name": "amazon",
+  "title": "Amazon",
+  "link": "http://www.amazon.com/exec/obidos/ASIN/{rft:isbn}"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "alibris",
+  "title": "Alibris",
+  "link": "http://www.alibris.com/booksearch?qsort=p&qisbn={rft:isbn}"
+}

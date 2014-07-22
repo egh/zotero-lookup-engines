@@ -1,0 +1,5 @@
+{
+  "name": "librarything",
+  "title": "Library Thing",
+  "link": "http://www.librarything.com/isbn/{rft:isbn}"
+}
