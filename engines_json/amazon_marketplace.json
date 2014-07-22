@@ -1,5 +1,5 @@
 {
   "name": "amazon_marketplace",
   "title": "Amazon Marketplace",
-  "link": "http://www.amazon.com/gp/offer-listing/{rft:isbn}/"
+  "linktemplate": "http://www.amazon.com/gp/offer-listing/{rft:isbn}/"
 }

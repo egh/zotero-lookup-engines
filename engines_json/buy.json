@@ -1,5 +1,5 @@
 {
   "name": "buy",
   "title": "Buy",
-  "link": "http://www.buy.com/retail/usersearchresults.asp?qu={rft:isbn}"
+  "linktemplate": "http://www.buy.com/retail/usersearchresults.asp?qu={rft:isbn}"
 }

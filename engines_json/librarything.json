@@ -1,5 +1,5 @@
 {
   "name": "librarything",
   "title": "Library Thing",
-  "link": "http://www.librarything.com/isbn/{rft:isbn}"
+  "linktemplate": "http://www.librarything.com/isbn/{rft:isbn}"
 }

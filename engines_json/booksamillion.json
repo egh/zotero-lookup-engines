@@ -1,5 +1,5 @@
 {
   "name": "booksamillion",
   "title": "Books A Million",
-  "link": "http://www.booksamillion.com/ncom/books?isbn={rft:isbn}"
+  "linktemplate": "http://www.booksamillion.com/ncom/books?isbn={rft:isbn}"
 }

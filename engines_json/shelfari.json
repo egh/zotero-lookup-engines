@@ -1,5 +1,5 @@
 {
   "name": "shelfari",
   "title": "Shelfari",
-  "link": "http://www.shelfari.com/booksearch.aspx?Adv=True&SearchAmazon=False&Title=&Author=&Isbn={rft:isbn}"
+  "linktemplate": "http://www.shelfari.com/booksearch.aspx?Adv=True&SearchAmazon=False&Title=&Author=&Isbn={rft:isbn}"
 }

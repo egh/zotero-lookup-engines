@@ -1,5 +1,5 @@
 {
   "name": "barnesnoble_member",
   "title": "Barnes & Noble Member",
-  "link": "http://search.barnesandnoble.com/booksearch/isbninquiry.asp?isbn={rft:isbn}"
+  "linktemplate": "http://search.barnesandnoble.com/booksearch/isbninquiry.asp?isbn={rft:isbn}"
 }

@@ -1,5 +1,5 @@
 {
   "name": "powells",
   "title": "Powells",
-  "link": "http://www.powells.com/biblio?isbn={rft:isbn}"
+  "linktemplate": "http://www.powells.com/biblio?isbn={rft:isbn}"
 }

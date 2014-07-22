@@ -1,5 +1,5 @@
 {
   "name": "paperbackswap",
   "title": "PaperBackSwap",
-  "link": "http://www.paperbackswap.com/book/details/{rft:isbn}"
+  "linktemplate": "http://www.paperbackswap.com/book/details/{rft:isbn}"
 }
