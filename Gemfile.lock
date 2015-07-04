@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    liquid (2.6.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  liquid
