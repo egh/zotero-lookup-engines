@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2013-07-27T00:37:10Z",
+  "title": "Indianapolis - St. Anthony - San Antonio Catholic School",
+  "problems": "Missing item found!\n",
+  "problem_count": 66,
+  "tested": "2015-06-27T01:28:03Z",
+  "has_problems": true,
+  "have": "0060288825",
+  "name": "us.in.indianapolis_st_anthony_san_antonio_catholic_school",
   "country": "US",
   "state": "IN",
-  "title": "Indianapolis - St. Anthony - San Antonio Catholic School",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=St.%20Anthony%20-%20San%20Antonio%20Catholic%20School"
 }

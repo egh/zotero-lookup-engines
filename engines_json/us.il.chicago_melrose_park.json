@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-02-15T22:12:29Z",
+  "title": "Chicago Melrose Park",
+  "problems": "Missing item found!\n",
+  "problem_count": 47,
+  "tested": "2015-06-29T08:01:11Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.il.chicago_melrose_park",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Melrose Park",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=95"
 }

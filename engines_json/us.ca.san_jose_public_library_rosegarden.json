@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No available matches found",
+  "was_valid": "2013-05-22T21:24:48Z",
+  "title": "San Jose Public Library - Rosegarden",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg=043935806X&availlim=1&searchscope=27",
+  "problem_count": 72,
+  "tested": "2015-06-25T10:28:10Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.ca.san_jose_public_library_rosegarden",
   "country": "US",
   "state": "CA",
-  "title": "San Jose Public Library - Rosegarden",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&availlim=1&searchscope=27"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-08-04T04:07:56Z",
+  "title": "LS - Oregon CUSD 220 - Etnyre Elem. School",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=OS3Y&sort_by=ANY%27",
+  "problem_count": 149,
+  "tested": "2015-07-01T10:32:11Z",
+  "has_problems": true,
+  "have": "",
+  "name": "us.pals.oregon_cusd_220_etnyre_elem_school",
   "country": "US",
   "state": "PA",
-  "title": "LS - Oregon CUSD 220 - Etnyre Elem. School",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=OS3Y&sort_by=ANY%27"
 }

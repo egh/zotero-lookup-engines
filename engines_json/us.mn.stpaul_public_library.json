@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-30T03:31:10Z",
+  "title": "St. Paul Public Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T03:31:10Z",
+  "has_problems": false,
+  "have": "0394839129",
+  "name": "us.mn.stpaul_public_library",
   "country": "US",
   "state": "MN",
-  "title": "St. Paul Public Library",
   "linktemplate": "http://alpha.stpaul.lib.mn.us/search/i?SEARCH={rft:isbn}&sortdropdown=-&searchscope=16"
 }

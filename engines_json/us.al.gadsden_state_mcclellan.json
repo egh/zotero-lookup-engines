@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373872704",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-03-16T13:06:02Z",
+  "title": "Gadsden State-McClellan",
+  "problems": "Missing item found!\n",
+  "problem_count": 44,
+  "tested": "2015-06-26T03:43:02Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.al.gadsden_state_mcclellan",
   "country": "US",
   "state": "AL",
-  "title": "Gadsden State-McClellan",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=38"
 }

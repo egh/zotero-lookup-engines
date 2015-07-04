@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0399155342",
+  "is_community": false,
+  "missing": "Your search found nothing",
+  "was_valid": "2013-08-28T15:27:44Z",
+  "title": "Victoria - Monash University",
+  "problems": "Missing item found!\n",
+  "problem_count": 63,
+  "tested": "2015-06-27T20:46:05Z",
+  "has_problems": true,
+  "have": "0399155341",
+  "name": "au.victoria.monash_university",
   "country": "AU",
   "state": null,
-  "title": "Victoria - Monash University",
   "linktemplate": "http://library.monash.edu.au/vwebv/search?searchArg1={rft:isbn}&argType1=all&searchCode1=ISBN&combine2=and&searchArg2=&argType2=all&searchCode2=GKEY&fromYear=&toYear=&location=all&type=all&language=all&recCount=20&searchType=2&page.search.search.button=Search"
 }

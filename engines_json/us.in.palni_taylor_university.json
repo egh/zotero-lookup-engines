@@ -1,6 +1,17 @@
 {
+  "match_isbn": true,
+  "dont": "032119375X",
+  "is_community": false,
+  "missing": null,
+  "was_valid": "2012-08-17T22:41:29Z",
+  "title": "PALNI - Taylor University",
+  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plntup&scan_start=0324001029",
+  "problem_count": 99,
+  "tested": "2015-07-04T05:32:10Z",
+  "has_problems": true,
+  "have": "0324001029",
+  "name": "us.in.palni_taylor_university",
   "country": "US",
   "state": "IN",
-  "title": "PALNI - Taylor University",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plntup&scan_start={rft:isbn}"
 }

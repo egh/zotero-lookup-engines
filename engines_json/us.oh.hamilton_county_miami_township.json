@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-25T03:10:15Z",
+  "title": "Hamilton - Miami Township",
+  "problems": "Missing item found!\n",
+  "problem_count": 101,
+  "tested": "2015-07-01T14:47:12Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.oh.hamilton_county_miami_township",
   "country": "US",
   "state": "OH",
-  "title": "Hamilton - Miami Township",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MIAMI_TWP"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2013-09-28T14:36:50Z",
+  "title": "Indianapolis - St. Andrew and St. Rita Academy",
+  "problems": "Missing item found!\n",
+  "problem_count": 60,
+  "tested": "2015-06-27T01:13:04Z",
+  "has_problems": true,
+  "have": "1576730530",
+  "name": "us.in.indianapolis_st_andrew_and_st_rita_academy",
   "country": "US",
   "state": "IN",
-  "title": "Indianapolis - St. Andrew and St. Rita Academy",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=St.%20Andrew%20and%20St.%20Rita%20Academy"
 }

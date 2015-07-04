@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches in the library you searched",
+  "was_valid": "2015-06-29T00:01:04Z",
+  "title": "Orange Co. - Tustin Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-29T00:01:04Z",
+  "has_problems": false,
+  "have": "0439786770",
+  "name": "us.ca.oc.tustin_library",
   "country": "US",
   "state": "CA",
-  "title": "Orange Co. - Tustin Library",
   "linktemplate": "http://orca.ocpl.org/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=TUSTIN"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-26T13:13:15Z",
+  "title": "Humboldt County Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-26T13:13:15Z",
+  "has_problems": false,
+  "have": "0439136350",
+  "name": "us.ca.humboldt_county_library",
   "country": "US",
   "state": "CA",
-  "title": "Humboldt County Library",
   "linktemplate": "http://libcat.co.humboldt.ca.us/search/?SORT=D&searchscope=13&searchtype=i&searcharg={rft:isbn}"
 }

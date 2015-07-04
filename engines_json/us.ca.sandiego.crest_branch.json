@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2012-02-29T20:18:21Z",
+  "title": "San Diego - Crest Branch",
+  "problems": "Existing item not found!\n",
+  "problem_count": 115,
+  "tested": "2015-07-03T10:32:02Z",
+  "has_problems": true,
+  "have": "0439244196",
+  "name": "us.ca.sandiego.crest_branch",
   "country": "US",
   "state": "CA",
-  "title": "San Diego - Crest Branch",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=8"
 }

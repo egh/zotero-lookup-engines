@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2013-05-31T14:54:34Z",
+  "title": "Charleston County Public Library - West Ashley",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=WST_ASHLEY",
+  "problem_count": 72,
+  "tested": "2015-07-04T00:47:11Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.sc.charleston_county_public_library_west_ashley ",
   "country": "US",
   "state": "SC",
-  "title": "Charleston County Public Library - West Ashley",
   "linktemplate": "http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=WST_ASHLEY"
 }

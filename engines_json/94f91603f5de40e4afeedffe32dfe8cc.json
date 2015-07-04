@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": true,
+  "missing": "No matches found; nearby ISN'S are:",
+  "was_valid": "2015-07-02T03:47:04Z",
+  "title": "Pima County Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-07-02T03:47:04Z",
+  "has_problems": false,
+  "have": "0814474268",
+  "name": "94f91603f5de40e4afeedffe32dfe8cc",
   "country": "US",
   "state": "AZ",
-  "title": "Pima County Library",
   "linktemplate": "http://librarycatalog.pima.gov/search/?searchtype=i&SORT=D&searcharg={rft:isbn}&searchscope=8&submit=Submit"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "could not find anything matching",
+  "was_valid": "2015-06-27T10:16:03Z",
+  "title": "Sonoma County Library - Cloverdale",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-27T10:16:03Z",
+  "has_problems": false,
+  "have": "0545010225",
+  "name": "us.ca.sonoma_county_library_cloverdale",
   "country": "US",
   "state": "CA",
-  "title": "Sonoma County Library - Cloverdale",
   "linktemplate": "http://catalog.sonomalibrary.org/ipac20/ipac.jsp?menu=search&index=ISBNEX&term={rft:isbn}&LO01=clov"
 }

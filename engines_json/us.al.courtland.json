@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373872704",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-03-16T12:20:59Z",
+  "title": "Courtland",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://www.lmn.lib.al.us/search/i?0439786770&searchscope=10",
+  "problem_count": 44,
+  "tested": "2015-06-26T02:58:13Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.al.courtland",
   "country": "US",
   "state": "AL",
-  "title": "Courtland",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=10"
 }

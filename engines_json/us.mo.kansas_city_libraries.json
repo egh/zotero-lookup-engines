@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-07-03T02:02:11Z",
+  "title": "Kansas City Libraries",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-07-03T02:02:11Z",
+  "has_problems": false,
+  "have": "0439786770",
+  "name": "us.mo.kansas_city_libraries",
   "country": "US",
   "state": "MO",
-  "title": "Kansas City Libraries",
   "linktemplate": "http://kcmo.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ALL"
 }

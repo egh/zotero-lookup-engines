@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2015-06-25T17:13:04Z",
+  "title": "Indianapolis - Saint Philip Neri School",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-25T17:13:04Z",
+  "has_problems": false,
+  "have": "043935806X",
+  "name": "us.in.indianapolis_saint_philip_neri_school",
   "country": "US",
   "state": "IN",
-  "title": "Indianapolis - Saint Philip Neri School",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Saint+Philip+Neri+School"
 }

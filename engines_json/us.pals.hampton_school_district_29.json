@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-28T22:13:13Z",
+  "title": "LS - Hampton School District 29",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HAMG-6&sort_by=ANY%27",
+  "problem_count": 100,
+  "tested": "2015-06-24T20:43:22Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.pals.hampton_school_district_29",
   "country": "US",
   "state": "PA",
-  "title": "LS - Hampton School District 29",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HAMG-6&sort_by=ANY%27"
 }

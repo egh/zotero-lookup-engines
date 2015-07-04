@@ -1,6 +1,17 @@
 {
+  "match_isbn": true,
+  "dont": "032119375X",
+  "is_community": false,
+  "missing": null,
+  "was_valid": "2012-05-24T22:34:44Z",
+  "title": "PALNI - Saint Joseph's College",
+  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnsjp&scan_start=0325000301",
+  "problem_count": 107,
+  "tested": "2015-07-03T20:32:11Z",
+  "has_problems": true,
+  "have": "0325000301",
+  "name": "us.in.palni_saint_josephs_college",
   "country": "US",
   "state": "IN",
-  "title": "PALNI - Saint Joseph's College",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnsjp&scan_start={rft:isbn}"
 }

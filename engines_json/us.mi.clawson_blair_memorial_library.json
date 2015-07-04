@@ -1,6 +1,16 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches in the library you searched",
+  "title": "Clawson--Blair Memorial Library",
+  "problems": "DNS lookup failed for URL: http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-CLAWSON",
+  "problem_count": 168,
+  "tested": "2015-07-01T23:02:01Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.mi.clawson_blair_memorial_library",
   "country": "US",
   "state": "MI",
-  "title": "Clawson--Blair Memorial Library",
   "linktemplate": "http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-CLAWSON"
 }

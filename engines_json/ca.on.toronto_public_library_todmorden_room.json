@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No results for",
+  "was_valid": "2012-03-27T12:45:57Z",
+  "title": "Toronto Public Library - Todmorden Room",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&N=0&advancedSearch=true&Ntt=0373691122&N=33182",
+  "problem_count": 112,
+  "tested": "2015-06-28T08:16:15Z",
+  "has_problems": true,
+  "have": "9781551929767",
+  "name": "ca.on.toronto_public_library_todmorden_room",
   "country": "CA",
   "state": "ON",
-  "title": "Toronto Public Library - Todmorden Room",
   "linktemplate": "http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&N=0&advancedSearch=true&Ntt={rft:isbn}&N=33182"
 }

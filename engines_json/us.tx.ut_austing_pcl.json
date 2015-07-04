@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-29T02:01:11Z",
+  "title": "UT Austin  - PCL (Perry Castaneda Library)",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-29T02:01:11Z",
+  "has_problems": false,
+  "have": "0399155341",
+  "name": "us.tx.ut_austing_pcl",
   "country": "US",
   "state": "TX",
-  "title": "UT Austin  - PCL (Perry Castaneda Library)",
   "linktemplate": "http://catalog.lib.utexas.edu/search/i?SEARCH={rft:isbn}&searchscope=23"
 }

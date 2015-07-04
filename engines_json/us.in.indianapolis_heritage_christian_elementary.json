@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2015-06-26T23:13:01Z",
+  "title": "Indianapolis - Heritage Christian Elementary",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-26T23:13:01Z",
+  "has_problems": false,
+  "have": "0310220874",
+  "name": "us.in.indianapolis_heritage_christian_elementary",
   "country": "US",
   "state": "IN",
-  "title": "Indianapolis - Heritage Christian Elementary",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Heritage+Christian+Elementary"
 }

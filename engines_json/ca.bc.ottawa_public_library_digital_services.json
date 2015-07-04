@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No direct matches were found",
+  "was_valid": "2015-06-28T22:16:01Z",
+  "title": "Ottawa Public Library - Digital Services",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-28T22:16:01Z",
+  "has_problems": false,
+  "have": "1412107687",
+  "name": "ca.bc.ottawa_public_library_digital_services",
   "country": "CA",
   "state": "BC",
-  "title": "Ottawa Public Library - Digital Services",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Digital+Services%22&custom_edit=false"
 }

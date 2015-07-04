@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-03-31T18:06:16Z",
+  "title": "NYPL - Wakefield",
+  "problems": "Existing item not found!\n",
+  "problem_count": 43,
+  "tested": "2015-06-30T17:46:05Z",
+  "has_problems": true,
+  "have": "0545139708",
+  "name": "us.ny.nypl.wakefield",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Wakefield",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=85"
 }

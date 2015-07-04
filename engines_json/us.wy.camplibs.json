@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-06-25T05:43:03Z",
+  "title": "Campbell County Library System",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-25T05:43:03Z",
+  "has_problems": false,
+  "have": "9780545010221",
+  "name": "us.wy.camplibs",
   "country": "US",
   "state": "WY",
-  "title": "Campbell County Library System",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=campweb&library=CAMPLIBS&searchdata1={rft:isbn}"
 }

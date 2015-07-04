@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No results for",
+  "was_valid": "2012-03-27T06:25:51Z",
+  "title": "Toronto Public Library - Humber Bay",
+  "problems": "Existing item not found!\n",
+  "problem_count": 112,
+  "tested": "2015-06-28T02:01:02Z",
+  "has_problems": true,
+  "have": "9781551929767",
+  "name": "ca.on.toronto_public_library_humber_bay",
   "country": "CA",
   "state": "ON",
-  "title": "Toronto Public Library - Humber Bay",
   "linktemplate": "http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&N=0&advancedSearch=true&Ntt={rft:isbn}&N=33135"
 }

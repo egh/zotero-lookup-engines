@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2015-06-26T23:43:05Z",
+  "title": "Indianapolis - Holy Angels School",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-26T23:43:05Z",
+  "has_problems": false,
+  "have": "1600062342",
+  "name": "us.in.indianapolis_holy_angels_school",
   "country": "US",
   "state": "IN",
-  "title": "Indianapolis - Holy Angels School",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Holy+Angels+School"
 }

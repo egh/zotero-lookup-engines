@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found;",
+  "was_valid": "2012-03-29T10:58:02Z",
+  "title": "NOBLE - Montserrat College of Art",
+  "problems": "Missing item found!\n",
+  "problem_count": 112,
+  "tested": "2015-06-30T06:01:01Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.ma.noble_montserrat_college_of_art",
   "country": "US",
   "state": "MA",
-  "title": "NOBLE - Montserrat College of Art",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=42"
 }

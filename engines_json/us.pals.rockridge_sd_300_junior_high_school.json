@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-24T17:47:34Z",
+  "title": "LS - Rockridge SD 300 - Junior High School",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ROJG-8&sort_by=ANY%27",
+  "problem_count": 101,
+  "tested": "2015-07-01T05:17:22Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.pals.rockridge_sd_300_junior_high_school",
   "country": "US",
   "state": "PA",
-  "title": "LS - Rockridge SD 300 - Junior High School",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ROJG-8&sort_by=ANY%27"
 }

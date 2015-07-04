@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-30T02:01:09Z",
+  "title": "Winchester Public Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T02:01:09Z",
+  "has_problems": false,
+  "have": "0394839129",
+  "name": "us.ma.winchester_public",
   "country": "US",
   "state": "MA",
-  "title": "Winchester Public Library",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=42"
 }

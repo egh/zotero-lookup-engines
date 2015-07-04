@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2014-08-11T08:04:06Z",
+  "title": "Converse Co. - Glenrock Branch",
+  "problems": "Existing item not found!\n",
+  "problem_count": 30,
+  "tested": "2015-06-25T08:58:08Z",
+  "has_problems": true,
+  "have": "0439139600",
+  "name": "us.wy.conv-glen",
   "country": "US",
   "state": "WY",
-  "title": "Converse Co. - Glenrock Branch",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=conv-glenweb&library=CONV-GLEN&searchdata1={rft:isbn}"
 }

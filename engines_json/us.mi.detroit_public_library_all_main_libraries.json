@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "found no matches ",
+  "was_valid": "2015-06-13T21:27:03Z",
+  "title": "Detroit Public Library - All Main Libraries",
+  "problems": "Existing item not found!\n",
+  "problem_count": 1,
+  "tested": "2015-06-24T09:43:05Z",
+  "has_problems": true,
+  "have": "9781601622617",
+  "name": "us.mi.detroit_public_library_all_main_libraries",
   "country": "US",
   "state": "MI",
-  "title": "Detroit Public Library - All Main Libraries",
   "linktemplate": "http://dplopac.detroitpubliclibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=MAINLIB"
 }

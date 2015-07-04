@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2011-10-30T19:43:43Z",
+  "title": "Chicago Cicero Branch",
+  "problems": "Missing item found!\n",
+  "problem_count": 127,
+  "tested": "2015-06-27T20:01:02Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.il.chicago_cicero_branch",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Cicero Branch",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=34"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-02-15T20:42:15Z",
+  "title": "Chicago Markham Bookmobile",
+  "problems": "Missing item found!\n",
+  "problem_count": 47,
+  "tested": "2015-06-29T06:46:03Z",
+  "has_problems": true,
+  "have": "0590058967",
+  "name": "us.il.chicago_markham_bookmobile",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Markham Bookmobile",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=7"
 }

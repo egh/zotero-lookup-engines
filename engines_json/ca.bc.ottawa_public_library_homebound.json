@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No direct matches were found",
+  "was_valid": "2015-06-28T22:31:11Z",
+  "title": "Ottawa Public Library - Homebound",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-28T22:31:11Z",
+  "has_problems": false,
+  "have": "9781412136594",
+  "name": "ca.bc.ottawa_public_library_homebound",
   "country": "CA",
   "state": "BC",
-  "title": "Ottawa Public Library - Homebound",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Homebound%22&custom_edit=false"
 }

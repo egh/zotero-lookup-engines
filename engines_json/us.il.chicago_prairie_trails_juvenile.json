@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-02-16T00:58:03Z",
+  "title": "Chicago Prairie Trails Juvenile",
+  "problems": "Missing item found!\n",
+  "problem_count": 47,
+  "tested": "2015-06-29T11:01:03Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.il.chicago_prairie_trails_juvenile",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Prairie Trails Juvenile",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=119"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-03T20:48:04Z",
+  "title": "Hamilton - Mt. Healthy",
+  "problems": "Missing item found!\n",
+  "problem_count": 103,
+  "tested": "2015-07-01T12:17:02Z",
+  "has_problems": true,
+  "have": "0741112728",
+  "name": "us.oh.hamilton_county_mt._healthy",
   "country": "US",
   "state": "OH",
-  "title": "Hamilton - Mt. Healthy",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MTHEALTHY"
 }

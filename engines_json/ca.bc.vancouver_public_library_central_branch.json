@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No direct matches were found",
+  "was_valid": "2015-06-28T14:16:03Z",
+  "title": "Vancouver Public Library - Central Branch",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-28T14:16:03Z",
+  "has_problems": false,
+  "have": "9948033841",
+  "name": "ca.bc.vancouver_public_library_central_branch",
   "country": "CA",
   "state": "BC",
-  "title": "Vancouver Public Library - Central Branch",
   "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Central+Branch%22&custom_edit=false"
 }

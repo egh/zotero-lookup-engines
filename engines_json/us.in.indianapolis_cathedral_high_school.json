@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2015-06-25T16:28:01Z",
+  "title": "Indianapolis - Cathedral High School",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-25T16:28:01Z",
+  "has_problems": false,
+  "have": "043935806X",
+  "name": "us.in.indianapolis_cathedral_high_school",
   "country": "US",
   "state": "IN",
-  "title": "Indianapolis - Cathedral High School",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Cathedral+High+School"
 }

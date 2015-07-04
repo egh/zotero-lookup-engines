@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No catalog results found",
+  "was_valid": "2013-12-04T15:44:03Z",
+  "title": "Houston Public Library",
+  "problems": "DNS lookup failed for URL: http://encore.houstonlibrary.org/iii/encore/search/C%7CS043935806X%7COrightresult%7CU1?lang=eng&suite=pearl",
+  "problem_count": 54,
+  "tested": "2015-06-30T09:16:02Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.tx.houston_public_library",
   "country": "US",
   "state": "TX",
-  "title": "Houston Public Library",
   "linktemplate": "http://encore.houstonlibrary.org/iii/encore/search/C%7CS{rft:isbn}%7COrightresult%7CU1?lang=eng&suite=pearl"
 }

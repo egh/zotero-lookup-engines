@@ -1,6 +1,17 @@
 {
+  "match_isbn": true,
+  "dont": "032119375X",
+  "is_community": false,
+  "missing": null,
+  "was_valid": "2012-01-04T17:44:30Z",
+  "title": "PALNI - Marian College",
+  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnmcp&scan_start=0323003052",
+  "problem_count": 120,
+  "tested": "2015-06-30T02:16:09Z",
+  "has_problems": true,
+  "have": "0323003052",
+  "name": "us.in.palni_marian_college",
   "country": "US",
   "state": "IN",
-  "title": "PALNI - Marian College",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnmcp&scan_start={rft:isbn}"
 }

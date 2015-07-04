@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2013-05-05T19:36:11Z",
+  "title": "Columbus Metropolitan Library - Main",
+  "problems": "Missing item found!\n",
+  "problem_count": 74,
+  "tested": "2015-06-29T21:16:14Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.oh.columbus_metropolitan_library_main",
   "country": "US",
   "state": "OH",
-  "title": "Columbus Metropolitan Library - Main",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Main"
 }

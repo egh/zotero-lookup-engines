@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-02-16T05:13:41Z",
+  "title": "Chicago Westchester Juvenile",
+  "problems": "Missing item found!\n",
+  "problem_count": 47,
+  "tested": "2015-06-29T15:16:02Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.il.chicago_westchester_juvenile",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Westchester Juvenile",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=152"
 }

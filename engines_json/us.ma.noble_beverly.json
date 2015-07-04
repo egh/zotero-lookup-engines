@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found;",
+  "was_valid": "2012-05-24T03:47:15Z",
+  "title": "NOBLE - Beverly",
+  "problems": "Missing item found!\n",
+  "problem_count": 107,
+  "tested": "2015-07-03T02:17:03Z",
+  "has_problems": true,
+  "have": "0439785421",
+  "name": "us.ma.noble_beverly",
   "country": "US",
   "state": "MA",
-  "title": "NOBLE - Beverly",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=1"
 }

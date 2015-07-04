@@ -1,6 +1,17 @@
 {
+  "match_isbn": true,
+  "dont": "032119375X",
+  "is_community": false,
+  "missing": null,
+  "was_valid": "2012-08-31T04:48:52Z",
+  "title": "PALNI - Ancilla College",
+  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnacp&scan_start=0321342321",
+  "problem_count": 97,
+  "tested": "2015-06-26T06:58:03Z",
+  "has_problems": true,
+  "have": "0321342321",
+  "name": "us.in.palni_ancilla_college",
   "country": "US",
   "state": "IN",
-  "title": "PALNI - Ancilla College",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnacp&scan_start={rft:isbn}"
 }

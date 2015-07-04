@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2014-08-11T21:12:23Z",
+  "title": "Platte Co. Library",
+  "problems": "Existing item not found!\n",
+  "problem_count": 30,
+  "tested": "2015-06-25T21:58:07Z",
+  "has_problems": true,
+  "have": "0439139600",
+  "name": "us.wy.plat",
   "country": "US",
   "state": "WY",
-  "title": "Platte Co. Library",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=platweb&library=PLAT&searchdata1={rft:isbn}"
 }

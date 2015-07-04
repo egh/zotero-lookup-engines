@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-17T07:03:52Z",
+  "title": "LS - Erie CUSD 1 - High School",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=EHSG-9&sort_by=ANY%27",
+  "problem_count": 102,
+  "tested": "2015-07-04T07:47:12Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.pals.erie_cusd_1_high_school",
   "country": "US",
   "state": "PA",
-  "title": "LS - Erie CUSD 1 - High School",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=EHSG-9&sort_by=ANY%27"
 }

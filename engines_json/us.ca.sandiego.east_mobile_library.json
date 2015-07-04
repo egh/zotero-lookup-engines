@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-01-08T19:49:31Z",
+  "title": "San Diego - East Mobile Library",
+  "problems": "Existing item not found!\n",
+  "problem_count": 16,
+  "tested": "2015-06-27T07:31:06Z",
+  "has_problems": true,
+  "have": "0882665456",
+  "name": "us.ca.sandiego.east_mobile_library",
   "country": "US",
   "state": "CA",
-  "title": "San Diego - East Mobile Library",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=11"
 }

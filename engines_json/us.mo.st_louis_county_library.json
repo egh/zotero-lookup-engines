@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found;",
+  "was_valid": "2015-06-30T04:01:04Z",
+  "title": "St. Louis County Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T04:01:04Z",
+  "has_problems": false,
+  "have": "0394839129",
+  "name": "us.mo.st_louis_county_library",
   "country": "US",
   "state": "MO",
-  "title": "St. Louis County Library",
   "linktemplate": "http://webpac.slcl.org/search/i={rft:isbn}&searchscope=32"
 }

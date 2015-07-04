@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "074254463x",
+  "is_community": false,
+  "missing": "No matches found;",
+  "was_valid": "2015-06-29T18:01:01Z",
+  "title": "Curry College",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-29T18:01:01Z",
+  "has_problems": false,
+  "have": "0742544338",
+  "name": "us.ma.curry_college",
   "country": "US",
   "state": "MA",
-  "title": "Curry College",
   "linktemplate": "http://artemis.curry.edu/search/i?{rft:isbn}"
 }

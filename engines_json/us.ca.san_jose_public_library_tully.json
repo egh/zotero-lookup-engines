@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No available matches found",
+  "was_valid": "2014-11-14T21:53:57Z",
+  "title": "San Jose Public Library - Tully",
+  "problems": "Existing item not found!\n",
+  "problem_count": 21,
+  "tested": "2015-06-25T10:43:17Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.ca.san_jose_public_library_tully",
   "country": "US",
   "state": "CA",
-  "title": "San Jose Public Library - Tully",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&availlim=1&searchscope=30"
 }

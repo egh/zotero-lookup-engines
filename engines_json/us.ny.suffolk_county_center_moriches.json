@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-05-19T18:39:13Z",
+  "title": "Suffolk County - Center Moriches",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=8",
+  "problem_count": 4,
+  "tested": "2015-06-30T19:16:11Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.ny.suffolk_county_center_moriches",
   "country": "US",
   "state": "NY",
-  "title": "Suffolk County - Center Moriches",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=8"
 }

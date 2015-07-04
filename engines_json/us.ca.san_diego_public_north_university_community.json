@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-06-29T00:46:13Z",
+  "title": "San Diego Public - North University Community",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-29T00:46:13Z",
+  "has_problems": false,
+  "have": "0439136350",
+  "name": "us.ca.san_diego_public_north_university_community",
   "country": "US",
   "state": "CA",
-  "title": "San Diego Public - North University Community",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=N_UNIV_COM"
 }

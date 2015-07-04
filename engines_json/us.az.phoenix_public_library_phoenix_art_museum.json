@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No results were found for your query.",
+  "was_valid": "2013-09-25T12:38:38Z",
+  "title": "Phoenix Public Library - Phoenix Art Museum",
+  "problems": "Missing item found!\n",
+  "problem_count": 61,
+  "tested": "2015-07-04T12:17:01Z",
+  "has_problems": true,
+  "have": "1887896821",
+  "name": "us.az.phoenix_public_library_phoenix_art_museum",
   "country": "US",
   "state": "AZ",
-  "title": "Phoenix Public Library - Phoenix Art Museum",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=6659"
 }

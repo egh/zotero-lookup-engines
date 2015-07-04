@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2013-06-25T23:37:14Z",
+  "title": "Chicago Blue Island Juvenile",
+  "problems": "Missing item found!\n",
+  "problem_count": 69,
+  "tested": "2015-06-27T17:46:04Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.il.chicago_blue_island_juvenile",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Blue Island Juvenile",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=19"
 }

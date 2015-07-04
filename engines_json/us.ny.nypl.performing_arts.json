@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-30T15:46:03Z",
+  "title": "NYPL - Performing Arts",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T15:46:03Z",
+  "has_problems": false,
+  "have": "0321015770",
+  "name": "us.ny.nypl.performing_arts",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Performing Arts",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=61"
 }

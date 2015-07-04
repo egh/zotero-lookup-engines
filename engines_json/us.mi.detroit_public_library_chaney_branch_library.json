@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "found no matches ",
+  "was_valid": "2013-11-07T10:04:35Z",
+  "title": "Detroit Public Library - Chaney Branch Library",
+  "problems": "Existing item not found!\n",
+  "problem_count": 56,
+  "tested": "2015-06-24T10:13:07Z",
+  "has_problems": true,
+  "have": "9780061554131",
+  "name": "us.mi.detroit_public_library_chaney_branch_library",
   "country": "US",
   "state": "MI",
-  "title": "Detroit Public Library - Chaney Branch Library",
   "linktemplate": "http://dplopac.detroitpubliclibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=BRCY"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-06-25T08:28:12Z",
+  "title": "Casper College Western History",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-25T08:28:12Z",
+  "has_problems": false,
+  "have": "0890134359",
+  "name": "us.wy.ccwhc",
   "country": "US",
   "state": "WY",
-  "title": "Casper College Western History",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=ccwhcweb&library=CCWHC&searchdata1={rft:isbn}"
 }

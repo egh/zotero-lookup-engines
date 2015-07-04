@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-06-25T23:13:13Z",
+  "title": "Sheridan College - Gillette Campus Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-25T23:13:13Z",
+  "has_problems": false,
+  "have": "0517580306",
+  "name": "us.wy.shrc-gilc",
   "country": "US",
   "state": "WY",
-  "title": "Sheridan College - Gillette Campus Library",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=shrc-gilcweb&library=SHRC-GILC&searchdata1={rft:isbn}"
 }

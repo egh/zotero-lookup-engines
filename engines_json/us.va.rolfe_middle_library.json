@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-11-07T05:32:45Z",
+  "title": "Rolfe Middle Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1=0590353403&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ROLFE-MS",
+  "problem_count": 125,
+  "tested": "2015-06-24T23:13:21Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.va.rolfe_middle_library",
   "country": "US",
   "state": "VA",
-  "title": "Rolfe Middle Library",
   "linktemplate": "http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ROLFE-MS"
 }

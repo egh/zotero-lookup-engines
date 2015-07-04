@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2014-07-10T18:37:50Z",
+  "title": "Indianapolis - Central Catholic School",
+  "problems": "Existing item not found!\n",
+  "problem_count": 33,
+  "tested": "2015-06-25T16:43:04Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.in.indianapolis_central_catholic_school",
   "country": "US",
   "state": "IN",
-  "title": "Indianapolis - Central Catholic School",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Central+Catholic+School"
 }

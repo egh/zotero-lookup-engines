@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-01-15T06:01:14Z",
+  "title": "Chicago Schiller Park Juvenile",
+  "problems": "Missing item found!\n",
+  "problem_count": 50,
+  "tested": "2015-06-29T12:31:02Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.il.chicago_schiller_park_juvenile",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Schiller Park Juvenile",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=132"
 }

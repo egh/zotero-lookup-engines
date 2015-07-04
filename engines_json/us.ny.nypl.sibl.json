@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-29T04:01:08Z",
+  "title": "NYPL - SIBL",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-29T04:01:08Z",
+  "has_problems": false,
+  "have": "0321159861",
+  "name": "us.ny.nypl.sibl",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - SIBL",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=68"
 }

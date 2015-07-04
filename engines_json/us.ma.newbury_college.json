@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2011-07-31T09:30:25Z",
+  "title": "Newbury College Library",
+  "problems": "Existing item not found!\n",
+  "problem_count": 150,
+  "tested": "2015-06-30T00:31:14Z",
+  "has_problems": true,
+  "have": "0060907924",
+  "name": "us.ma.newbury_college",
   "country": "US",
   "state": "MA",
-  "title": "Newbury College Library",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=30"
 }

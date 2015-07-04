@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-10-29T03:23:13Z",
+  "title": "Waukesha County - Elm Grove",
+  "problems": "Missing item found!\n",
+  "problem_count": 92,
+  "tested": "2015-07-02T07:17:11Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.wi.waukesha_county_elm_grove_public_library",
   "country": "US",
   "state": "WI",
-  "title": "Waukesha County - Elm Grove",
   "linktemplate": "http://www.cafelibraries.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ELM_GROVE^LIBR"
 }

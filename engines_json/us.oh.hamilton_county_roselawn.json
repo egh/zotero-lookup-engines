@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-25T00:37:06Z",
+  "title": "Hamilton - Roselawn",
+  "problems": "Missing item found!\n",
+  "problem_count": 101,
+  "tested": "2015-07-01T12:32:01Z",
+  "has_problems": true,
+  "have": "",
+  "name": "us.oh.hamilton_county_roselawn",
   "country": "US",
   "state": "OH",
-  "title": "Hamilton - Roselawn",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ROSELAWN"
 }

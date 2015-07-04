@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-01-19T04:33:34Z",
+  "title": "San Diego Public - Linda Vista",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1=0967865204&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=LINDA_VSTA",
+  "problem_count": 15,
+  "tested": "2015-06-27T01:43:27Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.ca.san_diego_public_linda_vista",
   "country": "US",
   "state": "CA",
-  "title": "San Diego Public - Linda Vista",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=LINDA_VSTA"
 }

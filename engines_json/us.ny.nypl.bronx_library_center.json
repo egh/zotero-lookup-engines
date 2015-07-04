@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-30T09:46:07Z",
+  "title": "NYPL - Bronx Library Center",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T09:46:07Z",
+  "has_problems": false,
+  "have": "0545139708",
+  "name": "us.ny.nypl.bronx_library_center",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Bronx Library Center",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=14"
 }

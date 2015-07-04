@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-29T01:31:07Z",
+  "title": "UT Austin  - All",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-29T01:31:07Z",
+  "has_problems": false,
+  "have": "0399155341",
+  "name": "us.tx.ut_austing_all",
   "country": "US",
   "state": "TX",
-  "title": "UT Austin  - All",
   "linktemplate": "http://catalog.lib.utexas.edu/search/i?SEARCH={rft:isbn}&searchscope=29"
 }

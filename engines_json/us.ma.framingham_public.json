@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-29T19:01:04Z",
+  "title": "Framingham Public Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-29T19:01:04Z",
+  "has_problems": false,
+  "have": "0394839129",
+  "name": "us.ma.framingham_public",
   "country": "US",
   "state": "MA",
-  "title": "Framingham Public Library",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=14"
 }

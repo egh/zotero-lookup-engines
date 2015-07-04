@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-30T01:16:06Z",
+  "title": "Sudbury's Goodnow Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T01:16:06Z",
+  "has_problems": false,
+  "have": "0394900014",
+  "name": "us.ma.sudbury_goodnow",
   "country": "US",
   "state": "MA",
-  "title": "Sudbury's Goodnow Library",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=35"
 }

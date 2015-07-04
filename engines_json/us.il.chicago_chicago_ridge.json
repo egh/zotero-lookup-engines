@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-02-25T00:13:31Z",
+  "title": "Chicago Chicago Ridge",
+  "problems": "Missing item found!\n",
+  "problem_count": 46,
+  "tested": "2015-06-27T19:46:04Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.il.chicago_chicago_ridge",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Chicago Ridge",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=30"
 }

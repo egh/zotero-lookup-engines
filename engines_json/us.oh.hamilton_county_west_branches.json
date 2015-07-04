@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-25T04:11:26Z",
+  "title": "Hamilton - West Branches",
+  "problems": "Missing item found!\n",
+  "problem_count": 101,
+  "tested": "2015-07-01T15:53:02Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.oh.hamilton_county_west_branches",
   "country": "US",
   "state": "OH",
-  "title": "Hamilton - West Branches",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=WEST"
 }

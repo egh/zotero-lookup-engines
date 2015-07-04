@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2013-04-23T16:05:45Z",
+  "title": "Fort Vancouver Regional Library - White Salmon Valley Community Library",
+  "problems": "Missing item found!\n",
+  "problem_count": 75,
+  "tested": "2015-06-28T13:01:03Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.wa.fort_vancouver_regional_library_white_salmon_valley_community_library",
   "country": "US",
   "state": "WA",
-  "title": "Fort Vancouver Regional Library - White Salmon Valley Community Library",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=FV-WS"
 }

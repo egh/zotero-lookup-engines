@@ -1,6 +1,16 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No available matches found",
+  "title": "San Jose Public Library - IRC",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg=0517560984&availlim=1&searchscope=35",
+  "problem_count": 145,
+  "tested": "2015-06-25T11:43:10Z",
+  "has_problems": true,
+  "have": "0517560984",
+  "name": "us.ca.san_jose_public_library_irc",
   "country": "US",
   "state": "CA",
-  "title": "San Jose Public Library - IRC",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&availlim=1&searchscope=35"
 }

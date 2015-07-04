@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-05-30T12:40:13Z",
+  "title": "Suffolk County - Lindenhurst",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=35",
+  "problem_count": 3,
+  "tested": "2015-07-01T01:02:11Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.ny.suffolk_county_lindenhurst",
   "country": "US",
   "state": "NY",
-  "title": "Suffolk County - Lindenhurst",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=35"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-17T06:02:53Z",
+  "title": "LS - Fountaindale Bookmobile",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=FBKB-1&sort_by=ANY%27",
+  "problem_count": 102,
+  "tested": "2015-07-04T06:32:21Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.pals.fountaindale_bookmobile",
   "country": "US",
   "state": "PA",
-  "title": "LS - Fountaindale Bookmobile",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=FBKB-1&sort_by=ANY%27"
 }

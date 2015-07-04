@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2015-06-25T17:58:00Z",
+  "title": "Indianapolis - Cardinal Ritter High School",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-25T17:58:00Z",
+  "has_problems": false,
+  "have": "0385523416",
+  "name": "us.in.indianapolis_cardinal_ritter_high_school",
   "country": "US",
   "state": "IN",
-  "title": "Indianapolis - Cardinal Ritter High School",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Cardinal+Ritter+High+School"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-16T19:57:05Z",
+  "title": "San Diego - Imperial Beach Branch",
+  "problems": "Existing item not found!\n",
+  "problem_count": 1,
+  "tested": "2015-06-27T08:16:02Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.ca.sandiego.imperial_beach_branch",
   "country": "US",
   "state": "CA",
-  "title": "San Diego - Imperial Beach Branch",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=17"
 }

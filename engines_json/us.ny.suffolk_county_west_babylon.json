@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-12-01T11:24:02Z",
+  "title": "Suffolk County - West Babylon",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=67",
+  "problem_count": 20,
+  "tested": "2015-07-01T09:02:23Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.ny.suffolk_county_west_babylon",
   "country": "US",
   "state": "NY",
-  "title": "Suffolk County - West Babylon",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=67"
 }

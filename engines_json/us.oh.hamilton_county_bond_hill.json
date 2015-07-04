@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-25T00:06:24Z",
+  "title": "Hamilton - Bond Hill",
+  "problems": "Missing item found!\n",
+  "problem_count": 101,
+  "tested": "2015-07-01T11:47:02Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.oh.hamilton_county_bond_hill",
   "country": "US",
   "state": "OH",
-  "title": "Hamilton - Bond Hill",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=BOND_HILL"
 }

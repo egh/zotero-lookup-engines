@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-12-27T20:05:04Z",
+  "title": "Fort Vancouver Regional Library - District Collection",
+  "problems": "Missing item found!\n",
+  "problem_count": 86,
+  "tested": "2015-06-28T11:16:04Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.wa.fort_vancouver_regional_library_district_collection",
   "country": "US",
   "state": "WA",
-  "title": "Fort Vancouver Regional Library - District Collection",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=FV-DIST"
 }

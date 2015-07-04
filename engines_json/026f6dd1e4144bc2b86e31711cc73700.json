@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0345459164",
+  "is_community": true,
+  "missing": "No results found",
+  "was_valid": "2014-12-12T12:11:31Z",
+  "title": "Harvard University Libraries",
+  "problems": "Missing item found!\n",
+  "problem_count": 19,
+  "tested": "2015-07-01T18:32:02Z",
+  "has_problems": true,
+  "have": "0226014878",
+  "name": "026f6dd1e4144bc2b86e31711cc73700",
   "country": "US",
   "state": "MA",
-  "title": "Harvard University Libraries",
   "linktemplate": "http://hollis.harvard.edu/?q=isbn:{rft:isbn}+"
 }

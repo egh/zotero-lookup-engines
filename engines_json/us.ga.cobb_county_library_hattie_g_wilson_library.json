@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2013-01-12T21:16:19Z",
+  "title": "Cobb County Library - Hattie G. Wilson Library",
+  "problems": "Missing item found!\n",
+  "problem_count": 85,
+  "tested": "2015-07-03T19:32:02Z",
+  "has_problems": true,
+  "have": "0375810021",
+  "name": "us.ga.cobb_county_library_hattie_g_wilson_library",
   "country": "US",
   "state": "GA",
-  "title": "Cobb County Library - Hattie G. Wilson Library",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HGWILSON"
 }

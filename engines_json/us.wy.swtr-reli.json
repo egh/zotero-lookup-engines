@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2014-08-11T23:13:34Z",
+  "title": "Sweetwater Co. - Reliance Branch",
+  "problems": "Existing item not found!\n",
+  "problem_count": 30,
+  "tested": "2015-06-26T00:13:05Z",
+  "has_problems": true,
+  "have": "0439139600",
+  "name": "us.wy.swtr-reli",
   "country": "US",
   "state": "WY",
-  "title": "Sweetwater Co. - Reliance Branch",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=swtr-reliweb&library=SWTR-RELI&searchdata1={rft:isbn}"
 }

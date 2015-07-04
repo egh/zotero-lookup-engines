@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "Sorry, could not find anything matching",
+  "was_valid": "2015-07-03T02:32:07Z",
+  "title": "Wichita Falls Public Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-07-03T02:32:07Z",
+  "has_problems": false,
+  "have": "0590353403",
+  "name": "us.tx.wichita_falls_public_library",
   "country": "US",
   "state": "TX",
-  "title": "Wichita Falls Public Library",
   "linktemplate": "http://wfpl.ipac.dynixasp.com/ipac20/ipac.jsp?term={rft:isbn}&index=ISBNEX"
 }

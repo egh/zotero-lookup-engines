@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-06-27T05:46:20Z",
+  "title": "San Diego Public - Rancho Penasquitos",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-27T05:46:20Z",
+  "has_problems": false,
+  "have": "0439136350",
+  "name": "us.ca.san_diego_public_rancho_penasquitos",
   "country": "US",
   "state": "CA",
-  "title": "San Diego Public - Rancho Penasquitos",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=RCHO_PQ"
 }

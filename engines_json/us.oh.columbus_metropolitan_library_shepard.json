@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2012-09-03T21:35:30Z",
+  "title": "Columbus Metropolitan Library - Shepard",
+  "problems": "Missing item found!\n",
+  "problem_count": 97,
+  "tested": "2015-06-29T23:16:11Z",
+  "has_problems": true,
+  "have": "0316034045",
+  "name": "us.oh.columbus_metropolitan_library_shepard",
   "country": "US",
   "state": "OH",
-  "title": "Columbus Metropolitan Library - Shepard",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Shepard"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2013-06-22T11:54:37Z",
+  "title": "San Antonio Public Library - Molly Pruitt at Roosevelt HS",
+  "problems": "Existing item not found!\n",
+  "problem_count": 69,
+  "tested": "2015-06-24T06:28:04Z",
+  "has_problems": true,
+  "have": "032148018X",
+  "name": "us.tx.san_antonio_public_library_molly_pruitt_at_roosevelt_hs",
   "country": "US",
   "state": "TX",
-  "title": "San Antonio Public Library - Molly Pruitt at Roosevelt HS",
   "linktemplate": "http://sapl.sat.lib.tx.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=33"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-05-26T11:39:11Z",
+  "title": "San Diego Public - City Heights/Weingart",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1=0967865204&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CITY_HTS",
+  "problem_count": 3,
+  "tested": "2015-06-26T23:58:14Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.ca.san_diego_public_city_heights/weingart",
   "country": "US",
   "state": "CA",
-  "title": "San Diego Public - City Heights/Weingart",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CITY_HTS"
 }

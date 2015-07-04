@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-11-11T08:18:08Z",
+  "title": "Fort Vancouver Regional Library - Stevenson Community Library",
+  "problems": "Missing item found!\n",
+  "problem_count": 125,
+  "tested": "2015-06-28T12:16:06Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.wa.fort_vancouver_regional_library_stevenson_community_library",
   "country": "US",
   "state": "WA",
-  "title": "Fort Vancouver Regional Library - Stevenson Community Library",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=FV-ST"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-16T00:57:11Z",
+  "title": "Folsom Public Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://www.saclibrarycatalog.org/search~S51/a?searchtype=i&searchscope=50&searcharg=0967865204&Submit=Search",
+  "problem_count": 1,
+  "tested": "2015-06-26T13:13:14Z",
+  "has_problems": true,
+  "have": "014132256X",
+  "name": "us.ca.folsom_public_library",
   "country": "US",
   "state": "CA",
-  "title": "Folsom Public Library",
   "linktemplate": "http://www.saclibrarycatalog.org/search~S51/a?searchtype=i&searchscope=50&searcharg={rft:isbn}&Submit=Search"
 }

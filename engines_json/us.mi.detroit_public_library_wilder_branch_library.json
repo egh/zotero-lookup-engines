@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "found no matches ",
+  "was_valid": "2015-06-24T11:28:07Z",
+  "title": "Detroit Public Library - Wilder Branch Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-24T11:28:07Z",
+  "has_problems": false,
+  "have": "9781601384171",
+  "name": "us.mi.detroit_public_library_wilder_branch_library",
   "country": "US",
   "state": "MI",
-  "title": "Detroit Public Library - Wilder Branch Library",
   "linktemplate": "http://dplopac.detroitpubliclibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=BRWI"
 }

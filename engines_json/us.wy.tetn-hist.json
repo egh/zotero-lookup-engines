@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-06-26T01:13:06Z",
+  "title": "Teton Co. - Historical Soc Museum",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-26T01:13:06Z",
+  "has_problems": false,
+  "have": "0930410831",
+  "name": "us.wy.tetn-hist",
   "country": "US",
   "state": "WY",
-  "title": "Teton Co. - Historical Soc Museum",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=tetn-histweb&library=TETN-HIST&searchdata1={rft:isbn}"
 }

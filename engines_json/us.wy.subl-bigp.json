@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2014-08-11T22:43:04Z",
+  "title": "Sublette Co. - Big Piney Branch",
+  "problems": "Existing item not found!\n",
+  "problem_count": 30,
+  "tested": "2015-06-25T23:28:14Z",
+  "has_problems": true,
+  "have": "0439139600",
+  "name": "us.wy.subl-bigp",
   "country": "US",
   "state": "WY",
-  "title": "Sublette Co. - Big Piney Branch",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=subl-bigpweb&library=SUBL-BIGP&searchdata1={rft:isbn}"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2013-05-31T12:21:50Z",
+  "title": "Charleston County Public Library - John's Island",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=JOHNS_IS",
+  "problem_count": 72,
+  "tested": "2015-07-03T22:02:11Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.sc.charleston_county_public_library_johns_island",
   "country": "US",
   "state": "SC",
-  "title": "Charleston County Public Library - John's Island",
   "linktemplate": "http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=JOHNS_IS"
 }

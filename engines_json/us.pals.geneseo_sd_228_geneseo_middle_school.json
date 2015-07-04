@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-03-02T16:39:24Z",
+  "title": "LS - Geneseo SD 228 - Geneseo Middle School",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0471168564&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GJHG-7&sort_by=ANY%27",
+  "problem_count": 114,
+  "tested": "2015-06-24T17:58:22Z",
+  "has_problems": true,
+  "have": "0471168564",
+  "name": "us.pals.geneseo_sd_228_geneseo_middle_school",
   "country": "US",
   "state": "PA",
-  "title": "LS - Geneseo SD 228 - Geneseo Middle School",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GJHG-7&sort_by=ANY%27"
 }

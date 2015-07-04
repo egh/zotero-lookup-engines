@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2013-05-26T15:53:32Z",
+  "title": "UT Austin  - PCL Reference",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.lib.utexas.edu/search/i?SEARCH=0373691122&searchscope=24",
+  "problem_count": 72,
+  "tested": "2015-06-29T02:16:25Z",
+  "has_problems": true,
+  "have": "0399136630",
+  "name": "us.tx.ut_austin_pcl_reference",
   "country": "US",
   "state": "TX",
-  "title": "UT Austin  - PCL Reference",
   "linktemplate": "http://catalog.lib.utexas.edu/search/i?SEARCH={rft:isbn}&searchscope=24"
 }

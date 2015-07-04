@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-26T23:46:18Z",
+  "title": "LS - DeKalb County Libraries",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DEKALBCNTY&sort_by=ANY%27",
+  "problem_count": 101,
+  "tested": "2015-07-03T11:17:11Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.pals.dekalb_county_libraries",
   "country": "US",
   "state": "PA",
-  "title": "LS - DeKalb County Libraries",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DEKALBCNTY&sort_by=ANY%27"
 }

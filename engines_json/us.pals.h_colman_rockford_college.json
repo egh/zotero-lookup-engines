@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No available matches found; nearby available ISN'S are:",
+  "was_valid": "2015-07-03T11:47:10Z",
+  "title": "LS - H Colman/Rockford College",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-07-03T11:47:10Z",
+  "has_problems": false,
+  "have": "0321015258",
+  "name": "us.pals.h_colman_rockford_college",
   "country": "US",
   "state": "PA",
-  "title": "LS - H Colman/Rockford College",
   "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=5&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"
 }

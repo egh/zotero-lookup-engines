@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-11-12T02:29:24Z",
+  "title": "Waukesha County - Hartland",
+  "problems": "Missing item found!\n",
+  "problem_count": 90,
+  "tested": "2015-06-25T02:58:04Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.wi.waukesha_county_hartland_public_library",
   "country": "US",
   "state": "WI",
-  "title": "Waukesha County - Hartland",
   "linktemplate": "http://www.cafelibraries.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HARTLAND^LIBR"
 }

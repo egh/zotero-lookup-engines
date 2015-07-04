@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2013-06-11T01:23:40Z",
+  "title": "Charleston County Public Library - Folly Beach",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=FOLLY",
+  "problem_count": 71,
+  "tested": "2015-07-03T21:32:21Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.sc.charleston_county_public_library_folly_beach",
   "country": "US",
   "state": "SC",
-  "title": "Charleston County Public Library - Folly Beach",
   "linktemplate": "http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=FOLLY"
 }

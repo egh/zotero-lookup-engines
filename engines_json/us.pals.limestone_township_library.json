@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-30T10:42:28Z",
+  "title": "LS - Limestone Township Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=LIBB-2&sort_by=ANY%27",
+  "problem_count": 100,
+  "tested": "2015-06-26T08:43:24Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.pals.limestone_township_library",
   "country": "US",
   "state": "PA",
-  "title": "LS - Limestone Township Library",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=LIBB-2&sort_by=ANY%27"
 }

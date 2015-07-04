@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-24T13:29:40Z",
+  "title": "LS - Polo Public Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=POLY-14&sort_by=ANY%27",
+  "problem_count": 101,
+  "tested": "2015-07-01T01:02:21Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.pals.polo_public_library",
   "country": "US",
   "state": "PA",
-  "title": "LS - Polo Public Library",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=POLY-14&sort_by=ANY%27"
 }

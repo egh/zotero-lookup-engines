@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2012-10-05T01:51:18Z",
+  "title": "Chicago Palos Park Juvenile",
+  "problems": "Missing item found!\n",
+  "problem_count": 94,
+  "tested": "2015-06-29T10:16:01Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.il.chicago_palos_park_juvenile",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Palos Park Juvenile",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=114"
 }

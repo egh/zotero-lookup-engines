@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-30T11:31:03Z",
+  "title": "NYPL - Harlem",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T11:31:03Z",
+  "has_problems": false,
+  "have": "0545139708",
+  "name": "us.ny.nypl.harlem",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Harlem",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=34"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-24T11:12:53Z",
+  "title": "LS - Pankhurst Memorial Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0590353403&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=PMLY-12&sort_by=ANY%27",
+  "problem_count": 101,
+  "tested": "2015-06-30T22:32:23Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.pals.pankhurst_memorial_library",
   "country": "US",
   "state": "PA",
-  "title": "LS - Pankhurst Memorial Library",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=PMLY-12&sort_by=ANY%27"
 }

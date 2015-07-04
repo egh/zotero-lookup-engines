@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2013-12-29T03:26:39Z",
+  "title": "Wyoming State Law Library",
+  "problems": "Existing item not found!\n",
+  "problem_count": 52,
+  "tested": "2015-07-03T14:17:05Z",
+  "has_problems": true,
+  "have": "9781413313215",
+  "name": "us.wy.wsl-law",
   "country": "US",
   "state": "WY",
-  "title": "Wyoming State Law Library",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=wsl-lawweb&library=WSL-LAW&searchdata1={rft:isbn}"
 }

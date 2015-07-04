@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "We could not find results in the catalog for",
+  "was_valid": "2011-08-25T17:12:24Z",
+  "title": "Seattle Public Library",
+  "problems": "Missing item found!\n",
+  "problem_count": 143,
+  "tested": "2015-07-04T00:47:13Z",
+  "has_problems": true,
+  "have": "032119375x",
+  "name": "us.wa.seattle_public",
   "country": "US",
   "state": "WA",
-  "title": "Seattle Public Library",
   "linktemplate": "http://catalog.spl.org/ipac20/ipac.jsp?index=ISBNEX&term={rft:isbn}"
 }

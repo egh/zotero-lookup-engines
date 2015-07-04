@@ -1,6 +1,16 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "Sorry, could not find anything matching",
+  "title": "South Central Library System",
+  "problems": "Missing item found!\n",
+  "problem_count": 167,
+  "tested": "2015-06-25T02:13:06Z",
+  "has_problems": true,
+  "have": "0394839129",
+  "name": "us.wi.madison_public_library",
   "country": "US",
   "state": "WI",
-  "title": "South Central Library System",
   "linktemplate": "http://www.linkcat.info/ipac20/ipac.jsp?menu=search&term={rft:isbn}&index=CISBN"
 }

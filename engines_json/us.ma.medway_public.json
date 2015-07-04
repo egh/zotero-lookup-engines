@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-29T23:46:05Z",
+  "title": "Medway Public Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-29T23:46:05Z",
+  "has_problems": false,
+  "have": "0394839129",
+  "name": "us.ma.medway_public",
   "country": "US",
   "state": "MA",
-  "title": "Medway Public Library",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=25"
 }

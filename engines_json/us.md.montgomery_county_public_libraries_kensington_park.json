@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-06-10T20:42:03Z",
+  "title": "Montgomery County Public Library- Kensington Park",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=KENSINGTON",
+  "problem_count": 2,
+  "tested": "2015-07-01T21:02:11Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.md.montgomery_county_public_libraries_kensington_park",
   "country": "US",
   "state": "MD",
-  "title": "Montgomery County Public Library- Kensington Park",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=KENSINGTON"
 }

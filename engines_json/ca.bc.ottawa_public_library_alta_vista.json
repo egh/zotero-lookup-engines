@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No direct matches were found",
+  "was_valid": "2015-06-28T17:31:03Z",
+  "title": "Ottawa Public Library - Alta Vista",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-28T17:31:03Z",
+  "has_problems": false,
+  "have": "1551929767",
+  "name": "ca.bc.ottawa_public_library_alta_vista",
   "country": "CA",
   "state": "BC",
-  "title": "Ottawa Public Library - Alta Vista",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Alta+Vista%22&custom_edit=false"
 }

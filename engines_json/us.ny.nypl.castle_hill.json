@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-11-30T12:08:49Z",
+  "title": "NYPL - Castle Hill",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.nypl.org/search/i?SEARCH=0967865204,&sortdropdown=-&searchscope=15",
+  "problem_count": 20,
+  "tested": "2015-06-30T09:46:25Z",
+  "has_problems": true,
+  "have": "0545139708",
+  "name": "us.ny.nypl.castle_hill",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Castle Hill",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=15"
 }

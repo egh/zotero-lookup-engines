@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2014-08-11T22:12:53Z",
+  "title": "Sheridan College Griffith Mem Library",
+  "problems": "Existing item not found!\n",
+  "problem_count": 30,
+  "tested": "2015-06-25T22:58:04Z",
+  "has_problems": true,
+  "have": "0439139600",
+  "name": "us.wy.shrc",
   "country": "US",
   "state": "WY",
-  "title": "Sheridan College Griffith Mem Library",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=shrcweb&library=SHRC&searchdata1={rft:isbn}"
 }

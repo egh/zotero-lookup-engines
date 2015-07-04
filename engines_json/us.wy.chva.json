@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2013-01-04T09:33:52Z",
+  "title": "Cheyenne VA Medical Center",
+  "problems": "Existing item not found!\n",
+  "problem_count": 85,
+  "tested": "2015-06-25T08:43:06Z",
+  "has_problems": true,
+  "have": "0071435263",
+  "name": "us.wy.chva",
   "country": "US",
   "state": "WY",
-  "title": "Cheyenne VA Medical Center",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=chvaweb&library=CHVA&searchdata1={rft:isbn}"
 }

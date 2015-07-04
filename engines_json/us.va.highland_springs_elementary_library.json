@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-11-07T02:11:28Z",
+  "title": "Highland Springs Elementary Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1=059035342X&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HSES",
+  "problem_count": 125,
+  "tested": "2015-06-24T15:13:24Z",
+  "has_problems": true,
+  "have": "059035342X",
+  "name": "us.va.highland_springs_elementary_library",
   "country": "US",
   "state": "VA",
-  "title": "Highland Springs Elementary Library",
   "linktemplate": "http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HSES"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-28T21:42:25Z",
+  "title": "LS - Harvard CUSD 50 - Harvard Junior High School",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0871912031&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HS2Y-11&sort_by=ANY%27",
+  "problem_count": 100,
+  "tested": "2015-06-24T20:13:21Z",
+  "has_problems": true,
+  "have": "0871912031",
+  "name": "us.pals.harvard_cusd_50_harvard_junior_high_school",
   "country": "US",
   "state": "PA",
-  "title": "LS - Harvard CUSD 50 - Harvard Junior High School",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HS2Y-11&sort_by=ANY%27"
 }

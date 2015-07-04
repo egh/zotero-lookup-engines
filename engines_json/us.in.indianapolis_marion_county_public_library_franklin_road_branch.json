@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2015-06-25T14:28:03Z",
+  "title": "Indianapolis - Marion County Public Library - Franklin Road Branch",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-25T14:28:03Z",
+  "has_problems": false,
+  "have": "043935806X",
+  "name": "us.in.indianapolis_marion_county_public_library_franklin_road_branch",
   "country": "US",
   "state": "IN",
-  "title": "Indianapolis - Marion County Public Library - Franklin Road Branch",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Franklin+Road+Branch"
 }

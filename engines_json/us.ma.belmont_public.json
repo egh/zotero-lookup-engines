@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2012-03-28T22:23:34Z",
+  "title": "Belmont Public Library",
+  "problems": "Existing item not found!\n",
+  "problem_count": 112,
+  "tested": "2015-06-29T17:31:10Z",
+  "has_problems": true,
+  "have": "0394839129",
+  "name": "us.ma.belmont_public",
   "country": "US",
   "state": "MA",
-  "title": "Belmont Public Library",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=7"
 }

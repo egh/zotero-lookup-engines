@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-09-10T21:11:38Z",
+  "title": "San Diego Public - San Diego Public Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1=9780805443790&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SDPL",
+  "problem_count": 139,
+  "tested": "2015-07-01T14:47:12Z",
+  "has_problems": true,
+  "have": "9780805443790",
+  "name": "us.ca.san_diego_public_san_diego_public_library",
   "country": "US",
   "state": "CA",
-  "title": "San Diego Public - San Diego Public Library",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SDPL"
 }

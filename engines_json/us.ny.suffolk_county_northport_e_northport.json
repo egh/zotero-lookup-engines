@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-12-01T06:48:58Z",
+  "title": "Suffolk County - Northport-E Northport",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=43",
+  "problem_count": 20,
+  "tested": "2015-07-01T04:32:23Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.ny.suffolk_county_northport_e_northport",
   "country": "US",
   "state": "NY",
-  "title": "Suffolk County - Northport-E Northport",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=43"
 }

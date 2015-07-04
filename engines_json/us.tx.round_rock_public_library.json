@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "Sorry, no matches found.",
+  "was_valid": "2015-06-29T07:31:06Z",
+  "title": "Round Rock Public Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-29T07:31:06Z",
+  "has_problems": false,
+  "have": "0439136350",
+  "name": "us.tx.round_rock_public_library",
   "country": "US",
   "state": "TX",
-  "title": "Round Rock Public Library",
   "linktemplate": "http://cat.round-rock.tx.us:8080/ipac20/ipac.jsp?profile=current-rrpl&ri=&index=ISBNEX&term={rft:isbn}"
 }

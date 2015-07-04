@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-11-02T21:49:43Z",
+  "title": "Longan Elementary Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1=0590353403&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=LONGAN",
+  "problem_count": 126,
+  "tested": "2015-06-24T21:13:11Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.va.longan_elementary_library",
   "country": "US",
   "state": "VA",
-  "title": "Longan Elementary Library",
   "linktemplate": "http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=LONGAN"
 }

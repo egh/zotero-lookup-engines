@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-02-15T23:27:51Z",
+  "title": "Chicago Oak Lawn",
+  "problems": "Missing item found!\n",
+  "problem_count": 47,
+  "tested": "2015-06-29T09:31:07Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.il.chicago_oak_lawn",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Oak Lawn",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=106"
 }

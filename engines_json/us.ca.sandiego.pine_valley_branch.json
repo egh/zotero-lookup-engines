@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-07-03T10:17:04Z",
+  "title": "San Diego - Pine Valley Branch",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-07-03T10:17:04Z",
+  "has_problems": false,
+  "have": "0439173140",
+  "name": "us.ca.sandiego.pine_valley_branch",
   "country": "US",
   "state": "CA",
-  "title": "San Diego - Pine Valley Branch",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=26"
 }

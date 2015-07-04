@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No results were found for your query.",
+  "was_valid": "2012-02-09T19:42:14Z",
+  "title": "Phoenix Public Library - Virtual Library",
+  "problems": "Missing item found!\n",
+  "problem_count": 117,
+  "tested": "2015-07-04T12:17:02Z",
+  "has_problems": true,
+  "have": "0470108274",
+  "name": "us.az.phoenix_public_library_virtual_library",
   "country": "US",
   "state": "AZ",
-  "title": "Phoenix Public Library - Virtual Library",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=8038"
 }

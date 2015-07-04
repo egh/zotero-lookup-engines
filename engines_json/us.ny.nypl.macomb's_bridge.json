@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2011-07-25T05:59:05Z",
+  "title": "NYPL - Macomb's Bridge",
+  "problems": "Existing item not found!\n",
+  "problem_count": 152,
+  "tested": "2015-06-30T13:46:09Z",
+  "has_problems": true,
+  "have": "0545139708",
+  "name": "us.ny.nypl.macomb's_bridge",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Macomb's Bridge",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=45"
 }

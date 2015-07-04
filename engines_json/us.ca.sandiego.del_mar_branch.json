@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-27T07:16:04Z",
+  "title": "San Diego - Del Mar Branch",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-27T07:16:04Z",
+  "has_problems": false,
+  "have": "0439136350",
+  "name": "us.ca.sandiego.del_mar_branch",
   "country": "US",
   "state": "CA",
-  "title": "San Diego - Del Mar Branch",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=9"
 }

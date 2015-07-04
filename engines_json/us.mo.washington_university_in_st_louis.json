@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found;",
+  "was_valid": "2015-06-30T04:16:10Z",
+  "title": "Washington University in St. L",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T04:16:10Z",
+  "has_problems": false,
+  "have": "0262031418",
+  "name": "us.mo.washington_university_in_st_louis",
   "country": "US",
   "state": "MO",
-  "title": "Washington University in St. L",
   "linktemplate": "http://catalog.wustl.edu/search~S2/?searchtype=i&searcharg={rft:isbn}"
 }

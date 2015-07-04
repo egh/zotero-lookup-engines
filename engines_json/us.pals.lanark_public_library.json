@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-30T11:58:47Z",
+  "title": "LS - Lanark Public Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=9780525473473&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=LNLY-14&sort_by=ANY%27",
+  "problem_count": 100,
+  "tested": "2015-06-26T10:13:12Z",
+  "has_problems": true,
+  "have": "9780525473473",
+  "name": "us.pals.lanark_public_library",
   "country": "US",
   "state": "PA",
-  "title": "LS - Lanark Public Library",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=LNLY-14&sort_by=ANY%27"
 }

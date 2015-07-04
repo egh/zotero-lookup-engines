@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "nohits.jsp",
+  "was_valid": "2015-06-26T15:53:09Z",
+  "title": "LA Public - Goldwyn Hollywood Regional Branch",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-26T15:53:09Z",
+  "has_problems": false,
+  "have": "0439136350",
+  "name": "us.ca.los_angeles_public_library_goldwyn_hollywood_regional_branch",
   "country": "US",
   "state": "CA",
-  "title": "LA Public - Goldwyn Hollywood Regional Branch",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=HOLYWD"
 }

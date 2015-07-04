@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2013-08-05T14:20:13Z",
+  "title": "Sweetwater Co. - Wamsutter Branch",
+  "problems": "Existing item not found!\n",
+  "problem_count": 65,
+  "tested": "2015-06-26T00:28:08Z",
+  "has_problems": true,
+  "have": "0439139600",
+  "name": "us.wy.swtr-wams",
   "country": "US",
   "state": "WY",
-  "title": "Sweetwater Co. - Wamsutter Branch",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=swtr-wamsweb&library=SWTR-WAMS&searchdata1={rft:isbn}"
 }

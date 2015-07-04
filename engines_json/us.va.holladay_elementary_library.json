@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-11-02T19:31:01Z",
+  "title": "Holladay Elementary Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1=1604531193&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HOLLADAY",
+  "problem_count": 126,
+  "tested": "2015-06-24T15:43:11Z",
+  "has_problems": true,
+  "have": "1604531193",
+  "name": "us.va.holladay_elementary_library",
   "country": "US",
   "state": "VA",
-  "title": "Holladay Elementary Library",
   "linktemplate": "http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HOLLADAY"
 }

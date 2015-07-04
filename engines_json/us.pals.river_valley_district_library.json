@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-11-05T10:58:17Z",
+  "title": "LS - River Valley District Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=RVLG-7&sort_by=ANY%27",
+  "problem_count": 126,
+  "tested": "2015-07-01T03:32:10Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.pals.river_valley_district_library",
   "country": "US",
   "state": "PA",
-  "title": "LS - River Valley District Library",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=RVLG-7&sort_by=ANY%27"
 }

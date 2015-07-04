@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-01-05T20:07:45Z",
+  "title": "NYPL - Terence Cardinal Cooke-Cathedral",
+  "problems": "Existing item not found!\n",
+  "problem_count": 51,
+  "tested": "2015-06-30T17:01:06Z",
+  "has_problems": true,
+  "have": "0545139708",
+  "name": "us.ny.nypl.terence_cardinal_cooke-cathedral",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Terence Cardinal Cooke-Cathedral",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=77"
 }

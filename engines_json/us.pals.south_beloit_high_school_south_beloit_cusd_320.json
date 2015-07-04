@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-07-20T03:00:07Z",
+  "title": "LS - South Beloit High School - South Beloit CUSD 320",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0440479002&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SWLY-11&sort_by=ANY%27",
+  "problem_count": 154,
+  "tested": "2015-07-04T05:47:10Z",
+  "has_problems": true,
+  "have": "0440479002",
+  "name": "us.pals.south_beloit_high_school_south_beloit_cusd_320",
   "country": "US",
   "state": "PA",
-  "title": "LS - South Beloit High School - South Beloit CUSD 320",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SWLY-11&sort_by=ANY%27"
 }

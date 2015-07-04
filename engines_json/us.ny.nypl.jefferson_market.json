@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-30T12:16:06Z",
+  "title": "NYPL - Jefferson Market",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T12:16:06Z",
+  "has_problems": false,
+  "have": "0545139708",
+  "name": "us.ny.nypl.jefferson_market",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Jefferson Market",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=41"
 }

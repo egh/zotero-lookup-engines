@@ -1,6 +1,16 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches in the library you searched",
+  "title": "Livonia Public Library  All Branches",
+  "problems": "DNS lookup failed for URL: http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-LIVONIA",
+  "problem_count": 168,
+  "tested": "2015-07-02T01:17:01Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.mi.livonia_public_library_all_branches",
   "country": "US",
   "state": "MI",
-  "title": "Livonia Public Library  All Branches",
   "linktemplate": "http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-LIVONIA"
 }

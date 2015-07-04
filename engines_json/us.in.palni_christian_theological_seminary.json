@@ -1,6 +1,17 @@
 {
+  "match_isbn": true,
+  "dont": "032119375X",
+  "is_community": false,
+  "missing": null,
+  "was_valid": "2012-08-04T21:23:53Z",
+  "title": "PALNI - Christian Theological Seminary",
+  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnctp&scan_start=0333023188",
+  "problem_count": 100,
+  "tested": "2015-07-01T19:17:01Z",
+  "has_problems": true,
+  "have": "0333023188",
+  "name": "us.in.palni_christian_theological_seminary",
   "country": "US",
   "state": "IN",
-  "title": "PALNI - Christian Theological Seminary",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnctp&scan_start={rft:isbn}"
 }

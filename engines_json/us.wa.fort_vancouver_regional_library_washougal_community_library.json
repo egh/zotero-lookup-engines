@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2013-01-07T13:43:16Z",
+  "title": "Fort Vancouver Regional Library - Washougal Community Library",
+  "problems": "Missing item found!\n",
+  "problem_count": 85,
+  "tested": "2015-06-28T12:46:05Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.wa.fort_vancouver_regional_library_washougal_community_library",
   "country": "US",
   "state": "WA",
-  "title": "Fort Vancouver Regional Library - Washougal Community Library",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=FV-WA"
 }

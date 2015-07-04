@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-02-25T15:01:22Z",
+  "title": "Chicago Evergreen Park",
+  "problems": "Missing item found!\n",
+  "problem_count": 46,
+  "tested": "2015-06-28T10:46:00Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.il.chicago_evergreen_park",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Evergreen Park",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=52"
 }

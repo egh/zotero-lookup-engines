@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No results were found for your query.",
+  "was_valid": "2013-09-25T10:53:03Z",
+  "title": "Phoenix Public Library - Juniper",
+  "problems": "Missing item found!\n",
+  "problem_count": 61,
+  "tested": "2015-07-04T10:32:09Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.az.phoenix_public_library_juniper",
   "country": "US",
   "state": "AZ",
-  "title": "Phoenix Public Library - Juniper",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=6651"
 }

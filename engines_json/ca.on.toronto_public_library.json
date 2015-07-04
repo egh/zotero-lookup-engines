@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No results for",
+  "was_valid": "2015-06-30T12:46:04Z",
+  "title": "Toronto Public Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T12:46:04Z",
+  "has_problems": false,
+  "have": "0814474268",
+  "name": "ca.on.toronto_public_library",
   "country": "CA",
   "state": "ON",
-  "title": "Toronto Public Library",
   "linktemplate": "http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&N=0&advancedSearch=true&Ntt={rft:isbn}"
 }

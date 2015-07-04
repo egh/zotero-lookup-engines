@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "nohits.jsp",
+  "was_valid": "2015-06-26T19:28:06Z",
+  "title": "LA Public - Sylmar Branch Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-26T19:28:06Z",
+  "has_problems": false,
+  "have": "0439136350",
+  "name": "us.ca.los_angeles_public_library_sylmar_branch_library",
   "country": "US",
   "state": "CA",
-  "title": "LA Public - Sylmar Branch Library",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=SYLMAR"
 }

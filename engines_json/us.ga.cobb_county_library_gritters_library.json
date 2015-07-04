@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2014-07-27T12:55:38Z",
+  "title": "Cobb County Library - Gritters Library",
+  "problems": "Existing item not found!\n",
+  "problem_count": 32,
+  "tested": "2015-07-01T19:02:09Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.ga.cobb_county_library_gritters_library",
   "country": "US",
   "state": "GA",
-  "title": "Cobb County Library - Gritters Library",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GRITTERS"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-02-15T16:41:34Z",
+  "title": "Chicago Frankfort Bookmobile",
+  "problems": "Missing item found!\n",
+  "problem_count": 47,
+  "tested": "2015-06-29T02:46:24Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.il.chicago_frankfort_bookmobile",
   "country": "US",
   "state": "IL",
-  "title": "Chicago Frankfort Bookmobile",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=60"
 }

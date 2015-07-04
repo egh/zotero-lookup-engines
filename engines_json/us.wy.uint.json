@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2014-08-12T00:29:06Z",
+  "title": "Uinta Co. Library",
+  "problems": "Existing item not found!\n",
+  "problem_count": 30,
+  "tested": "2015-06-26T01:28:12Z",
+  "has_problems": true,
+  "have": "0439139600",
+  "name": "us.wy.uint",
   "country": "US",
   "state": "WY",
-  "title": "Uinta Co. Library",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=uintweb&library=UINT&searchdata1={rft:isbn}"
 }

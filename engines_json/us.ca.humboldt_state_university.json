@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0966556453",
+  "is_community": false,
+  "missing": "Search resulted in no hits.",
+  "was_valid": "2015-06-26T13:28:04Z",
+  "title": "Humboldt State University",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-26T13:28:04Z",
+  "has_problems": false,
+  "have": "0826410715",
+  "name": "us.ca.humboldt_state_university",
   "country": "US",
   "state": "CA",
-  "title": "Humboldt State University",
   "linktemplate": "http://voyager.humboldt.edu/vwebv/search?searchArg1={rft:isbn}&argType1=any&searchCode1=ISBN&searchType=2"
 }

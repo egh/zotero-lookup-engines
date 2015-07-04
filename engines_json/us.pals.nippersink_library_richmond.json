@@ -1,6 +1,16 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No available matches found; nearby available ISN'S are:",
+  "title": "LS - Nippersink Library/Richmond",
+  "problems": "Existing item not found!\n",
+  "problem_count": 168,
+  "tested": "2015-07-03T12:47:03Z",
+  "has_problems": true,
+  "have": "0316988898",
+  "name": "us.pals.nippersink_library_richmond",
   "country": "US",
   "state": "PA",
-  "title": "LS - Nippersink Library/Richmond",
   "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=10&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"
 }

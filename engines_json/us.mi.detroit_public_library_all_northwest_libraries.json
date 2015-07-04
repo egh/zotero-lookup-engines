@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "found no matches ",
+  "was_valid": "2015-06-24T07:28:10Z",
+  "title": "Detroit Public Library - All Northwest Libraries",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-24T07:28:10Z",
+  "has_problems": false,
+  "have": "043935806X",
+  "name": "us.mi.detroit_public_library_all_northwest_libraries",
   "country": "US",
   "state": "MI",
-  "title": "Detroit Public Library - All Northwest Libraries",
   "linktemplate": "http://dplopac.detroitpubliclibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=BRANCHESNW"
 }

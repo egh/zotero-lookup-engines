@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No direct matches were found",
+  "was_valid": "2014-08-14T14:59:54Z",
+  "title": "Vancouver Public Library - Joe Fortes Branch",
+  "problems": "Existing item not found!\n",
+  "problem_count": 30,
+  "tested": "2015-06-28T15:31:03Z",
+  "has_problems": true,
+  "have": "9948033841",
+  "name": "ca.bc.vancouver_public_library_joe_fortes_branch",
   "country": "CA",
   "state": "BC",
-  "title": "Vancouver Public Library - Joe Fortes Branch",
   "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Joe+Fortes+Branch+Library%22&custom_edit=false"
 }

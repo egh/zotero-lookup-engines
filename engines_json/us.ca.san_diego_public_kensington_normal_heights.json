@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2014-03-03T00:02:09Z",
+  "title": "San Diego Public - Kensington-Normal Heights",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1=9780446529013&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=KEN-NH",
+  "problem_count": 46,
+  "tested": "2015-07-03T18:17:13Z",
+  "has_problems": true,
+  "have": "9780446529013",
+  "name": "us.ca.san_diego_public_kensington_normal_heights",
   "country": "US",
   "state": "CA",
-  "title": "San Diego Public - Kensington-Normal Heights",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=KEN-NH"
 }

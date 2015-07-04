@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-13T17:12:02Z",
+  "title": "San Antonio Public Library - Mission",
+  "problems": "Existing item not found!\n",
+  "problem_count": 1,
+  "tested": "2015-06-24T05:28:04Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.tx.san_antonio_public_library_mission",
   "country": "US",
   "state": "TX",
-  "title": "San Antonio Public Library - Mission",
   "linktemplate": "http://sapl.sat.lib.tx.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=32"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-30T16:46:05Z",
+  "title": "NYPL - Stephen A. Schwarzman Building",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T16:46:05Z",
+  "has_problems": false,
+  "have": "0439786770",
+  "name": "us.ny.nypl.stephen_a._schwarzman_building",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Stephen A. Schwarzman Building",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=38"
 }

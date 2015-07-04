@@ -1,6 +1,17 @@
 {
+  "match_isbn": true,
+  "dont": "032119375X",
+  "is_community": false,
+  "missing": null,
+  "was_valid": "2012-09-01T13:51:45Z",
+  "title": "PALNI - Franklin College",
+  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnfcp&scan_start=0321198689",
+  "problem_count": 97,
+  "tested": "2015-06-27T15:53:01Z",
+  "has_problems": true,
+  "have": "0321198689",
+  "name": "us.in.palni_franklin_college",
   "country": "US",
   "state": "IN",
-  "title": "PALNI - Franklin College",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnfcp&scan_start={rft:isbn}"
 }

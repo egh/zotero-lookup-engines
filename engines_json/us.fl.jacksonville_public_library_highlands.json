@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found in JPL Online Catalog",
+  "was_valid": "2015-06-27T02:43:06Z",
+  "title": "Jacksonville Public Library - Highlands",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-27T02:43:06Z",
+  "has_problems": false,
+  "have": "043935806X",
+  "name": "us.fl.jacksonville_public_library_highlands",
   "country": "US",
   "state": "FL",
-  "title": "Jacksonville Public Library - Highlands",
   "linktemplate": "http://jpl.coj.net/web2/tramp2.exe/do_keyword_search/guest?query={rft:isbn}&setting_key=english&servers=1home&location_group_filter=HIGHLANDS"
 }

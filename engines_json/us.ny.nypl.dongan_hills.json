@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-07-03T02:47:03Z",
+  "title": "NYPL - Dongan Hills",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-07-03T02:47:03Z",
+  "has_problems": false,
+  "have": "0545139708",
+  "name": "us.ny.nypl.dongan_hills",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Dongan Hills",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=21"
 }

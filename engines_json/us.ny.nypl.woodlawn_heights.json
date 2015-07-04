@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2013-07-09T14:08:14Z",
+  "title": "NYPL - Woodlawn Heights",
+  "problems": "Existing item not found!\n",
+  "problem_count": 68,
+  "tested": "2015-06-30T18:01:07Z",
+  "has_problems": true,
+  "have": "0545139708",
+  "name": "us.ny.nypl.woodlawn_heights",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Woodlawn Heights",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=91"
 }

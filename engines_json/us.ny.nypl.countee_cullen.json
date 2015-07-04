@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2013-08-12T17:52:18Z",
+  "title": "NYPL - Countee Cullen",
+  "problems": "Existing item not found!\n",
+  "problem_count": 65,
+  "tested": "2015-07-03T02:47:03Z",
+  "has_problems": true,
+  "have": "0545139708",
+  "name": "us.ny.nypl.countee_cullen",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Countee Cullen",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=20"
 }

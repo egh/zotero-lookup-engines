@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373872704",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-03-16T12:21:00Z",
+  "title": "Decatur High School",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://www.lmn.lib.al.us/search/i?0439136350&searchscope=27",
+  "problem_count": 44,
+  "tested": "2015-06-26T02:58:23Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.al.decatur_high_school",
   "country": "US",
   "state": "AL",
-  "title": "Decatur High School",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=27"
 }

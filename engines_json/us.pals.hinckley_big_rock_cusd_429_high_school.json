@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-07-23T13:34:06Z",
+  "title": "LS - Hinckley-Big Rock CUSD 429 - High School",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HBLY-15&sort_by=ANY%27",
+  "problem_count": 152,
+  "tested": "2015-06-24T19:43:13Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.pals.hinckley_big_rock_cusd_429_high_school",
   "country": "US",
   "state": "PA",
-  "title": "LS - Hinckley-Big Rock CUSD 429 - High School",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HBLY-15&sort_by=ANY%27"
 }

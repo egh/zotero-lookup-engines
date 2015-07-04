@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-09T18:42:12Z",
+  "title": "Suffolk County - Brentwood",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=6",
+  "problem_count": 2,
+  "tested": "2015-06-30T19:01:12Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.ny.suffolk_county_brentwood",
   "country": "US",
   "state": "NY",
-  "title": "Suffolk County - Brentwood",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=6"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-26T17:56:50Z",
+  "title": "Hamilton - Main and Central Branches",
+  "problems": "Missing item found!\n",
+  "problem_count": 101,
+  "tested": "2015-07-03T05:32:01Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.oh.hamilton_county_main_and_central_branches",
   "country": "US",
   "state": "OH",
-  "title": "Hamilton - Main and Central Branches",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CENTRAL"
 }

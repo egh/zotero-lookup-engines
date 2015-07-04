@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-09-06T14:29:31Z",
+  "title": "Hamilton - Price Hill",
+  "problems": "Missing item found!\n",
+  "problem_count": 140,
+  "tested": "2015-07-01T15:32:01Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.oh.hamilton_county_price_hill",
   "country": "US",
   "state": "OH",
-  "title": "Hamilton - Price Hill",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=PRICE_HILL"
 }

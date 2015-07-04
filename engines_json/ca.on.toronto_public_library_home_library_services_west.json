@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No results for",
+  "was_valid": "2012-05-08T20:55:53Z",
+  "title": "Toronto Public Library - Home Library Services West",
+  "problems": "Existing item not found!\n",
+  "problem_count": 108,
+  "tested": "2015-06-28T09:46:04Z",
+  "has_problems": true,
+  "have": "0764571583",
+  "name": "ca.on.toronto_public_library_home_library_services_west",
   "country": "CA",
   "state": "ON",
-  "title": "Toronto Public Library - Home Library Services West",
   "linktemplate": "http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&N=0&advancedSearch=true&Ntt={rft:isbn}&N=37802"
 }

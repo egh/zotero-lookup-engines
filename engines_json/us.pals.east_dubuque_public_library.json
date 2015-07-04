@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-17T05:32:30Z",
+  "title": "LS - East Dubuque Public Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0394839129&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=EDLY-13&sort_by=ANY%27",
+  "problem_count": 102,
+  "tested": "2015-07-04T06:02:23Z",
+  "has_problems": true,
+  "have": "0394839129",
+  "name": "us.pals.east_dubuque_public_library",
   "country": "US",
   "state": "PA",
-  "title": "LS - East Dubuque Public Library",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=EDLY-13&sort_by=ANY%27"
 }

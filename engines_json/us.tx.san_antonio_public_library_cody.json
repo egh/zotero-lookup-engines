@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-07-04T15:32:03Z",
+  "title": "San Antonio Public Library - Cody",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-07-04T15:32:03Z",
+  "has_problems": false,
+  "have": "043935806X",
+  "name": "us.tx.san_antonio_public_library_cody",
   "country": "US",
   "state": "TX",
-  "title": "San Antonio Public Library - Cody",
   "linktemplate": "http://sapl.sat.lib.tx.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=9"
 }

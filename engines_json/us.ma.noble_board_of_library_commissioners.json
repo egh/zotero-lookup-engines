@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found;",
+  "was_valid": "2012-05-24T04:02:16Z",
+  "title": "NOBLE - Board of Library Commissioners",
+  "problems": "Missing item found!\n",
+  "problem_count": 107,
+  "tested": "2015-07-03T02:17:03Z",
+  "has_problems": true,
+  "have": "0385296487",
+  "name": "us.ma.noble_board_of_library_commissioners",
   "country": "US",
   "state": "MA",
-  "title": "NOBLE - Board of Library Commissioners",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=3"
 }

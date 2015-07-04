@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No available matches found",
+  "was_valid": "2015-06-04T10:11:28Z",
+  "title": "San Jose Public Library - Santa Teresa",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg=0321279670&availlim=1&searchscope=28",
+  "problem_count": 2,
+  "tested": "2015-06-25T10:28:28Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.ca.san_jose_public_library_santa_teresa",
   "country": "US",
   "state": "CA",
-  "title": "San Jose Public Library - Santa Teresa",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&availlim=1&searchscope=28"
 }

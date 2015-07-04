@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found;",
+  "was_valid": "2015-06-30T04:01:08Z",
+  "title": "University of Missouri - All",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T04:01:08Z",
+  "has_problems": false,
+  "have": "0262031418",
+  "name": "us.mo.university_of_missouri_libraries_all_merlin",
   "country": "US",
   "state": "MO",
-  "title": "University of Missouri - All",
   "linktemplate": "http://laurel.lso.missouri.edu/search~S8/?searchtype=i&searcharg={rft:isbn}&searchscope=8"
 }

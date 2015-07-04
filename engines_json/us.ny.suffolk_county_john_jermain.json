@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-11-29T06:00:12Z",
+  "title": "Suffolk County - John Jermain",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=34",
+  "problem_count": 20,
+  "tested": "2015-06-29T03:46:22Z",
+  "has_problems": true,
+  "have": "0439136369",
+  "name": "us.ny.suffolk_county_john_jermain",
   "country": "US",
   "state": "NY",
-  "title": "Suffolk County - John Jermain",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=34"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2013-05-16T16:07:48Z",
+  "title": "Columbus Metropolitan Library - Southeast",
+  "problems": "Missing item found!\n",
+  "problem_count": 73,
+  "tested": "2015-06-29T22:16:08Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.oh.columbus_metropolitan_library_southeast",
   "country": "US",
   "state": "OH",
-  "title": "Columbus Metropolitan Library - Southeast",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Southeast"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-03-31T17:21:10Z",
+  "title": "NYPL - Throgs Neck",
+  "problems": "Existing item not found!\n",
+  "problem_count": 43,
+  "tested": "2015-06-30T17:01:07Z",
+  "has_problems": true,
+  "have": "0545139708",
+  "name": "us.ny.nypl.throgs_neck",
   "country": "US",
   "state": "NY",
-  "title": "NYPL - Throgs Neck",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=78"
 }

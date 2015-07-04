@@ -1,6 +1,16 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "title": "LS - Dixon CUSD 170 - Washington Elem. School",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0913940054&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DI2Y-14&sort_by=ANY%27",
+  "problem_count": 165,
+  "tested": "2015-07-03T17:17:22Z",
+  "has_problems": true,
+  "have": "0913940054",
+  "name": "us.pals.dixon_cusd_170_washington_elem_school",
   "country": "US",
   "state": "PA",
-  "title": "LS - Dixon CUSD 170 - Washington Elem. School",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DI2Y-14&sort_by=ANY%27"
 }

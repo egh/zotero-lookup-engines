@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found in JPL Online Catalog",
+  "was_valid": "2013-04-01T01:29:46Z",
+  "title": "Jacksonville Public Library - Brentwood",
+  "problems": "Existing item not found!\n",
+  "problem_count": 77,
+  "tested": "2015-06-27T02:13:10Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.fl.jacksonville_public_library_brentwood",
   "country": "US",
   "state": "FL",
-  "title": "Jacksonville Public Library - Brentwood",
   "linktemplate": "http://jpl.coj.net/web2/tramp2.exe/do_keyword_search/guest?query={rft:isbn}&setting_key=english&servers=1home&location_group_filter=BRENTWOOD"
 }

@@ -1,6 +1,16 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No titles found",
+  "title": "Bryan & College Station Public Library System",
+  "problems": "Too many redirects at URL: http://ipac.bcslibrary.org/polaris/search/searchresults.aspx?ctx=1.1033.0.0.3&type=Keyword&term=043935806X&by=ISBN&sort=RELEVANCE&limit=TOM=*&query=&page=0 with redirect=true",
+  "problem_count": 146,
+  "tested": "2015-06-30T09:01:06Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.tx.bryan_and_college_station_public_library_system",
   "country": "US",
   "state": "TX",
-  "title": "Bryan & College Station Public Library System",
   "linktemplate": "http://ipac.bcslibrary.org/polaris/search/searchresults.aspx?ctx=1.1033.0.0.3&type=Keyword&term={rft:isbn}&by=ISBN&sort=RELEVANCE&limit=TOM=*&query=&page=0"
 }

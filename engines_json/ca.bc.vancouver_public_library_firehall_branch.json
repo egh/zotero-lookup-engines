@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0373691122",
+  "is_community": false,
+  "missing": "No direct matches were found",
+  "was_valid": "2015-05-28T02:24:04Z",
+  "title": "Vancouver Public Library - Firehall Branch",
+  "problems": "Existing item not found!\n",
+  "problem_count": 3,
+  "tested": "2015-06-28T15:01:05Z",
+  "has_problems": true,
+  "have": "9948033841",
+  "name": "ca.bc.vancouver_public_library_firehall_branch",
   "country": "CA",
   "state": "BC",
-  "title": "Vancouver Public Library - Firehall Branch",
   "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Firehall+Branch+Library%22&custom_edit=false"
 }

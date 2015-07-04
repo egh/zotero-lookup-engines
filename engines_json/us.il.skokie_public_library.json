@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "1558514843",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-29T16:16:05Z",
+  "title": "Skokie Public Library",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-29T16:16:05Z",
+  "has_problems": false,
+  "have": "0446578746",
+  "name": "us.il.skokie_public_library",
   "country": "US",
   "state": "IL",
-  "title": "Skokie Public Library",
   "linktemplate": "http://catalog.skokielibrary.info/search~S4/i?SEARCH={rft:isbn}"
 }

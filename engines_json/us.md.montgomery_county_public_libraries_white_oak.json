@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2015-04-29T18:31:52Z",
+  "title": "Montgomery County Public Library- White Oak",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=WHITE_OAK",
+  "problem_count": 6,
+  "tested": "2015-07-01T22:02:11Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.md.montgomery_county_public_libraries_white_oak",
   "country": "US",
   "state": "MD",
-  "title": "Montgomery County Public Library- White Oak",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=WHITE_OAK"
 }

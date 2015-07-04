@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2014-07-16T07:51:54Z",
+  "title": "Suffolk County - Port Jefferson",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0439136350&searchscope=50",
+  "problem_count": 33,
+  "tested": "2015-07-01T04:47:24Z",
+  "has_problems": true,
+  "have": "0439136350",
+  "name": "us.ny.suffolk_county_port_jefferson",
   "country": "US",
   "state": "NY",
-  "title": "Suffolk County - Port Jefferson",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=50"
 }

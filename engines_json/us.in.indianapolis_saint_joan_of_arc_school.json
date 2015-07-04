@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0321279670",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2015-06-27T01:13:03Z",
+  "title": "Indianapolis - Saint Joan of Arc School",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-27T01:13:03Z",
+  "has_problems": false,
+  "have": "0060288825",
+  "name": "us.in.indianapolis_saint_joan_of_arc_school",
   "country": "US",
   "state": "IN",
-  "title": "Indianapolis - Saint Joan of Arc School",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Saint+Joan+of+Arc+School"
 }

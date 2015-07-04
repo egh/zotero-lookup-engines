@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2012-07-27T08:37:04Z",
+  "title": "LS - Three Rivers Public Library District",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=TRBBGRP01&sort_by=ANY%27",
+  "problem_count": 101,
+  "tested": "2015-07-03T19:47:11Z",
+  "has_problems": true,
+  "have": "0439786770",
+  "name": "us.pals.three_rivers_public_library_district",
   "country": "US",
   "state": "PA",
-  "title": "LS - Three Rivers Public Library District",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=TRBBGRP01&sort_by=ANY%27"
 }

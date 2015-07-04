@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2011-11-07T05:47:06Z",
+  "title": "Shady Grove Elementary Library",
+  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1=0590353403&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SHADY-GROV",
+  "problem_count": 125,
+  "tested": "2015-06-24T23:43:10Z",
+  "has_problems": true,
+  "have": "0590353403",
+  "name": "us.va.shady_grove_elementary_library",
   "country": "US",
   "state": "VA",
-  "title": "Shady Grove Elementary Library",
   "linktemplate": "http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SHADY-GROV"
 }

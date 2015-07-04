@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No results found",
+  "was_valid": "2013-05-05T18:50:56Z",
+  "title": "Columbus Metropolitan Library - Gahanna",
+  "problems": "Missing item found!\n",
+  "problem_count": 74,
+  "tested": "2015-06-29T20:31:11Z",
+  "has_problems": true,
+  "have": "043935806X",
+  "name": "us.oh.columbus_metropolitan_library_gahanna",
   "country": "US",
   "state": "OH",
-  "title": "Columbus Metropolitan Library - Gahanna",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Gahanna"
 }

@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "No matches found",
+  "was_valid": "2015-06-30T01:01:04Z",
+  "title": "Somerville Public",
+  "problems": null,
+  "problem_count": 0,
+  "tested": "2015-06-30T01:01:04Z",
+  "has_problems": false,
+  "have": "0394900014",
+  "name": "us.ma.somerville_public",
   "country": "US",
   "state": "MA",
-  "title": "Somerville Public",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=33"
 }

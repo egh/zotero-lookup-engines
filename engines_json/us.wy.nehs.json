@@ -1,6 +1,17 @@
 {
+  "match_isbn": null,
+  "dont": "0967865204",
+  "is_community": false,
+  "missing": "found no matches",
+  "was_valid": "2014-08-11T20:11:41Z",
+  "title": "Newcastle High School",
+  "problems": "Existing item not found!\n",
+  "problem_count": 30,
+  "tested": "2015-06-25T20:58:05Z",
+  "has_problems": true,
+  "have": "0439139600",
+  "name": "us.wy.nehs",
   "country": "US",
   "state": "WY",
-  "title": "Newcastle High School",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=nehsweb&library=NEHS&searchdata1={rft:isbn}"
 }
