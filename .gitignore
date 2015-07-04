@@ -1,1 +1,2 @@
-engines/
+engines/*.xml
+engines/*.html
