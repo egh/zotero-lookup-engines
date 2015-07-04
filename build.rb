@@ -4,7 +4,7 @@ require 'bundler/setup'
 require 'liquid'
 require 'json'
 
-BASE_URL = 'http://www.e6h.org/tmp/engines/'
+BASE_URL = 'http://egh.github.io/zotero-lookup-engines/'
 
 # Hack
 module TextFilter
