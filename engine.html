@@ -1,10 +1,26 @@
 <!DOCTYPE html>
 <html>
-<head>
-<link rel="search" type="application/x-openurl-opensearchdescription+xml" title="{{ item.title }} Lookup" href="{{ item.xmlurl }}">
-</head>
-<body>
-Select "Add {{ item.title }}" from the Locate menu to add the {{ item.title }} lookup engine.
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="search" type="application/x-openurl-opensearchdescription+xml" title="{{ item.title }} Lookup" href="{{ item.xmlurl }}">
+  </head>
+  <body>
+    <h1>
+      {% if item.country %}
+        {{ item.country }} -
+      {% endif %}
+      {% if item.state %}
+        {{ item.state }} -
+      {% endif %}
+      {{ item.title }}</h1>
+    <p>
+      This is a Zotero library lookup engine for {{ item.title }}.
+    </p>
+    <p>
+      To add to Zotero, ensure that you are not in “Tab Mode”. Then
+      select “Add {{ item.title }}” from the Locate menu to this
+      lookup engine.
+    </p>
+  </body>
 </html>
 
