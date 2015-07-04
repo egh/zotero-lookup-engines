@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Fairbanks North Star Borough Lookup</ShortName>
+<Description>Look up books on Fairbanks North Star Borough</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.fnsb.lib.ak.us/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN"/>
+</OpenSearchDescription>
+

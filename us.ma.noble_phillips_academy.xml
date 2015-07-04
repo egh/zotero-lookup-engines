@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>NOBLE - Phillips Academy Lookup</ShortName>
+<Description>Look up books on NOBLE - Phillips Academy</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.noblenet.org/search/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=36"/>
+</OpenSearchDescription>
+

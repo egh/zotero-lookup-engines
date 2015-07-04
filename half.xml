@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Half.com Lookup</ShortName>
+<Description>Look up books on Half.com</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://search.half.ebay.com/ws/web/HalfSearch?m=books&amp;isbn={rft:isbn}&amp;submit=Search"/>
+</OpenSearchDescription>
+

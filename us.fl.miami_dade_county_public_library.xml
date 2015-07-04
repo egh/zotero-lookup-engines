@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Miami-Dade County Lookup</ShortName>
+<Description>Look up books on Miami-Dade County</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.mdpls.org/search/searchresults.aspx?ctx=1.1033.0.0.6&amp;type=Keyword&amp;term={rft:isbn}&amp;by=ISBN&amp;sort=RELEVANCE&amp;limit=TOM=*&amp;query=&amp;page=0"/>
+</OpenSearchDescription>
+

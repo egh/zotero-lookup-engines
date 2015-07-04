@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Homewood Public Library Lookup</ShortName>
+<Description>Look up books on Homewood Public Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://swan.mls.lib.il.us/search/i?SEARCH={rft:isbn}&amp;sortdropdown=-&amp;searchscope=1"/>
+</OpenSearchDescription>
+

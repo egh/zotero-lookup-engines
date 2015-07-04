@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>LS - River Bend CUSD 2 - Fulton Middle School Lookup</ShortName>
+<Description>Look up books on LS - River Bend CUSD 2 - Fulton Middle School</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=FMSG-7&amp;sort_by=ANY%27"/>
+</OpenSearchDescription>
+

@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>San Diego Public - City Heights/Weingart Lookup</ShortName>
+<Description>Look up books on San Diego Public - City Heights/Weingart</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=CITY_HTS"/>
+</OpenSearchDescription>
+

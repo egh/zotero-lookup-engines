@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Pima County Library Lookup</ShortName>
+<Description>Look up books on Pima County Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://librarycatalog.pima.gov/search/?searchtype=i&amp;SORT=D&amp;searcharg={rft:isbn}&amp;searchscope=8&amp;submit=Submit"/>
+</OpenSearchDescription>
+

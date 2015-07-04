@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Barnes & Noble Member Lookup</ShortName>
+<Description>Look up books on Barnes & Noble Member</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?isbn={rft:isbn}"/>
+</OpenSearchDescription>
+

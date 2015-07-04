@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Indianapolis - Marion County Public Library - All Branches Lookup</ShortName>
+<Description>Look up books on Indianapolis - Marion County Public Library - All Branches</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://sherloc.imcpl.org/?q={rft:isbn}&amp;branch=%3E%3E%20All%20IMCPL%20Libraries"/>
+</OpenSearchDescription>
+

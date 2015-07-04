@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>NYPL - 67th Street Lookup</ShortName>
+<Description>Look up books on NYPL - 67th Street</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&amp;sortdropdown=-&amp;searchscope=3"/>
+</OpenSearchDescription>
+

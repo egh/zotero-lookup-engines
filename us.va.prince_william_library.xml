@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Prince William Library Lookup</ShortName>
+<Description>Look up books on Prince William Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://librarycatalog.pwcgov.org/ipac20/ipac.jsp?menu=search&amp;x=0&amp;y=0&amp;aspect=subtab13&amp;index=ISBNEX&amp;term={rft:isbn}"/>
+</OpenSearchDescription>
+

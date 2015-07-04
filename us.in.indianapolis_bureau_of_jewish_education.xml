@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Indianapolis - Bureau of Jewish Education Lookup</ShortName>
+<Description>Look up books on Indianapolis - Bureau of Jewish Education</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://sherloc.imcpl.org/?q={rft:isbn}&amp;branch=Bureau+of+Jewish+Education"/>
+</OpenSearchDescription>
+

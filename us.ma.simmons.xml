@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Simmons College Lookup</ShortName>
+<Description>Look up books on Simmons College</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://library.simmons.edu/search/i?SEARCH={rft:isbn}"/>
+</OpenSearchDescription>
+

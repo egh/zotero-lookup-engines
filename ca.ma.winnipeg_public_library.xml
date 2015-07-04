@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Winnipeg Public Library Lookup</ShortName>
+<Description>Look up books on Winnipeg Public Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://wpl-pac.winnipeg.ca/ipac20/ipac.jsp?menu=search&amp;profile=wpl&amp;index=ISBNEX&amp;term={rft:isbn}"/>
+</OpenSearchDescription>
+

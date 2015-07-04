@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Loudoun County Lookup</ShortName>
+<Description>Look up books on Loudoun County</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.lcpl.lib.va.us/ipac20/ipac.jsp?menu=search&amp;profile=adm&amp;ri=&amp;term={rft:isbn}&amp;index=PISBNEX"/>
+</OpenSearchDescription>
+

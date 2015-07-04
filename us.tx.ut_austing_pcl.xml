@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>UT Austin  - PCL (Perry Castaneda Library) Lookup</ShortName>
+<Description>Look up books on UT Austin  - PCL (Perry Castaneda Library)</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.lib.utexas.edu/search/i?SEARCH={rft:isbn}&amp;searchscope=23"/>
+</OpenSearchDescription>
+

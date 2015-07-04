@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Chicago South Holland Lookup</ShortName>
+<Description>Look up books on Chicago South Holland</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://swan.mls.lib.il.us/search~S1/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=135"/>
+</OpenSearchDescription>
+

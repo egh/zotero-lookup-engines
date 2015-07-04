@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Amazon Marketplace Lookup</ShortName>
+<Description>Look up books on Amazon Marketplace</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://www.amazon.com/gp/offer-listing/{rft:isbn}/"/>
+</OpenSearchDescription>
+

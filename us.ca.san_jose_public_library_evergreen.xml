@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>San Jose Public Library - Evergreen Lookup</ShortName>
+<Description>Look up books on San Jose Public Library - Evergreen</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.sjlibrary.org/search~/a?searchtype=i&amp;searcharg={rft:isbn}&amp;availlim=1&amp;searchscope=23"/>
+</OpenSearchDescription>
+

@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Berkeley Public Library Lookup</ShortName>
+<Description>Look up books on Berkeley Public Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://encore.berkeley-public.org/iii/encore/search?formids=target&amp;lang=eng&amp;suite=def&amp;reservedids=lang%2Csuite&amp;submitmode=&amp;submitname=&amp;target={rft:isbn}"/>
+</OpenSearchDescription>
+

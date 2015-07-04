@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Dallas Public Library Lookup</ShortName>
+<Description>Look up books on Dallas Public Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.dallaslibrary.org/Polaris/search/searchresults.aspx?ctx=1.1033.0.0.6&amp;type=Keyword&amp;term={rft:isbn}&amp;by=ISBN&amp;sort=PD_TI&amp;limit=TOM=*&amp;query=&amp;page=0"/>
+</OpenSearchDescription>
+

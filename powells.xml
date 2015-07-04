@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Powells Lookup</ShortName>
+<Description>Look up books on Powells</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://www.powells.com/biblio?isbn={rft:isbn}"/>
+</OpenSearchDescription>
+

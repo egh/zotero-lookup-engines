@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>San Jose Public Library - All Lookup</ShortName>
+<Description>Look up books on San Jose Public Library - All</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.sjlibrary.org/search~/a?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=1&amp;availlim=1"/>
+</OpenSearchDescription>
+

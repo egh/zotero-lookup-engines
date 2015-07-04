@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Salt Lake City Libraries - All Lookup</ShortName>
+<Description>Look up books on Salt Lake City Libraries - All</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.slcpl.org/search/?searchtype=i&amp;searcharg={rft:isbn}"/>
+</OpenSearchDescription>
+

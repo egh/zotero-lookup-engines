@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Charlotte Mecklenburg Library Lookup</ShortName>
+<Description>Look up books on Charlotte Mecklenburg Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.plcmc.org/accessible.ashx?q=isbn%3A{rft:isbn}&amp;cmd=find"/>
+</OpenSearchDescription>
+

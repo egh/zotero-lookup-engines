@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Boston Public Library Lookup</ShortName>
+<Description>Look up books on Boston Public Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.mbln.org/ipac20/ipac.jsp?profile=bpl1&amp;index=.BN&amp;term={rft:isbn}"/>
+</OpenSearchDescription>
+

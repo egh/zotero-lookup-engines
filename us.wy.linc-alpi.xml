@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Lincoln Co. - Alpine Branch Lookup</ShortName>
+<Description>Look up books on Lincoln Co. - Alpine Branch</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=linc-alpiweb&amp;library=LINC-ALPI&amp;searchdata1={rft:isbn}"/>
+</OpenSearchDescription>
+

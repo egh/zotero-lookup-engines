@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Tempe Public Library Lookup</ShortName>
+<Description>Look up books on Tempe Public Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.tempe.gov/search/i?{rft:isbn}"/>
+</OpenSearchDescription>
+

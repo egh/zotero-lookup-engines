@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Better World Books - Used Lookup</ShortName>
+<Description>Look up books on Better World Books - Used</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://www.betterworldbooks.com/detail.aspx?ItemId={rft:isbn}"/>
+</OpenSearchDescription>
+

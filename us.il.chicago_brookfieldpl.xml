@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Chicago BrookfieldPL Lookup</ShortName>
+<Description>Look up books on Chicago BrookfieldPL</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://swan.mls.lib.il.us/search~S1/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=89"/>
+</OpenSearchDescription>
+

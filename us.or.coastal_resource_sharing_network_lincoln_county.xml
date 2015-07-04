@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Lincoln County Lookup</ShortName>
+<Description>Look up books on Lincoln County</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://www.beachbooks.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=LCLDSEARCH"/>
+</OpenSearchDescription>
+

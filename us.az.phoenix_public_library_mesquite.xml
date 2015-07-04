@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Phoenix Public Library - Mesquite Lookup</ShortName>
+<Description>Look up books on Phoenix Public Library - Mesquite</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&amp;ISBN={rft:isbn}&amp;Submit=Submit&amp;Location=6652"/>
+</OpenSearchDescription>
+

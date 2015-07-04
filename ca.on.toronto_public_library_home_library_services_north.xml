@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Toronto Public Library - Home Library Services North Lookup</ShortName>
+<Description>Look up books on Toronto Public Library - Home Library Services North</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&amp;N=0&amp;advancedSearch=true&amp;Ntt={rft:isbn}&amp;N=37803"/>
+</OpenSearchDescription>
+

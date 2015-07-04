@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Charleston County Public Library - Otranto Road Lookup</ShortName>
+<Description>Look up books on Charleston County Public Library - Otranto Road</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=OTRANTO"/>
+</OpenSearchDescription>
+

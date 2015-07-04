@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Sweetwater Co. - Granger Branch Lookup</ShortName>
+<Description>Look up books on Sweetwater Co. - Granger Branch</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=swtr-granweb&amp;library=SWTR-GRAN&amp;searchdata1={rft:isbn}"/>
+</OpenSearchDescription>
+

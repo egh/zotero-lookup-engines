@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>LA Public - Sun Valley Branch Lookup</ShortName>
+<Description>Look up books on LA Public - Sun Valley Branch</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&amp;index=I&amp;terms={rft:isbn}&amp;bralimit=SUNVAL"/>
+</OpenSearchDescription>
+

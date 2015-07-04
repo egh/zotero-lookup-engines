@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Suffolk County - Westhampton Lookup</ShortName>
+<Description>Look up books on Suffolk County - Westhampton</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=71"/>
+</OpenSearchDescription>
+

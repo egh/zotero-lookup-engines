@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Westport Public Library Lookup</ShortName>
+<Description>Look up books on Westport Public Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.westportlibrary.org/ipac20/ipac.jsp?index=ISBNEX&amp;term={rft:isbn}"/>
+</OpenSearchDescription>
+

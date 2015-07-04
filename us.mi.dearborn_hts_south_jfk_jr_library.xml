@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Dearborn Hts. South--JFK, Jr. Library Lookup</ShortName>
+<Description>Look up books on Dearborn Hts. South--JFK, Jr. Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&amp;password=1234&amp;searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=S-DEARBNS"/>
+</OpenSearchDescription>
+

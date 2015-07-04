@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Austin High School Lookup</ShortName>
+<Description>Look up books on Austin High School</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://www.lmn.lib.al.us/search/i?{rft:isbn}&amp;searchscope=5"/>
+</OpenSearchDescription>
+

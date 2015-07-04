@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Monterey Public Library - Pacific Grove Lookup</ShortName>
+<Description>Look up books on Monterey Public Library - Pacific Grove</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://montn.ci.monterey.ca.us/search/i?SEARCH={rft:isbn}&amp;sortdropdown=-&amp;searchscope=2"/>
+</OpenSearchDescription>
+

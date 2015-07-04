@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Concord Free Public Library Lookup</ShortName>
+<Description>Look up books on Concord Free Public Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://library.minlib.net/search/i?SEARCH={rft:isbn}&amp;searchscope=10"/>
+</OpenSearchDescription>
+

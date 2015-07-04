@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Chicago Chicago Ridge Lookup</ShortName>
+<Description>Look up books on Chicago Chicago Ridge</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://swan.mls.lib.il.us/search~S1/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=30"/>
+</OpenSearchDescription>
+

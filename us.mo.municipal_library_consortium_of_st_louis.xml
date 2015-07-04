@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>St. L Muni Lib Consortium Lookup</ShortName>
+<Description>Look up books on St. L Muni Lib Consortium</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.mlc.lib.mo.us/ipac20/ipac.jsp?profile=uc&amp;index=ISBNEX&amp;term={rft:isbn}"/>
+</OpenSearchDescription>
+

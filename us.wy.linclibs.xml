@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Lincoln County Libraries Lookup</ShortName>
+<Description>Look up books on Lincoln County Libraries</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=lincweb&amp;library=LINCLIBS&amp;searchdata1={rft:isbn}"/>
+</OpenSearchDescription>
+

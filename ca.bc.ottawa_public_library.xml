@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Ottawa Public Library Lookup</ShortName>
+<Description>Look up books on Ottawa Public Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})&amp;custom_edit=false"/>
+</OpenSearchDescription>
+

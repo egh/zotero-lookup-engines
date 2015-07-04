@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Columbus Metropolitan Library - Westland Lookup</ShortName>
+<Description>Look up books on Columbus Metropolitan Library - Westland</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&amp;branch=Westland"/>
+</OpenSearchDescription>
+

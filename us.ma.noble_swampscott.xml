@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>NOBLE - Swampscott Lookup</ShortName>
+<Description>Look up books on NOBLE - Swampscott</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.noblenet.org/search/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=30"/>
+</OpenSearchDescription>
+

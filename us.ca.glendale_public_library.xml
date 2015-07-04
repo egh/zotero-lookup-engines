@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Glendale Public Library Lookup</ShortName>
+<Description>Look up books on Glendale Public Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.glendalepubliclibrary.org/ipac20/ipac.jsp?menu=search&amp;term={rft:isbn}&amp;index=ISBNEX"/>
+</OpenSearchDescription>
+

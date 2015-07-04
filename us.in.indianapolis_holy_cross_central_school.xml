@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Indianapolis - Holy Cross Central School Lookup</ShortName>
+<Description>Look up books on Indianapolis - Holy Cross Central School</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://sherloc.imcpl.org/?q={rft:isbn}&amp;branch=Holy+Cross+Central+School"/>
+</OpenSearchDescription>
+

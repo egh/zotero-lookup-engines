@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Jackson-George Regional Library System Lookup</ShortName>
+<Description>Look up books on Jackson-George Regional Library System</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://pac.jgrls.org/TLCScripts/Interpac.dll?NewestSearch&amp;PeriodLimit=-1&amp;FormId=144110048&amp;LimitsId=0&amp;StartIndex=0&amp;SearchField=4096&amp;SearchType=1&amp;SearchData={rft:isbn}&amp;ItemsPerPage=30&amp;Branch=,0,&amp;SearchAvailableOnly=0&amp;NotAddToHistory=1"/>
+</OpenSearchDescription>
+

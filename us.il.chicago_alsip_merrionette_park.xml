@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Chicago Alsip-Merrionette Park Lookup</ShortName>
+<Description>Look up books on Chicago Alsip-Merrionette Park</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://swan.mls.lib.il.us/search~S1/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=4"/>
+</OpenSearchDescription>
+

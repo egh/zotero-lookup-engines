@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Wichita State University Libraries Lookup</ShortName>
+<Description>Look up books on Wichita State University Libraries</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://libcat.wichita.edu/vwebv/search?searchArg1={rft:isbn}&amp;argType1=phrase&amp;searchCode1=ISBN&amp;combine2=and&amp;searchArg2=&amp;argType2=phrase&amp;searchCode2=GKEY&amp;combine3=and&amp;searchArg3=&amp;argType3=phrase&amp;searchCode3=GKEY&amp;year=2010-2011&amp;fromYear=&amp;toYear=&amp;location=all&amp;place=all&amp;type=all&amp;status=all&amp;medium=all&amp;language=all&amp;recCount=30&amp;searchType=2&amp;page.search.search.button=Search"/>
+</OpenSearchDescription>
+

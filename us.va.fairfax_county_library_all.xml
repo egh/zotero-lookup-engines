@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Fairfax County Library Lookup</ShortName>
+<Description>Look up books on Fairfax County Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://fcplcat.fairfaxcounty.gov/uhtbin/cgisirsi/x/0/0/5?user_id=GUEST&amp;password=1111&amp;searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=ALL"/>
+</OpenSearchDescription>
+

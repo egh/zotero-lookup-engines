@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Stanford Libraries Lookup</ShortName>
+<Description>Look up books on Stanford Libraries</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://searchworks.stanford.edu/?utf8=%E2%9C%93&amp;number={rft:isbn}&amp;search_field=advanced"/>
+</OpenSearchDescription>
+

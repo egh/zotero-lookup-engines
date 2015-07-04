@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Mountain View Lookup</ShortName>
+<Description>Look up books on Mountain View</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://encore.mountainview.gov/iii/encore/search/C__S%28{rft:isbn}%29__Orightresult__U1?lang=eng&amp;suite=pearl"/>
+</OpenSearchDescription>
+

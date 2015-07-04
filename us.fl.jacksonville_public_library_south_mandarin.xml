@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Jacksonville Public Library - South Mandarin Lookup</ShortName>
+<Description>Look up books on Jacksonville Public Library - South Mandarin</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://jpl.coj.net/web2/tramp2.exe/do_keyword_search/guest?query={rft:isbn}&amp;setting_key=english&amp;servers=1home&amp;location_group_filter=SOUTH_MAND"/>
+</OpenSearchDescription>
+

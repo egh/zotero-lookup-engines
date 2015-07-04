@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Ithaca College Library Lookup</ShortName>
+<Description>Look up books on Ithaca College Library</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://icarus.ithaca.edu/cgi-bin/Pwebrecon.cgi?SAB1={rft:isbn}&amp;FLD1=ISBN+%28ISBN%29&amp;CNT=10&amp;HIST=1"/>
+</OpenSearchDescription>
+

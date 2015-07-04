@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>San Diego - Rancho Santa Fe Branch Lookup</ShortName>
+<Description>Look up books on San Diego - Rancho Santa Fe Branch</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=31"/>
+</OpenSearchDescription>
+

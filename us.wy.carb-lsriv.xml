@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Carbon Co. - Little Snake River Valley Lookup</ShortName>
+<Description>Look up books on Carbon Co. - Little Snake River Valley</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=carb-lsrivweb&amp;library=CARB-LSRIV&amp;searchdata1={rft:isbn}"/>
+</OpenSearchDescription>
+

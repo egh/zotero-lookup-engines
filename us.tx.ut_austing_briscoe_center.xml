@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>UT Austin  - Briscoe Center for American History Lookup</ShortName>
+<Description>Look up books on UT Austin  - Briscoe Center for American History</Description>
+<Url type="text/html" method="GET"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://catalog.lib.utexas.edu/search/i?SEARCH={rft:isbn}&amp;searchscope=11"/>
+</OpenSearchDescription>
+
