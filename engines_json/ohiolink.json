@@ -1,0 +1,5 @@
+{
+  "title": "OhioLINK",
+  "name": "ohiolink",
+  "linktemplate": "http://olinks.ohiolink.edu/olinks.php?{z:openURL}"
+}

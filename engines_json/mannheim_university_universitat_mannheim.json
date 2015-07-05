@@ -1,0 +1,5 @@
+{
+  "title": "Mannheim University (Universität Mannheim)",
+  "name": "mannheim_university_universitat_mannheim",
+  "linktemplate": "http://sfx.bib.uni-mannheim.de:8080/sfx_local?{z:openURL}"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Library of Chinese Academy of Sciences",
+  "name": "library_of_chinese_academy_of_sciences",
+  "linktemplate": "http://www.csdl.ac.cn:8080/ananda/resolver?{z:openURL}"
+}

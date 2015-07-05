@@ -1,0 +1,5 @@
+{
+  "title": "University of Washington",
+  "name": "university_of_washington",
+  "linktemplate": "http://catalog.lib.washington.edu:4550/resserv?sid=ws5&&{z:openURL}"
+}

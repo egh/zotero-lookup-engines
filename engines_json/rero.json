@@ -1,0 +1,5 @@
+{
+  "title": "RERO",
+  "name": "rero",
+  "linktemplate": "http://resolver.rero.ch/rero?{z:openURL}"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Australian Catholic University",
+  "name": "australian_catholic_university",
+  "linktemplate": "http://ezproxy.acu.edu.au:2048/login?url=http://cooee.unilinc.edu.au:9003/acu&{z:openURL}"
+}

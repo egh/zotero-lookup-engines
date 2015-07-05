@@ -1,0 +1,5 @@
+{
+  "title": "Sächsische Landesbibliothek SLUB",
+  "name": "sachsische_landesbibliothek_slub",
+  "linktemplate": "http://www.redi-bw.de/links/slub?{z:openURL}"
+}

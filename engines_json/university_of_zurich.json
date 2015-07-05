@@ -1,0 +1,5 @@
+{
+  "title": "University of Zurich",
+  "name": "university_of_zurich",
+  "linktemplate": "http://sfx.metabib.ch:9003/sfx_uzh?{z:openURL}"
+}

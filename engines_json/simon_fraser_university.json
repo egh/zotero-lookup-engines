@@ -1,0 +1,5 @@
+{
+  "title": "Simon Fraser University",
+  "name": "simon_fraser_university",
+  "linktemplate": "http://godot.lib.sfu.ca/godot/demo/?{z:openURL}"
+}

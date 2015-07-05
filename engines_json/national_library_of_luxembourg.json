@@ -1,0 +1,5 @@
+{
+  "title": "National Library of Luxembourg",
+  "name": "national_library_of_luxembourg",
+  "linktemplate": "http://sfx.etat.lu:9003/sfx_local?{z:openURL}"
+}

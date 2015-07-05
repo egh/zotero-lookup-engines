@@ -1,0 +1,5 @@
+{
+  "title": "BIBSYS",
+  "name": "bibsys",
+  "linktemplate": "http://openurl.bibsys.no/openurl?{z:openURL}"
+}

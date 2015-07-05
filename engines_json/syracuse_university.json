@@ -1,0 +1,5 @@
+{
+  "title": "Syracuse University",
+  "name": "syracuse_university",
+  "linktemplate": "http://libsfx.syr.edu:9003/syracuse?{z:openURL}"
+}

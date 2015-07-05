@@ -1,0 +1,5 @@
+{
+  "title": "Yale University",
+  "name": "yale_university",
+  "linktemplate": "http://sfx.library.yale.edu/sfx_local?{z:openURL}"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Max Planck Society URL",
+  "name": "max_planck_society_url",
+  "linktemplate": "http://sfx.mpg.de/sfx_local?{z:openURL}"
+}
