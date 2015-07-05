@@ -2,6 +2,7 @@
 <ShortName>Waco-McLennan County Library Lookup</ShortName>
 <Description>Look up books on Waco-McLennan County Library</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://ipac.ci.waco.tx.us:8080/ipac20/ipac.jsp?profile=cen&amp;index=ISBNEX&amp;term={rft:isbn}"/>
 </OpenSearchDescription>

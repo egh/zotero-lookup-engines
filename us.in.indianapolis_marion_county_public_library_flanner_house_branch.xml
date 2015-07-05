@@ -2,6 +2,7 @@
 <ShortName>Indianapolis - Marion County Public Library - Flanner House Branch Lookup</ShortName>
 <Description>Look up books on Indianapolis - Marion County Public Library - Flanner House Branch</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://sherloc.imcpl.org/?q={rft:isbn}&amp;branch=Flanner+House+Branch"/>
 </OpenSearchDescription>

@@ -2,6 +2,7 @@
 <ShortName>St. L Community Colleges Lookup</ShortName>
 <Description>Look up books on St. L Community Colleges</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://archway.missouri.edu/search~/Y?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=12"/>
 </OpenSearchDescription>

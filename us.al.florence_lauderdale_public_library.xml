@@ -2,6 +2,7 @@
 <ShortName>Florence-Lauderdale Public Library Lookup</ShortName>
 <Description>Look up books on Florence-Lauderdale Public Library</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://catalog.flpl.lib.al.us/polaris/search/searchresults.aspx?ctx=3.1033.0.0.1&amp;type=Advanced&amp;term={rft:isbn}&amp;relation=ALL&amp;by=ISBN&amp;bool4=AND&amp;limit=TOM=*&amp;sort=RELEVANCE&amp;page=0"/>
 </OpenSearchDescription>

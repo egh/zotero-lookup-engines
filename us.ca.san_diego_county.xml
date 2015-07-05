@@ -2,6 +2,7 @@
 <ShortName>San Diego County Library Lookup</ShortName>
 <Description>Look up books on San Diego County Library</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://dbpcosdcsgt.co.san-diego.ca.us/search/i?SEARCH={rft:isbn}&amp;searchscope=38"/>
 </OpenSearchDescription>

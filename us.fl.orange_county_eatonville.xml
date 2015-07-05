@@ -2,6 +2,7 @@
 <ShortName>Orange County Public Library - Eatonville Lookup</ShortName>
 <Description>Look up books on Orange County Public Library - Eatonville</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://iii.ocls.info/search/a?a&amp;searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=17"/>
 </OpenSearchDescription>

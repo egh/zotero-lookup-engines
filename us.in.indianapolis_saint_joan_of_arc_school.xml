@@ -2,6 +2,7 @@
 <ShortName>Indianapolis - Saint Joan of Arc School Lookup</ShortName>
 <Description>Look up books on Indianapolis - Saint Joan of Arc School</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://sherloc.imcpl.org/?q={rft:isbn}&amp;branch=Saint+Joan+of+Arc+School"/>
 </OpenSearchDescription>

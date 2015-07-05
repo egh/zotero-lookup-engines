@@ -2,6 +2,7 @@
 <ShortName>Library Thing Lookup</ShortName>
 <Description>Look up books on Library Thing</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://www.librarything.com/isbn/{rft:isbn}"/>
 </OpenSearchDescription>

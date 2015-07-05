@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Montana State University - Bozeman Lookup</ShortName>
+<Description>Look up books on Montana State University - Bozeman</Description>
+<Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://qs7th3bl8m.search.serialssolutions.com/?{z:openURL}"/>
+</OpenSearchDescription>
+

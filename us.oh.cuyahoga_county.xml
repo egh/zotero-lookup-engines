@@ -2,6 +2,7 @@
 <ShortName>Cuyahoga County Lookup</ShortName>
 <Description>Look up books on Cuyahoga County</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="https://sciron.cuyahoga.lib.oh.us/search/?searchtype=i&amp;availlim=1&amp;searcharg={rft:isbn}"/>
 </OpenSearchDescription>

@@ -2,6 +2,7 @@
 <ShortName>Syracuse University Lookup</ShortName>
 <Description>Look up books on Syracuse University</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://summit.syr.edu/cgi-bin/Pwebrecon.cgi?FLD1=ISBN+%28ISBN%29&amp;CNT=1&amp;SAB1={rft:isbn}"/>
 </OpenSearchDescription>

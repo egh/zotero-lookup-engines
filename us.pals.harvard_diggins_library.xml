@@ -2,6 +2,7 @@
 <ShortName>LS - Harvard Diggins Library Lookup</ShortName>
 <Description>Look up books on LS - Harvard Diggins Library</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://www.niclibraries.org/search~S1/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=6&amp;SORT=D&amp;availlim=1&amp;searchorigarg=i{rft:isbn}"/>
 </OpenSearchDescription>

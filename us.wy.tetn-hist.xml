@@ -2,6 +2,7 @@
 <ShortName>Teton Co. - Historical Soc Museum Lookup</ShortName>
 <Description>Look up books on Teton Co. - Historical Soc Museum</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=tetn-histweb&amp;library=TETN-HIST&amp;searchdata1={rft:isbn}"/>
 </OpenSearchDescription>

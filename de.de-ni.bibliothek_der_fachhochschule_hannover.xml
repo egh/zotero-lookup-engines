@@ -2,6 +2,7 @@
 <ShortName>Bibliothek der Fachhochschule Hannover Lookup</ShortName>
 <Description>Look up books on Bibliothek der Fachhochschule Hannover</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://opac.tib.uni-hannover.de/DB=4/SET=1/TTL=1/CLK?IKT=1007&amp;TRM={rft:isbn}"/>
 </OpenSearchDescription>

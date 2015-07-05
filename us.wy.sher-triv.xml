@@ -2,6 +2,7 @@
 <ShortName>Sheridan Co. - Tongue River Branch Lookup</ShortName>
 <Description>Look up books on Sheridan Co. - Tongue River Branch</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=sher-trivweb&amp;library=SHER-TRIV&amp;searchdata1={rft:isbn}"/>
 </OpenSearchDescription>

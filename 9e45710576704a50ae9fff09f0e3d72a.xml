@@ -2,6 +2,7 @@
 <ShortName>Mountain View (updated) Lookup</ShortName>
 <Description>Look up books on Mountain View (updated)</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://encore.mountainview.gov/iii/encore/search/C__Si%3A{rft:isbn}__Orightresult__U?lang=eng&amp;suite=cobalt"/>
 </OpenSearchDescription>

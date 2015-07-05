@@ -2,6 +2,7 @@
 <ShortName>Charleston County Public Library - Village Lookup</ShortName>
 <Description>Look up books on Charleston County Public Library - Village</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=VILLAGE"/>
 </OpenSearchDescription>

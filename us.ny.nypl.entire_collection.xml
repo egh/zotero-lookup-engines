@@ -2,6 +2,7 @@
 <ShortName>NYPL - Entire Collection Lookup</ShortName>
 <Description>Look up books on NYPL - Entire Collection</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&amp;sortdropdown=-&amp;searchscope=1"/>
 </OpenSearchDescription>

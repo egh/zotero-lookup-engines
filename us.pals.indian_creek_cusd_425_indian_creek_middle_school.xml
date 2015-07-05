@@ -2,6 +2,7 @@
 <ShortName>LS - Indian Creek CUSD 425 - Indian Creek Middle School Lookup</ShortName>
 <Description>Look up books on LS - Indian Creek CUSD 425 - Indian Creek Middle School</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=IC4Y-12&amp;sort_by=ANY%27"/>
 </OpenSearchDescription>

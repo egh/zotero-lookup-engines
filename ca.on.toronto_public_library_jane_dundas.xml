@@ -2,6 +2,7 @@
 <ShortName>Toronto Public Library - Jane/Dundas Lookup</ShortName>
 <Description>Look up books on Toronto Public Library - Jane/Dundas</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&amp;N=0&amp;advancedSearch=true&amp;Ntt={rft:isbn}&amp;N=33138"/>
 </OpenSearchDescription>

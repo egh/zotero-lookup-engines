@@ -2,6 +2,7 @@
 <ShortName>Abebooks Lookup</ShortName>
 <Description>Look up books on Abebooks</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="Liquid error: undefined method `gsub' for nil:NilClass"/>
 </OpenSearchDescription>

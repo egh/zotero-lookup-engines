@@ -2,6 +2,7 @@
 <ShortName>Salt Lake County Libraries - All Lookup</ShortName>
 <Description>Look up books on Salt Lake County Libraries - All</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://ipac.slco.lib.ut.us/ipac20/ipac.jsp?index=ISBNEX&amp;term={rft:isbn}"/>
 </OpenSearchDescription>

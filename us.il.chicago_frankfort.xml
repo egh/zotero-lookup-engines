@@ -2,6 +2,7 @@
 <ShortName>Chicago Frankfort Lookup</ShortName>
 <Description>Look up books on Chicago Frankfort</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://swan.mls.lib.il.us/search~S1/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=58"/>
 </OpenSearchDescription>

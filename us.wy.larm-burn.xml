@@ -2,6 +2,7 @@
 <ShortName>Laramie Co. Library - Burns Lookup</ShortName>
 <Description>Look up books on Laramie Co. Library - Burns</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=larm-burnweb&amp;library=LARM-BURN&amp;searchdata1={rft:isbn}"/>
 </OpenSearchDescription>

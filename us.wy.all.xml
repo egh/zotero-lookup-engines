@@ -2,6 +2,7 @@
 <ShortName>All WYLD Libraries Lookup</ShortName>
 <Description>Look up books on All WYLD Libraries</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=albyweb&amp;library=ALL&amp;searchdata1={rft:isbn}"/>
 </OpenSearchDescription>

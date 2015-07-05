@@ -2,6 +2,7 @@
 <ShortName>Vancouver Public Library - Marpole Branch Lookup</ShortName>
 <Description>Look up books on Vancouver Public Library - Marpole Branch</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Marpole+Branch+Library%22&amp;custom_edit=false"/>
 </OpenSearchDescription>

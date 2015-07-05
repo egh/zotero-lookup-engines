@@ -2,6 +2,7 @@
 <ShortName>Indianapolis - Scecina Memorial High School Lookup</ShortName>
 <Description>Look up books on Indianapolis - Scecina Memorial High School</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://sherloc.imcpl.org/?q={rft:isbn}&amp;branch=Scecina+Memorial+High+School"/>
 </OpenSearchDescription>

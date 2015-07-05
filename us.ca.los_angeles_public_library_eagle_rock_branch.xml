@@ -2,6 +2,7 @@
 <ShortName>LA Public - Eagle Rock Branch Lookup</ShortName>
 <Description>Look up books on LA Public - Eagle Rock Branch</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&amp;index=I&amp;terms={rft:isbn}&amp;bralimit=EAGLRK"/>
 </OpenSearchDescription>

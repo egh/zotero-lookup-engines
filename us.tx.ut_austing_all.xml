@@ -2,6 +2,7 @@
 <ShortName>UT Austin  - All Lookup</ShortName>
 <Description>Look up books on UT Austin  - All</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://catalog.lib.utexas.edu/search/i?SEARCH={rft:isbn}&amp;searchscope=29"/>
 </OpenSearchDescription>

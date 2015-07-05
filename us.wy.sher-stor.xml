@@ -2,6 +2,7 @@
 <ShortName>Sheridan Co. - Story Branch Lookup</ShortName>
 <Description>Look up books on Sheridan Co. - Story Branch</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=sher-storweb&amp;library=SHER-STOR&amp;searchdata1={rft:isbn}"/>
 </OpenSearchDescription>

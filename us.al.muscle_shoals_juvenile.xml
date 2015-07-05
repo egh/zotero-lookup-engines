@@ -2,6 +2,7 @@
 <ShortName>Muscle Shoals Juvenile Lookup</ShortName>
 <Description>Look up books on Muscle Shoals Juvenile</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://www.lmn.lib.al.us/search/i?{rft:isbn}&amp;searchscope=44"/>
 </OpenSearchDescription>

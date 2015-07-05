@@ -2,6 +2,7 @@
 <ShortName>San Jose Public Library - Santa Teresa Lookup</ShortName>
 <Description>Look up books on San Jose Public Library - Santa Teresa</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://catalog.sjlibrary.org/search~/a?searchtype=i&amp;searcharg={rft:isbn}&amp;availlim=1&amp;searchscope=28"/>
 </OpenSearchDescription>

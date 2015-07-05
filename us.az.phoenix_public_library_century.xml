@@ -2,6 +2,7 @@
 <ShortName>Phoenix Public Library - Century Lookup</ShortName>
 <Description>Look up books on Phoenix Public Library - Century</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&amp;ISBN={rft:isbn}&amp;Submit=Submit&amp;Location=6645"/>
 </OpenSearchDescription>

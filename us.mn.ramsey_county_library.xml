@@ -2,6 +2,7 @@
 <ShortName>Ramsey County Library Lookup</ShortName>
 <Description>Look up books on Ramsey County Library</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://ipac.ramsey.lib.mn.us/ipac20/ipac.jsp?menu=search&amp;x=13&amp;index=ISBNE&amp;term={rft:isbn}"/>
 </OpenSearchDescription>

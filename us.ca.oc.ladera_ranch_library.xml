@@ -2,6 +2,7 @@
 <ShortName>Orange Co. - Ladera Ranch Library Lookup</ShortName>
 <Description>Look up books on Orange Co. - Ladera Ranch Library</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://orca.ocpl.org/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=LADERARNCH"/>
 </OpenSearchDescription>

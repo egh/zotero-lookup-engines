@@ -2,6 +2,7 @@
 <ShortName>Shelfari Lookup</ShortName>
 <Description>Look up books on Shelfari</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://www.shelfari.com/booksearch.aspx?Adv=True&amp;SearchAmazon=False&amp;Title=&amp;Author=&amp;Isbn={rft:isbn}"/>
 </OpenSearchDescription>

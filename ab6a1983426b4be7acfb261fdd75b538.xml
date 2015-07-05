@@ -2,6 +2,7 @@
 <ShortName>Mountain View Public - Classic Cat Lookup</ShortName>
 <Description>Look up books on Mountain View Public - Classic Cat</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://library.mountainview.gov/search/i{rft:isbn}"/>
 </OpenSearchDescription>

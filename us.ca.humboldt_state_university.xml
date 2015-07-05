@@ -2,6 +2,7 @@
 <ShortName>Humboldt State University Lookup</ShortName>
 <Description>Look up books on Humboldt State University</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://voyager.humboldt.edu/vwebv/search?searchArg1={rft:isbn}&amp;argType1=any&amp;searchCode1=ISBN&amp;searchType=2"/>
 </OpenSearchDescription>

@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Virginia Military Institute Lookup</ShortName>
+<Description>Look up books on Virginia Military Institute</Description>
+<Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://library.vmi.edu:4550/resserv?sid=Zotero&amp;&amp;{z:openURL}"/>
+</OpenSearchDescription>
+

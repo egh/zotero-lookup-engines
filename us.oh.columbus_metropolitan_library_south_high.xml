@@ -2,6 +2,7 @@
 <ShortName>Columbus Metropolitan Library - South High Lookup</ShortName>
 <Description>Look up books on Columbus Metropolitan Library - South High</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&amp;branch=South+High"/>
 </OpenSearchDescription>

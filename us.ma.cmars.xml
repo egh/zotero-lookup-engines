@@ -2,6 +2,7 @@
 <ShortName>Central Mass. Public Lookup</ShortName>
 <Description>Look up books on Central Mass. Public</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://cmars.cwmars.org/search~/i?SEARCH={rft:isbn}"/>
 </OpenSearchDescription>

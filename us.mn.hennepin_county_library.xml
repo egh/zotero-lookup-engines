@@ -2,6 +2,7 @@
 <ShortName>Hennepin County Library Lookup</ShortName>
 <Description>Look up books on Hennepin County Library</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="https://catalog.hclib.org/ipac20/ipac.jsp?menu=search&amp;index=ISBN&amp;term={rft:isbn}"/>
 </OpenSearchDescription>

@@ -2,6 +2,7 @@
 <ShortName>NOBLE - Beverly Lookup</ShortName>
 <Description>Look up books on NOBLE - Beverly</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://catalog.noblenet.org/search/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=1"/>
 </OpenSearchDescription>

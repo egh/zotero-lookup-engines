@@ -2,6 +2,7 @@
 <ShortName>Books A Million Lookup</ShortName>
 <Description>Look up books on Books A Million</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://www.booksamillion.com/ncom/books?isbn={rft:isbn}"/>
 </OpenSearchDescription>

@@ -2,6 +2,7 @@
 <ShortName>Indianapolis - St. Andrew and St. Rita Academy Lookup</ShortName>
 <Description>Look up books on Indianapolis - St. Andrew and St. Rita Academy</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://sherloc.imcpl.org/?q={rft:isbn}&amp;branch=St.%20Andrew%20and%20St.%20Rita%20Academy"/>
 </OpenSearchDescription>

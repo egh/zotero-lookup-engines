@@ -2,6 +2,7 @@
 <ShortName>Suffolk County - Hampton Bays Lookup</ShortName>
 <Description>Look up books on Suffolk County - Hampton Bays</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=26"/>
 </OpenSearchDescription>

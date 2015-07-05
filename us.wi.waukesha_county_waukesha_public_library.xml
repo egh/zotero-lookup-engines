@@ -2,6 +2,7 @@
 <ShortName>Waukesha County - Waukesha Lookup</ShortName>
 <Description>Look up books on Waukesha County - Waukesha</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://www.cafelibraries.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=WAUKESHA^LIBR"/>
 </OpenSearchDescription>

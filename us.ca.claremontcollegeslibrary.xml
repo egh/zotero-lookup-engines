@@ -2,6 +2,7 @@
 <ShortName>Claremont Colleges Library Lookup</ShortName>
 <Description>Look up books on Claremont Colleges Library</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://blais.claremont.edu/search/i?SEARCH={rft:isbn}"/>
 </OpenSearchDescription>

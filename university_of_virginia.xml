@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>University of Virginia Lookup</ShortName>
+<Description>Look up books on University of Virginia</Description>
+<Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://re5qy4sb7x.search.serialssolutions.com/?{z:openURL}"/>
+</OpenSearchDescription>
+

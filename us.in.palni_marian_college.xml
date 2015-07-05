@@ -2,6 +2,7 @@
 <ShortName>PALNI - Marian College Lookup</ShortName>
 <Description>Look up books on PALNI - Marian College</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://hickory.palni.edu:4505/F/?func=scan&amp;scan_code=ISBN&amp;local_base=plnmcp&amp;scan_start={rft:isbn}"/>
 </OpenSearchDescription>

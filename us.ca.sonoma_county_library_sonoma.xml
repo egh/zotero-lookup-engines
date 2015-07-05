@@ -2,6 +2,7 @@
 <ShortName>Sonoma County Library - Sonoma Lookup</ShortName>
 <Description>Look up books on Sonoma County Library - Sonoma</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://catalog.sonomalibrary.org/ipac20/ipac.jsp?menu=search&amp;index=ISBNEX&amp;term={rft:isbn}&amp;LO01=sono"/>
 </OpenSearchDescription>

@@ -2,6 +2,7 @@
 <ShortName>NOBLE - Saugus Lookup</ShortName>
 <Description>Look up books on NOBLE - Saugus</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://catalog.noblenet.org/search/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=26"/>
 </OpenSearchDescription>

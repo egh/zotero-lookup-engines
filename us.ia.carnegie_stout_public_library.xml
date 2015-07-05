@@ -2,6 +2,7 @@
 <ShortName>Carnegie-Stout Public Library Lookup</ShortName>
 <Description>Look up books on Carnegie-Stout Public Library</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://hip.dubuque.lib.ia.us/ipac20/ipac.jsp?menu=search&amp;aspect=subtab25&amp;npp=10&amp;ipp=20&amp;spp=20&amp;profile=cspl-horizon-main&amp;ri=3&amp;source=~%21horizon&amp;index=ISBNEX&amp;term={rft:isbn}&amp;x=4&amp;y=8&amp;aspect=subtab25"/>
 </OpenSearchDescription>

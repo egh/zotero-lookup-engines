@@ -2,6 +2,7 @@
 <ShortName>Wichita Public Library Lookup</ShortName>
 <Description>Look up books on Wichita Public Library</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="http://catalog.wichita.lib.ks.us/polaris/search/searchresults.aspx?ctx=1.1033.0.0.4&amp;type=Keyword&amp;term={rft:isbn}&amp;by=ISBN&amp;sort=PD_TI&amp;limit=TOM=*&amp;query=&amp;page=0"/>
 </OpenSearchDescription>
