@@ -2,6 +2,7 @@
 <ShortName>{{ item.title }} Lookup</ShortName>
 <Description>Look up books on {{ item.title }}</Description>
 <Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
 	template="{{ item.linktemplate | amp_escape }}"/>
 </OpenSearchDescription>
