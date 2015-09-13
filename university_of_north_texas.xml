@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>University of North Texas Lookup</ShortName>
+<Description>Look up books on University of North Texas</Description>
+<Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="https://iii.library.unt.edu/search/X?SEARCH={rft:title}+{rft:aulast}+{rft:aufirst}"/>
+</OpenSearchDescription>
+

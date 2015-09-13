@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Texas Woman's University Lookup</ShortName>
+<Description>Look up books on Texas Woman's University</Description>
+<Url type="text/html" method="GET"
+	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
+	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
+	template="http://twuniversal.twu.edu/primo_library/libweb/action/search.do?fn=search&amp;amp;ct=search&amp;amp;initialSearch=true&amp;amp;mode=Basic&amp;amp;tab=twu_libraries_catalog&amp;amp;indx=1&amp;amp;dum=true&amp;amp;srt=rank&amp;amp;vid=TWU-A&amp;amp;frbg=&amp;amp;tb=t&amp;amp;vl%28freeText0%29={searchTerms}&amp;amp;scp.scps=scope%3A%28ALMA-TXWU%29&amp;amp;vl%281UIStartWith0%29=contains"/>
+</OpenSearchDescription>
+
