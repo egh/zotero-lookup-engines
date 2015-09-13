@@ -3,5 +3,5 @@
   "name": "us.tx.denton_public_library",
   "country": "US",
   "state": "TX",
-  "linktemplate": "http://library.cityofdenton.com/search/?searchtype=X&SORT=D&searcharg={rft:title}+{rft:aulast}+{rft:aufirst}&searchscope=4"
+  "linktemplate": "http://library.cityofdenton.com/search/?searchtype=X&amp;SORT=D&amp;searcharg=t:({rft:title})+and+a:({rft:aufirst}+{rft:aulast})&amp;searchscope=4"
 }
