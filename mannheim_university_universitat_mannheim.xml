@@ -4,6 +4,6 @@
 <Url type="text/html" method="GET"
 	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
 	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://sfx.bib.uni-mannheim.de:8080/sfx_local?{z:openURL}"/>
+	template="http://primo-49man.hosted.exlibrisgroup.com/primo_library/libweb/action/openurl?{z:openURL}"/>
 </OpenSearchDescription>
 
