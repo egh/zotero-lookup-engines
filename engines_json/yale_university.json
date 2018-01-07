@@ -1,5 +1,5 @@
 {
   "title": "Yale University",
   "name": "yale_university",
-  "linktemplate": "http://sfx.library.yale.edu/sfx_local?{z:openURL}"
+  "linktemplate": "http://yale.summon.serialssolutions.com/#!/search?ho=t&l=en&q=(ISBN:({rft:isbn}))"
 }
