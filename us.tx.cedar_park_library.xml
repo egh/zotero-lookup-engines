@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Cedar Park Library Lookup</ShortName>
-<Description>Look up books on Cedar Park Library</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://webcat.cedarparktx.us/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&amp;srchfield1=020^SUBJECT^GENERAL^^isbn"/>
-</OpenSearchDescription>
-

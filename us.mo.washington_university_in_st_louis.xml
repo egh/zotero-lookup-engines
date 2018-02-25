@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Washington University in St. L Lookup</ShortName>
-<Description>Look up books on Washington University in St. L</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://catalog.wustl.edu/search~S2/?searchtype=i&amp;searcharg={rft:isbn}"/>
-</OpenSearchDescription>
-

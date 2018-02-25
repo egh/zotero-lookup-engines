@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>LA Public - Playa Vista Branch Library Lookup</ShortName>
-<Description>Look up books on LA Public - Playa Vista Branch Library</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&amp;index=I&amp;terms={rft:isbn}&amp;bralimit=PVISTA"/>
-</OpenSearchDescription>
-

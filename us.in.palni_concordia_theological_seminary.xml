@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>PALNI - Concordia Theological Seminary Lookup</ShortName>
-<Description>Look up books on PALNI - Concordia Theological Seminary</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://hickory.palni.edu:4505/F?func=find-b&amp;PLIB=co&amp;find_code=ISBN&amp;request={rft:isbn}"/>
-</OpenSearchDescription>
-

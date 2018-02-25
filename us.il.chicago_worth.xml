@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Chicago Worth Lookup</ShortName>
-<Description>Look up books on Chicago Worth</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://swan.mls.lib.il.us/search~S1/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=159"/>
-</OpenSearchDescription>
-

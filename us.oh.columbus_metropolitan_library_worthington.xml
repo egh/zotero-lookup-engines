@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Columbus Metropolitan Library - Worthington Lookup</ShortName>
-<Description>Look up books on Columbus Metropolitan Library - Worthington</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&amp;branch=Worthington"/>
-</OpenSearchDescription>
-

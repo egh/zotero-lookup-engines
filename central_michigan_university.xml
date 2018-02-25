@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Central Michigan University Lookup</ShortName>
-<Description>Look up books on Central Michigan University</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://sfx5.exlibrisgroup.com:3210/cmich?{z:openURL}"/>
-</OpenSearchDescription>
-

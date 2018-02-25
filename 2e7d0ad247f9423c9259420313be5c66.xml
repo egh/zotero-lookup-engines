@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Library of Congress Lookup</ShortName>
-<Description>Look up books on Library of Congress</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://www.loc.gov/search/?q={rft:isbn}&amp;fa=digitized:false"/>
-</OpenSearchDescription>
-

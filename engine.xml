@@ -1,8 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>{{ item.title }} Lookup</ShortName>
-<Description>Look up books on {{ item.title }}</Description>
-<Url type="text/html" method="GET"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="{{ item.linktemplate | amp_escape }}"/>
-</OpenSearchDescription>
-

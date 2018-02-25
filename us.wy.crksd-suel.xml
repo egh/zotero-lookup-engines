@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Crook Co. SD1 - Sundance Elem School Lookup</ShortName>
-<Description>Look up books on Crook Co. SD1 - Sundance Elem School</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=crksd-suelweb&amp;library=CRKSD-SUEL&amp;searchdata1={rft:isbn}"/>
-</OpenSearchDescription>
-

@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>University of Minnesota, Duluth Lookup</ShortName>
-<Description>Look up books on University of Minnesota, Duluth</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://primo.lib.umn.edu/openurl/DULUTH/DULUTH_SP?{z:openURL}"/>
-</OpenSearchDescription>
-

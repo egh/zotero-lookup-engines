@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Indianapolis - Covenant Christian High School Lookup</ShortName>
-<Description>Look up books on Indianapolis - Covenant Christian High School</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://sherloc.imcpl.org/?q={rft:isbn}&amp;branch=Covenant+Christian+High+School"/>
-</OpenSearchDescription>
-

@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Vancouver Public Library - Strathcona Branch Lookup</ShortName>
-<Description>Look up books on Vancouver Public Library - Strathcona Branch</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Strathcona+Branch+Library%22&amp;custom_edit=false"/>
-</OpenSearchDescription>
-

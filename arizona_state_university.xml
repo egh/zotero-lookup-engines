@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Arizona State University Lookup</ShortName>
-<Description>Look up books on Arizona State University</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://pl8cg5fc8w.search.serialssolutions.com/?{z:openURL}"/>
-</OpenSearchDescription>
-

@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Suffolk County - Mastics-Moriches-Shirley Lookup</ShortName>
-<Description>Look up books on Suffolk County - Mastics-Moriches-Shirley</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=37"/>
-</OpenSearchDescription>
-

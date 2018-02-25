@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Toronto Public Library - Pleasant View Lookup</ShortName>
-<Description>Look up books on Toronto Public Library - Pleasant View</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&amp;N=0&amp;advancedSearch=true&amp;Ntt={rft:isbn}&amp;N=33165"/>
-</OpenSearchDescription>
-

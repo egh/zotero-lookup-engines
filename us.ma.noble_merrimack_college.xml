@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>NOBLE - Merrimack College Lookup</ShortName>
-<Description>Look up books on NOBLE - Merrimack College</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://catalog.noblenet.org/search/?searchtype=i&amp;searcharg={rft:isbn}&amp;searchscope=40"/>
-</OpenSearchDescription>
-

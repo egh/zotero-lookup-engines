@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Olympic College Lookup</ShortName>
-<Description>Look up books on Olympic College</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://olympic.library.ctc.edu/vwebv/search?searchArg1={rft:isbn}&amp;argType1=any&amp;searchCode1=ISBN&amp;searchType=2"/>
-</OpenSearchDescription>
-

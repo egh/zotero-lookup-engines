@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Professionshøjskolen Metropol Lookup</ShortName>
-<Description>Look up books on Professionshøjskolen Metropol</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://p3410-sfx.dbc.dk.ez-jmk.statsbiblioteket.dk:2048/dbc-ph_metropol?&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=info:ofi/&amp;{z:openURL}"/>
-</OpenSearchDescription>
-

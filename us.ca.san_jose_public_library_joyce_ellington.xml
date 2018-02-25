@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>San Jose Public Library - Joyce Ellington Lookup</ShortName>
-<Description>Look up books on San Jose Public Library - Joyce Ellington</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://catalog.sjlibrary.org/search~/a?searchtype=i&amp;searcharg={rft:isbn}&amp;availlim=1&amp;searchscope=25"/>
-</OpenSearchDescription>
-

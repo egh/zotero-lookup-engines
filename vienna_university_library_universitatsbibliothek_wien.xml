@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Vienna University Library (Universitätsbibliothek Wien) Lookup</ShortName>
-<Description>Look up books on Vienna University Library (Universitätsbibliothek Wien)</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://sfx.univie.ac.at:9003/sfx_local/?{z:openURL}"/>
-</OpenSearchDescription>
-

@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Phoenix Public Library - Acacia Lookup</ShortName>
-<Description>Look up books on Phoenix Public Library - Acacia</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&amp;ISBN={rft:isbn}&amp;Submit=Submit&amp;Location=6643"/>
-</OpenSearchDescription>
-

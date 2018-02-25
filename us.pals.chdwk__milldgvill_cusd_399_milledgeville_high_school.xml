@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>LS - Chdwk/ Milldgvill CUSD 399 - Milledgeville High School Lookup</ShortName>
-<Description>Look up books on LS - Chdwk/ Milldgvill CUSD 399 - Milledgeville High School</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=MWLY-14&amp;sort_by=ANY%27"/>
-</OpenSearchDescription>
-

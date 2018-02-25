@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>University of Wollonogong Lookup</ShortName>
-<Description>Look up books on University of Wollonogong</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://ey9ff7jb6l.search.serialssolutions.com/?{z:openURL}"/>
-</OpenSearchDescription>
-

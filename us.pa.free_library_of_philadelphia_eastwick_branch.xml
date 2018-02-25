@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Free Library of Philadelphia - Eastwick Branch Lookup</ShortName>
-<Description>Look up books on Free Library of Philadelphia - Eastwick Branch</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="https://catalog.freelibrary.org/web2/tramp2.exe/form/log_in?setting_key=ENGLISH&amp;servers=1home&amp;query={rft:isbn}&amp;location_group_filter=EASTWICK&amp;buttons=K_Keyword%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3Ddefault+search_button_easy%3DK_Keyword&amp;buttons=*%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3Ddefault+search_button_easy%3DK_Keyword&amp;K_Keyword=Keyword&amp;buttons=K_Author%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3DAU+search_button_easy%3DK_Author&amp;buttons=K_Title%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3DTI+search_button_easy%3DK_Title&amp;buttons=K_Subject%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3DSU+search_button_easy%3DK_Subject&amp;buttons=K_Series%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3DSER+search_button_easy%3DK_Series&amp;buttons=K_Periodical%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3DPER+search_button_easy%3DK_Periodical&amp;buttons=prev%3Dprevious_search&amp;buttons=next%3Dnext_search"/>
-</OpenSearchDescription>
-

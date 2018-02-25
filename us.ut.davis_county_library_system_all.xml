@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Davis County Library System - All Lookup</ShortName>
-<Description>Look up books on Davis County Library System - All</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://168.180.199.11/uhtbin/cgisirsi.exe/x/0/0/123?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=ALL"/>
-</OpenSearchDescription>
-

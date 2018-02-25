@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>St. Paul Public Library Lookup</ShortName>
-<Description>Look up books on St. Paul Public Library</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://alpha.stpaul.lib.mn.us/search/i?SEARCH={rft:isbn}&amp;sortdropdown=-&amp;searchscope=16"/>
-</OpenSearchDescription>
-

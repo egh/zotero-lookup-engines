@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Victoria - Monash University Lookup</ShortName>
-<Description>Look up books on Victoria - Monash University</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://library.monash.edu.au/vwebv/search?searchArg1={rft:isbn}&amp;argType1=all&amp;searchCode1=ISBN&amp;combine2=and&amp;searchArg2=&amp;argType2=all&amp;searchCode2=GKEY&amp;fromYear=&amp;toYear=&amp;location=all&amp;type=all&amp;language=all&amp;recCount=20&amp;searchType=2&amp;page.search.search.button=Search"/>
-</OpenSearchDescription>
-

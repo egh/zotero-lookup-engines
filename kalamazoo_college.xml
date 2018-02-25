@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Kalamazoo College Lookup</ShortName>
-<Description>Look up books on Kalamazoo College</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://yw8lv9um2l.search.serialssolutions.com/?{z:openURL}"/>
-</OpenSearchDescription>
-

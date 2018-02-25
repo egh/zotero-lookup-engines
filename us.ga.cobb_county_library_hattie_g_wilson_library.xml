@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Cobb County Library - Hattie G. Wilson Library Lookup</ShortName>
-<Description>Look up books on Cobb County Library - Hattie G. Wilson Library</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=HGWILSON"/>
-</OpenSearchDescription>
-

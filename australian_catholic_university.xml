@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Australian Catholic University Lookup</ShortName>
-<Description>Look up books on Australian Catholic University</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://ezproxy.acu.edu.au:2048/login?url=http://cooee.unilinc.edu.au:9003/acu&amp;{z:openURL}"/>
-</OpenSearchDescription>
-

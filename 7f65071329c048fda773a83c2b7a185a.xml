@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>UAFS Boreham Library Lookup</ShortName>
-<Description>Look up books on UAFS Boreham Library</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://libcat.uafortsmith.edu/search~S0/?searchtype=i&amp;searcharg={rft:isbn}"/>
-</OpenSearchDescription>
-

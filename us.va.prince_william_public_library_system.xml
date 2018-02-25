@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Prince William Public Library System Lookup</ShortName>
-<Description>Look up books on Prince William Public Library System</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://librarycatalog.pwcgov.org/polaris/search/searchresults.aspx?ctx=1.1033.0.0.4&amp;type=Advanced&amp;term={rft:isbn}&amp;by=ISBN&amp;bool1=And&amp;sort=RELEVANCE&amp;page=0"/>
-</OpenSearchDescription>
-

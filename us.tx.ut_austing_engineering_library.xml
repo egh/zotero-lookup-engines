@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>UT Austin  - Engineering Library Lookup</ShortName>
-<Description>Look up books on UT Austin  - Engineering Library</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://catalog.lib.utexas.edu/search/i?SEARCH={rft:isbn}&amp;searchscope=15"/>
-</OpenSearchDescription>
-

@@ -1,9 +1,0 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Burbank Public Library - Northwest Branch Lookup</ShortName>
-<Description>Look up books on Burbank Public Library - Northwest Branch</Description>
-<Url type="text/html" method="GET"
-	xmlns:z="http://www.zotero.org/namespaces/openSearch#"
-	xmlns:rft="info:ofi/fmt:kev:mtx:book" 
-	template="http://66.77.127.97/uhtbin/cgisirsi.exe/x/0/0/123?searchdata1={rft:isbn}&amp;srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&amp;library=NORTHWEST"/>
-</OpenSearchDescription>
-
