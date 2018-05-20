@@ -35,11 +35,11 @@ items.each do |item|
   countries[country] ||= {}
   countries[country][state] ||= []
   countries[country][state].push(item)
-  File.open(File.join('engines', "#{name}.html"), 'w') do |f|
+  File.open(File.join('generated', "#{name}.html"), 'w') do |f|
     f << html_template.render('item' => item)
   end
 end
 
-File.open(File.join('engines', 'index.html'), 'w') do |f|
+File.open(File.join('generated', 'index.html'), 'w') do |f|
   f << index_template.render('countries' => countries)
 end
