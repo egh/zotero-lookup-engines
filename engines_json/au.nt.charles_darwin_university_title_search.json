@@ -3,7 +3,7 @@
   "name": "au.nt.charles_darwin_university_title_search",
   "alias": "CDU-DOI",
   "icon": "http://cdu.edu.au/favicon.ico",
-  "_urlTemplate": "https://cdu-edu-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=61CDU_INT&vid=61CDU&query=any,contains,{z:title}",
+  "linktemplate": "https://cdu-edu-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=61CDU_INT&vid=61CDU&query=any,contains,{z:title}",
   "description": "CDU search by DOI",
   "hidden": false,
   "_urlParams": [],
