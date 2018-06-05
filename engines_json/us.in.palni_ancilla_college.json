@@ -1,5 +1,4 @@
 {
-  "match_isbn": true,
   "dont": "032119375X",
   "is_community": false,
   "missing": null,
