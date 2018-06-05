@@ -1,13 +1,6 @@
 {
-    "title": "Tsingua Univeristy Library",
+    "title": "Tsingua University Library",
     "name": "cn.tsinghua_library",
-    "icon": "http://www.tsinghua.edu.cn/publish/thu2018en/images/favicon.ico",
-    "linktemplate": "https://tsinghua-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=86THU_INT&vid=86THU&query=any,contains,{z:title}",
-    "description": "Tsinghua University Library",
-    "hidden": false,
-    "_urlParams": [],
-    "_urlNamespaces": {
-        "z": "http://www.zotero.org/namespaces/openSearch#"
-    },
-    "_iconSourceURI": "http://www.tsinghua.edu.cn/publish/thu2018en/images/favicon.ico"
+    "linktemplate": "https://tsinghua-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=86THU_INT&vid=86THU&query=any,contains,{rft:isbn}",
+    "country": "cn"
 }
