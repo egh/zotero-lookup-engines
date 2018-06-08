@@ -30,7 +30,9 @@
 		"description": "Search {{ item.title  }}",
 		"alias": "{{ item.name  }}",
 		"hidden": false,
-		"icon": null,
+                {%- if item.icon %}
+                "_iconSourceURI": "{{ item.icon }}",
+                {% endif -%}
 		"_urlParams": [],
 		"_urlNamespaces": {
 			"rft": "info:ofi/fmt:kev:mtx:journal",
