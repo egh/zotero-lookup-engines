@@ -3,5 +3,5 @@
     "name": "cn.tsinghua_library",
     "linktemplate": "http://sfx.lib.tsinghua.edu.cn/tsinghua?{z:openURL}",
     "country": "cn",
-    "icon": "http://sfx.lib.tsinghua.edu.cn/favicon.ico"
+    "icon": "http://lib.tsinghua.edu.cn/favicon.ico"
 }
