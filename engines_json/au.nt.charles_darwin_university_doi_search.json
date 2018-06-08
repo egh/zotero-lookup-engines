@@ -10,5 +10,5 @@
   "_urlNamespaces": {
     "z": "http://www.zotero.org/namespaces/openSearch#"
   },
-  "_iconSourceURI": "http://cdu.edu.au/favicon.ico"
+  "icon": "http://cdu.edu.au/favicon.ico"
 }
