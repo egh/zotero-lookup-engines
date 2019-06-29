@@ -1,0 +1,14 @@
+{
+  "title": "KTH Royal Institute Of Technology",
+  "name": "se.kth_royal_institute_of_technology",
+  "country": "SE",
+  "alias": "KTH",
+  "icon": "https://www.kth.se/polopoly_fs/1.871948.1550155901!/favicon.ico",
+  "linktemplate": "https://kth-primo.hosted.exlibrisgroup.com/openurl/46KTH/46KTH_services_page?{z:openURL}",
+  "description": "KTH search",
+  "hidden": false,
+  "_urlParams": [],
+  "_urlNamespaces": {
+    "z": "http://www.zotero.org/namespaces/openSearch#"
+  }
+}
