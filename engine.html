@@ -31,7 +31,7 @@
 		"alias": "{{ item.name  }}",
 		"hidden": false,
                 {%- if item.icon %}
-                "_iconSourceURI": "{{ item.icon }}",
+                "icon": "{{ item.icon }}",
                 {% else %}
                 {% endif -%}
 		"_urlParams": [],
@@ -62,7 +62,7 @@
                         "z": "http://www.zotero.org/namespaces/openSearch#",
                         "": "http://a9.com/-/spec/opensearch/1.1/"
                 },
-                "_iconSourceURI": "https://crossref.org/favicon.ico"
+                "icon": "https://crossref.org/favicon.ico"
         },
         {
                 "name": "Google Scholar Search",
@@ -77,7 +77,7 @@
                         "z": "http://www.zotero.org/namespaces/openSearch#",
                         "": "http://a9.com/-/spec/opensearch/1.1/"
                 },
-                "_iconSourceURI": "https://scholar.google.com/favicon.ico"
+                "icon": "https://scholar.google.com/favicon.ico"
         },
 	{
 		"name": "{{ item.title Search }}",
