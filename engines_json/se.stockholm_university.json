@@ -1,0 +1,14 @@
+{
+  "title": "Stockholm University",
+  "name": "se.stockholm_university",
+  "country": "SE",
+  "alias": "SU",
+  "icon": "https://www.su.se/polopoly_fs/1.118008.1357891608!/menu/standard/file/logo-neg-svensk_ny.gif",
+  "linktemplate": "http://sfxeu11.hosted.exlibrisgroup.com/sfxsub?{z:openURL}",
+  "description": "SU search",
+  "hidden": false,
+  "_urlParams": [],
+  "_urlNamespaces": {
+    "z": "http://www.zotero.org/namespaces/openSearch#"
+  }
+}
