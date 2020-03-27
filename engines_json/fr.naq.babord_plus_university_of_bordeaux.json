@@ -1,0 +1,14 @@
+{
+    "title": "Babord + - Université de Bordeaux",
+    "name": "fr.naq.babord_plus_university_of_bordeaux",
+    "country": "FR",
+    "alias": "B+UBX",
+    "icon":  "https://babordplus.hosted.exlibrisgroup.com/primo-explore/custom/33PUDB_UB_VU1/img/favicon.ico",
+    "linktemplate": "https://babordplus.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{z:title}+{rft:aufirst?}+{rft:aulast?}+{z:ISBN?}+{rft:jtitle?}+{z:ISSN?}+{z:DOI?}&tab=default_tab&search_scope=catalog_pci&vid=33PUDB_UB_VU1&offset=0",
+    "description": "Recheche dans le catalogue des bibliothèques universitaires de Bordeaux via la vue dédiée aux membres de l'Université de Bordeaux.",
+    "hidden": false,
+    "_urlParams": [],
+    "_urlNamespaces": {
+      "z": "http://www.zotero.org/namespaces/openSearch#"
+    }
+  }
