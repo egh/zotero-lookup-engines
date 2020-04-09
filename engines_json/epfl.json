@@ -1,5 +1,5 @@
 {
   "title": "EPFL",
   "name": "epfl",
-  "linktemplate": "http://sfx.ethz.ch/sfx_epfl?{z:openURL}"
+  "linktemplate": "https://sfx.ethz.ch/sfx_epf?{z:openURL}"
 }
