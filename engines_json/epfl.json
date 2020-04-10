@@ -1,5 +1,14 @@
 {
-  "title": "EPFL",
-  "name": "epfl",
-  "linktemplate": "https://sfx.ethz.ch/sfx_epf?{z:openURL}"
+  "_name": "EPFL",
+  "_alias": "epfl",
+  "_description": "Search EPFL",
+  "_icon": "https://www.epfl.ch/wp-content/themes/wp-theme-2018/assets/favicons/favicon-16.png",
+  "_hidden": false,
+  "_urlTemplate": "https://sfx.ethz.ch/sfx_epf?{z:openURL}",
+  "_urlParams": [],
+  "_urlNamespaces": {
+    "rft": "info:ofi/fmt:kev:mtx:journal",
+    "z": "http://www.zotero.org/namespaces/openSearch#",
+    "": "http://a9.com/-/spec/opensearch/1.1/"
+  }
 }
