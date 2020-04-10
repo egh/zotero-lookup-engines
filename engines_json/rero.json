@@ -1,5 +1,14 @@
 {
-  "title": "RERO",
-  "name": "rero",
-  "linktemplate": "http://resolver.rero.ch/rero?{z:openURL}"
+  "_name": "RERO",
+  "_alias": "rero",
+  "_description": "Search RERO",
+  "_icon": "https://www.rero.ch/favicon.ico",
+  "_hidden": false,
+  "_urlTemplate": "http://resolver.rero.ch/rero?{z:openURL}",
+  "_urlParams": [],
+  "_urlNamespaces": {
+    "rft": "info:ofi/fmt:kev:mtx:journal",
+    "z": "http://www.zotero.org/namespaces/openSearch#",
+    "": "http://a9.com/-/spec/opensearch/1.1/"
+  }
 }
