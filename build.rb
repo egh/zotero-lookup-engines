@@ -25,7 +25,7 @@ items = Dir['engines_json/*'].map do |filename|
   item['name'] = name
   item
 end.sort_by do |i|
-  [i['country'] || '', i['state'] || '', i['title']]
+  [i['country'] || '', i['state'] || '', i['name']]
 end
 
 items.each do |item|
