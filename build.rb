@@ -21,21 +21,21 @@ index_template = Liquid::Template.parse(File.read('index.html'))
 countries = {}
 items = Dir['engines_json/*'].map do |filename|
   item = JSON.parse(File.read(filename))
-  name = File.basename(filename, '.json')
-  item['name'] = name
+  filename = File.basename(filename, '.json')
+  item['filename'] = filename
   item
 end.sort_by do |i|
-  [i['country'] || '', i['state'] || '', i['name']]
+  [i['country'] || '', i['state'] || '', i['filename']]
 end
 
 items.each do |item|
-  name = item['name']
+  filename = item['filename']
   country = item['country'] || 'NONE'
   state = item['state'] || 'NONE'
   countries[country] ||= {}
   countries[country][state] ||= []
   countries[country][state].push(item)
-  File.open(File.join('generated', "#{name}.html"), 'w') do |f|
+  File.open(File.join('generated', "#{filename}.html"), 'w') do |f|
     f << html_template.render('item' => item)
   end
 end
