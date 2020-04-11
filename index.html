@@ -11,7 +11,12 @@
               <li>{{ state[0] }}
                 <ul>
                   {% for item in state[1] %}
-                    <li><a href="{{ item.name }}.html">{{ item.title }}</a></li>
+                  <li>
+                    {%- if item.icon %}
+                    <img src={{ item.icon }}>
+                    {% endif %}
+                    <a href="{{ item.name }}.html">{{ item.title }}</a>
+                  </li>
                   {% endfor %}
                 </ul>
               </li>
