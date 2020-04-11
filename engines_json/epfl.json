@@ -1,8 +1,6 @@
 {
-  "title": "EPFL",
-  "name": "epfl",
+  "name": "EPFL",
   "country": "FR",
-  "description": "Search EPFL",
   "icon": "https://www.epfl.ch/wp-content/themes/wp-theme-2018/assets/favicons/favicon-16.png",
   "linktemplate": "https://sfx.ethz.ch/sfx_epf?{z:openURL}"
 }
