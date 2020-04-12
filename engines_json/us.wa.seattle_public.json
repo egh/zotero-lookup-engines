@@ -1,6 +1,5 @@
 {
   "title": "Seattle Public Library",
-  "tested": "2015-07-04T00:47:13Z",
   "country": "US",
   "state": "WA",
   "linktemplate": "http://catalog.spl.org/ipac20/ipac.jsp?index=ISBNEX&term={rft:isbn}"

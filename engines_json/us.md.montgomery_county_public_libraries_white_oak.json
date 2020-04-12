@@ -1,6 +1,5 @@
 {
   "title": "Montgomery County Public Library- White Oak",
-  "tested": "2015-07-01T22:02:11Z",
   "country": "US",
   "state": "MD",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=WHITE_OAK"

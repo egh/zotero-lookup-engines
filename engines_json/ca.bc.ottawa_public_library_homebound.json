@@ -1,6 +1,5 @@
 {
   "title": "Ottawa Public Library - Homebound",
-  "tested": "2015-06-28T22:31:11Z",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Homebound%22&custom_edit=false"

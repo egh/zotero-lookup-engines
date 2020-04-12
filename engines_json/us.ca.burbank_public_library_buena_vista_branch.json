@@ -1,6 +1,5 @@
 {
   "title": "Burbank Public Library - Buena Vista Branch",
-  "tested": "2015-06-26T09:58:02Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://66.77.127.97/uhtbin/cgisirsi.exe/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=BUENAVISTA"

@@ -1,6 +1,5 @@
 {
   "title": "LS - Peru Public Library",
-  "tested": "2015-06-30T23:17:22Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=PUGG-8&sort_by=ANY%27"

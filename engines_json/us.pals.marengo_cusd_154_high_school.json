@@ -1,6 +1,5 @@
 {
   "title": "LS - Marengo CUSD 154 - High School",
-  "tested": "2015-07-03T12:17:21Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MGLY&sort_by=ANY%27"

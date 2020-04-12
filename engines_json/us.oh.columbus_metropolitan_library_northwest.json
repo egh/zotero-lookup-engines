@@ -1,6 +1,5 @@
 {
   "title": "Columbus Metropolitan Library - Northwest",
-  "tested": "2015-06-29T21:46:05Z",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Northwest"

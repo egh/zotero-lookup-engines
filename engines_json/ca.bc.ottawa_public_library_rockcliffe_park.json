@@ -1,6 +1,5 @@
 {
   "title": "Ottawa Public Library - Rockcliffe Park",
-  "tested": "2015-06-28T21:01:03Z",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Rockcliffe+Park%22&custom_edit=false"

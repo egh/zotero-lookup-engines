@@ -1,6 +1,5 @@
 {
   "title": "Tempe Public Library",
-  "tested": "2015-06-26T07:58:12Z",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://catalog.tempe.gov/search/i?{rft:isbn}"

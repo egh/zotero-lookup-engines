@@ -1,6 +1,5 @@
 {
   "title": "NOBLE - North Shore Community College",
-  "tested": "2015-06-30T06:16:04Z",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=43"

@@ -1,6 +1,5 @@
 {
   "title": "Charleston County Public Library - McClellanville",
-  "tested": "2015-07-03T23:47:23Z",
   "country": "US",
   "state": "SC",
   "linktemplate": "http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MCC_VILLE"

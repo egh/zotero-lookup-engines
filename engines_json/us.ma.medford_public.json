@@ -1,6 +1,5 @@
 {
   "title": "Medford Public Library",
-  "tested": "2015-06-29T23:31:14Z",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=24"

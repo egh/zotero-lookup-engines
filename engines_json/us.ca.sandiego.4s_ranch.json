@@ -1,6 +1,5 @@
 {
   "title": "San Diego - 4S Ranch",
-  "tested": "2015-06-27T06:46:14Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=1"

@@ -1,6 +1,5 @@
 {
   "title": "San Diego - North Mobile Library",
-  "tested": "2015-06-27T09:01:08Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=25"

@@ -1,6 +1,5 @@
 {
   "title": "Phoenix Public Library - Desert Sage",
-  "tested": "2015-07-04T10:02:04Z",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=6647"

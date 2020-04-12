@@ -1,6 +1,5 @@
 {
   "title": "Thriftbooks",
-  "tested": "2015-07-02T08:02:05Z",
   "country": "US",
   "state": null,
   "linktemplate": "http://www.thriftbooks.com/viewDetails.aspx?ASIN={rft:isbn}"

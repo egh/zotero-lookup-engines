@@ -1,6 +1,5 @@
 {
   "title": "Fort Vancouver Regional Library - Skamania County Bookmobile",
-  "tested": "2015-06-28T13:16:00Z",
   "country": "US",
   "state": "WA",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=FV-BKS"

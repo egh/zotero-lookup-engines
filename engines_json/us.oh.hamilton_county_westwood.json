@@ -1,6 +1,5 @@
 {
   "title": "Hamilton - Westwood",
-  "tested": "2015-07-01T16:02:00Z",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=WSTWOOD"

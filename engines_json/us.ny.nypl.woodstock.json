@@ -1,6 +1,5 @@
 {
   "title": "NYPL - Woodstock",
-  "tested": "2015-06-30T18:16:02Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=92"

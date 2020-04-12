@@ -1,6 +1,5 @@
 {
   "title": "Johnson Co. Library",
-  "tested": "2015-06-25T18:13:04Z",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=johnweb&library=JOHN&searchdata1={rft:isbn}"

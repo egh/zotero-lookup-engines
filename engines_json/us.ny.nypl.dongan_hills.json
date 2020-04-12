@@ -1,6 +1,5 @@
 {
   "title": "NYPL - Dongan Hills",
-  "tested": "2015-07-03T02:47:03Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=21"

@@ -1,6 +1,5 @@
 {
   "title": "Chicago BrookfieldPL Juvenile",
-  "tested": "2015-06-27T18:46:05Z",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=90"

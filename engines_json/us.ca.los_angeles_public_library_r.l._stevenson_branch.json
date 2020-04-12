@@ -1,6 +1,5 @@
 {
   "title": "LA Public - R.L. Stevenson Branch",
-  "tested": "2015-07-03T13:17:09Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=RLSTVN"

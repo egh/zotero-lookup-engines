@@ -1,6 +1,5 @@
 {
   "title": "Suffolk County - Brookhaven",
-  "tested": "2015-06-30T19:01:22Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=7"

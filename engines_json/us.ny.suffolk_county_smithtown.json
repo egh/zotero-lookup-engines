@@ -1,6 +1,5 @@
 {
   "title": "Suffolk County - Smithtown",
-  "tested": "2015-07-01T07:47:12Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=62"

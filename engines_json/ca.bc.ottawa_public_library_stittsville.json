@@ -1,6 +1,5 @@
 {
   "title": "Ottawa Public Library - Stittsville",
-  "tested": "2015-06-28T21:31:03Z",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Stittsville%22&custom_edit=false"

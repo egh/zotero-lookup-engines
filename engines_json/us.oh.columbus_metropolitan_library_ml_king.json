@@ -1,6 +1,5 @@
 {
   "title": "Columbus Metropolitan Library - ML King",
-  "tested": "2015-06-29T23:01:06Z",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=ML+King"

@@ -1,6 +1,5 @@
 {
   "title": "Suffolk County - North Babylon",
-  "tested": "2015-07-01T04:17:21Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=40"

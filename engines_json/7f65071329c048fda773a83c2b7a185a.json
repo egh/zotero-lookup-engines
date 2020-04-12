@@ -1,6 +1,5 @@
 {
   "title": "UAFS Boreham Library",
-  "tested": "2015-07-03T00:32:01Z",
   "country": "US",
   "state": "AR",
   "linktemplate": "http://libcat.uafortsmith.edu/search~S0/?searchtype=i&searcharg={rft:isbn}"

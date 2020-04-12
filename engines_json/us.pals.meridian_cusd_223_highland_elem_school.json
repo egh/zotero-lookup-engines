@@ -1,6 +1,5 @@
 {
   "title": "LS - Meridian CUSD 223 - Highland Elem. School",
-  "tested": "2015-06-26T10:43:12Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SP4Y-14&sort_by=ANY%27"

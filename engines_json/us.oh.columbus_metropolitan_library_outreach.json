@@ -1,6 +1,5 @@
 {
   "title": "Columbus Metropolitan Library - Outreach",
-  "tested": "2015-06-29T23:31:09Z",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Outreach"

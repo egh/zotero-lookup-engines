@@ -1,6 +1,5 @@
 {
   "title": "Columbus Metropolitan Library - Whitehall",
-  "tested": "2015-06-29T22:31:10Z",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Whitehall"

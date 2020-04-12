@@ -1,6 +1,5 @@
 {
   "title": "Chicago Stickney-Forest View",
-  "tested": "2015-06-29T13:31:01Z",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=140"

@@ -1,6 +1,5 @@
 {
   "title": "NYPL - Castle Hill",
-  "tested": "2015-06-30T09:46:25Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=15"

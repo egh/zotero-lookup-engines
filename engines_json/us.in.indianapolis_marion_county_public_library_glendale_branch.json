@@ -1,6 +1,5 @@
 {
   "title": "Indianapolis - Marion County Public Library - Glendale Branch",
-  "tested": "2015-06-25T13:13:06Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Glendale+Branch"

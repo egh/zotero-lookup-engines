@@ -1,6 +1,5 @@
 {
   "title": "NOBLE - Swampscott",
-  "tested": "2015-06-30T07:31:02Z",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=30"

@@ -1,6 +1,5 @@
 {
   "title": "Chicago Forest Park",
-  "tested": "2015-06-28T13:31:05Z",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=56"

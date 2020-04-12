@@ -1,6 +1,5 @@
 {
   "title": "LS - Galena SD 120 - Primary School LRC",
-  "tested": "2015-06-24T17:43:21Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GL2Y-13&sort_by=ANY%27"

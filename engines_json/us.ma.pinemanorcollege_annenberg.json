@@ -1,6 +1,5 @@
 {
   "title": "Pine Manor College - Annenberg Library",
-  "tested": "2015-06-30T00:46:09Z",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=44"

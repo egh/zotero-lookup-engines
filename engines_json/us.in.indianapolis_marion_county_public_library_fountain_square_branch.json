@@ -1,6 +1,5 @@
 {
   "title": "Indianapolis - Marion County Public Library - Fountain Square Branch",
-  "tested": "2015-06-27T00:28:05Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Fountain+Square+Branch"

@@ -1,6 +1,5 @@
 {
   "title": "LS - Cherry Valley Library",
-  "tested": "2015-07-01T16:17:07Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=2&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"

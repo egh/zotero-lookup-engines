@@ -1,6 +1,5 @@
 {
   "title": "Laramie Co. Library - Genealogy",
-  "tested": "2015-06-25T18:58:13Z",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=larm-genweb&library=LARM-GEN&searchdata1={rft:isbn}"

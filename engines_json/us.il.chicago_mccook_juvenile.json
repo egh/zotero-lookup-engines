@@ -1,6 +1,5 @@
 {
   "title": "Chicago McCook Juvenile",
-  "tested": "2015-06-29T07:46:05Z",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=94"

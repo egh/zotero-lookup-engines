@@ -1,6 +1,5 @@
 {
   "title": "Orange County Public Library - Southeast",
-  "tested": "2015-06-27T15:16:15Z",
   "country": "US",
   "state": "FL",
   "linktemplate": "http://iii.ocls.info/search/a?a&searchtype=i&searcharg={rft:isbn}&searchscope=9"

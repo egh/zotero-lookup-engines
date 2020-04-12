@@ -1,6 +1,5 @@
 {
   "title": "LS - North Suburban/Loves Park",
-  "tested": "2015-07-01T17:47:03Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=12&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"

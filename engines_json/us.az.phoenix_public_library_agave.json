@@ -1,6 +1,5 @@
 {
   "title": "Phoenix Public Library - Agave",
-  "tested": "2015-07-04T09:17:01Z",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=7517"

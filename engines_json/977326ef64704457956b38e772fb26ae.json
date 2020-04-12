@@ -1,6 +1,5 @@
 {
   "title": "Stanford Libraries",
-  "tested": "2015-07-02T10:32:04Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://searchworks.stanford.edu/?utf8=%E2%9C%93&number={rft:isbn}&search_field=advanced"

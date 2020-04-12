@@ -1,6 +1,5 @@
 {
   "title": "Waukesha County - Eagle",
-  "tested": "2015-06-25T02:58:04Z",
   "country": "US",
   "state": "WI",
   "linktemplate": "http://www.cafelibraries.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=EAGLE^LIBR"

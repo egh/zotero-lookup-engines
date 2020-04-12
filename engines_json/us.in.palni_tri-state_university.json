@@ -1,6 +1,5 @@
 {
   "title": "PALNI - Tri-State University",
-  "tested": "2015-07-02T08:47:02Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plntsp&scan_start={rft:isbn}"

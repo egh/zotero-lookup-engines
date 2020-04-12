@@ -1,6 +1,5 @@
 {
   "title": "LS - Talcott Free Public Library",
-  "tested": "2015-07-03T19:17:11Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=17&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"

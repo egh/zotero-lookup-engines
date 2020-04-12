@@ -1,6 +1,5 @@
 {
   "title": "Indianapolis - Marion County Public Library - Central Library",
-  "tested": "2015-06-25T13:43:03Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Central+Library"

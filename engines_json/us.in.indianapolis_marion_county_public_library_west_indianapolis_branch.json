@@ -1,6 +1,5 @@
 {
   "title": "Indianapolis - Marion County Public Library - West Indianapolis Branch",
-  "tested": "2015-06-27T00:58:04Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=West+Indianapolis+Branch"

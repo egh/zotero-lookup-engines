@@ -1,6 +1,5 @@
 {
   "title": "San Diego Public - Pacific Beach/Taylor",
-  "tested": "2015-06-27T05:16:10Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=PACIFIC_B"

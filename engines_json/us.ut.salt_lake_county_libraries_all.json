@@ -1,6 +1,5 @@
 {
   "title": "Salt Lake County Libraries - All",
-  "tested": "2015-06-24T11:43:11Z",
   "country": "US",
   "state": "UT",
   "linktemplate": "http://ipac.slco.lib.ut.us/ipac20/ipac.jsp?index=ISBNEX&term={rft:isbn}"

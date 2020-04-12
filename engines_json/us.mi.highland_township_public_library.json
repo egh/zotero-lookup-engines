@@ -1,6 +1,5 @@
 {
   "title": "Highland Township Public Library",
-  "tested": "2015-07-02T00:32:01Z",
   "country": "US",
   "state": "MI",
   "linktemplate": "http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-HIGHLAND"

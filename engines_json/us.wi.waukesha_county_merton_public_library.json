@@ -1,6 +1,5 @@
 {
   "title": "Waukesha County - Merton",
-  "tested": "2015-06-25T03:13:02Z",
   "country": "US",
   "state": "WI",
   "linktemplate": "http://www.cafelibraries.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MERTON^LIBR"

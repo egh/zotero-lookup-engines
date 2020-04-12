@@ -1,6 +1,5 @@
 {
   "title": "LS - Lemont Public Library",
-  "tested": "2015-06-26T08:58:23Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=LMBB-1&sort_by=ANY%27"

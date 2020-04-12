@@ -1,6 +1,5 @@
 {
   "title": "LS - Great River Medical Ctr",
-  "tested": "2015-06-24T18:58:21Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GRMG-9&sort_by=ANY%27"

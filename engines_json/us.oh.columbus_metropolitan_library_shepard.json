@@ -1,6 +1,5 @@
 {
   "title": "Columbus Metropolitan Library - Shepard",
-  "tested": "2015-06-29T23:16:11Z",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Shepard"

@@ -1,6 +1,5 @@
 {
   "title": "Charleston County Public Library - Mt. Pleasant",
-  "tested": "2015-07-04T00:02:12Z",
   "country": "US",
   "state": "SC",
   "linktemplate": "http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MT_PLEASNT"

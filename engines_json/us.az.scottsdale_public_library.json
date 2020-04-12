@@ -1,6 +1,5 @@
 {
   "title": "Scottsdale Public Library",
-  "tested": "2015-06-26T07:28:02Z",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://encore.scottsdaleaz.gov/iii/encore/search?formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&target={rft:isbn}"

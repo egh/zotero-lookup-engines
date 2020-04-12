@@ -1,6 +1,5 @@
 {
   "title": "Chicago University Park Juvenile",
-  "tested": "2015-06-29T15:01:04Z",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=150"

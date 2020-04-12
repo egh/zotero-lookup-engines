@@ -1,6 +1,5 @@
 {
   "title": "Ramsey County Library",
-  "tested": "2015-07-02T09:02:01Z",
   "country": "US",
   "state": "MN",
   "linktemplate": "http://ipac.ramsey.lib.mn.us/ipac20/ipac.jsp?menu=search&x=13&index=ISBNE&term={rft:isbn}"

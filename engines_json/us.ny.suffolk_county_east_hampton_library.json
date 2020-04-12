@@ -1,6 +1,5 @@
 {
   "title": "Suffolk County - East Hampton Library",
-  "tested": "2015-06-30T20:01:40Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=76"

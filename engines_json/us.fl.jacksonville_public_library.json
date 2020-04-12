@@ -1,6 +1,5 @@
 {
   "title": "Jacksonville Public Library - All",
-  "tested": "2015-06-27T01:28:08Z",
   "country": "US",
   "state": "FL",
   "linktemplate": "http://jpl.coj.net/web2/tramp2.exe/do_keyword_search/guest?query={rft:isbn}&setting_key=english&servers=1home"

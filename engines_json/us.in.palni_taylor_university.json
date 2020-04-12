@@ -1,6 +1,5 @@
 {
   "title": "PALNI - Taylor University",
-  "tested": "2015-07-04T05:32:10Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plntup&scan_start={rft:isbn}"

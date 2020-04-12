@@ -1,6 +1,5 @@
 {
   "title": "Ithaca College Library",
-  "tested": "2015-06-29T02:16:25Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://icarus.ithaca.edu/cgi-bin/Pwebrecon.cgi?SAB1={rft:isbn}&FLD1=ISBN+%28ISBN%29&CNT=10&HIST=1"

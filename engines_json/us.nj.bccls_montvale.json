@@ -1,6 +1,5 @@
 {
   "title": "BCCLS - Montvale",
-  "tested": "2015-07-02T14:17:03Z",
   "country": "US",
   "state": "NJ",
   "linktemplate": "http://web22.bccls.org/web2/tramp2.exe/do_keyword_search/log_in?setting_key=BCCLS&servers=1home&query={rft:isbn}&highlightorlimit=Limit+to&whichlibrary=MOVL"

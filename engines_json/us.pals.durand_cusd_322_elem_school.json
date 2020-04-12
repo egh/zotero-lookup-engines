@@ -1,6 +1,5 @@
 {
   "title": "LS - Durand CUSD 322 - Elem. School",
-  "tested": "2015-07-04T03:32:21Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DS2Y-13&sort_by=ANY%27"

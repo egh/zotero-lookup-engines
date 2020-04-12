@@ -1,6 +1,5 @@
 {
   "title": "LS - Sherrard Public Library",
-  "tested": "2015-07-01T07:17:13Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SHDG-8&sort_by=ANY%27"

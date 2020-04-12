@@ -1,6 +1,5 @@
 {
   "title": "Suffolk County - Lindenhurst",
-  "tested": "2015-07-01T01:02:11Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=35"

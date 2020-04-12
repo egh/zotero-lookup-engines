@@ -1,6 +1,5 @@
 {
   "title": "Sonoma County Library - Rincon Valley",
-  "tested": "2015-06-27T12:01:04Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.sonomalibrary.org/ipac20/ipac.jsp?menu=search&index=ISBNEX&term={rft:isbn}&LO01=rinc"

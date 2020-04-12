@@ -1,6 +1,5 @@
 {
   "title": "Newton Free Library",
-  "tested": "2015-06-30T00:31:18Z",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=31"

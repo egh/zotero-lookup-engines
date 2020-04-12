@@ -1,6 +1,5 @@
 {
   "title": "Orange County Public Library - South Trail",
-  "tested": "2015-06-27T15:01:16Z",
   "country": "US",
   "state": "FL",
   "linktemplate": "http://iii.ocls.info/search/a?a&searchtype=i&searcharg={rft:isbn}&searchscope=8"

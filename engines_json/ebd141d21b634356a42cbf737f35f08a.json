@@ -1,6 +1,5 @@
 {
   "title": "Jackson-George Regional Library System",
-  "tested": "2015-07-01T11:02:03Z",
   "country": "US",
   "state": "MS",
   "linktemplate": "http://pac.jgrls.org/TLCScripts/Interpac.dll?NewestSearch&PeriodLimit=-1&FormId=144110048&LimitsId=0&StartIndex=0&SearchField=4096&SearchType=1&SearchData={rft:isbn}&ItemsPerPage=30&Branch=,0,&SearchAvailableOnly=0&NotAddToHistory=1"

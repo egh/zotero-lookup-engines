@@ -1,6 +1,5 @@
 {
   "title": "Dover Town Library",
-  "tested": "2015-06-29T18:46:10Z",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=13"

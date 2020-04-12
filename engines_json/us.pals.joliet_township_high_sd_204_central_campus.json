@@ -1,6 +1,5 @@
 {
   "title": "LS - Joliet Township High SD 204 - Central Campus",
-  "tested": "2015-06-26T06:28:20Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=JCHB-1&sort_by=ANY%27"

@@ -1,6 +1,5 @@
 {
   "title": "LA Public - Sunland-Tujunga Branch",
-  "tested": "2015-06-26T19:13:07Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=SNLNDT"

@@ -1,6 +1,5 @@
 {
   "title": "Lawrence Public Library",
-  "tested": "2015-06-29T16:16:05Z",
   "country": "US",
   "state": "KS",
   "linktemplate": "http://catalog.lawrence.lib.ks.us/search/i?SEARCH={rft:isbn}"

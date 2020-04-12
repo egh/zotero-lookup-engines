@@ -1,6 +1,5 @@
 {
   "title": "Purdue University",
-  "tested": "2015-07-03T20:32:11Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "https://www1.lib.purdue.edu/cgi-bin/Pwebrecon.cgi?SAB1={rft:isbn}&BOOL1=any+of+these&FLD1=ISBN+%28ISBN%29&CNT=50"

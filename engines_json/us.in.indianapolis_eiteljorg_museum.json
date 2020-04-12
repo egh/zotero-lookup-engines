@@ -1,6 +1,5 @@
 {
   "title": "Indianapolis - Eiteljorg Museum",
-  "tested": "2015-06-26T22:58:02Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Eiteljorg+Museum"

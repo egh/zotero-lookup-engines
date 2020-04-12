@@ -1,6 +1,5 @@
 {
   "title": "LS - Manteno CUSD 5 - High School",
-  "tested": "2015-06-26T08:13:22Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MHSB-4&sort_by=ANY%27"

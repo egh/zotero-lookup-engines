@@ -1,6 +1,5 @@
 {
   "title": "Orange County Public Library - Main Library",
-  "tested": "2015-06-27T14:31:31Z",
   "country": "US",
   "state": "FL",
   "linktemplate": "http://iii.ocls.info/search/a?a&searchtype=i&searcharg={rft:isbn}&searchscope=2"

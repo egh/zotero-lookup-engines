@@ -1,6 +1,5 @@
 {
   "title": "Fort Vancouver Regional Library - North Bonneville Community Library",
-  "tested": "2015-06-28T12:01:00Z",
   "country": "US",
   "state": "WA",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=FV-NB"

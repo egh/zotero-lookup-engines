@@ -1,6 +1,5 @@
 {
   "title": "Columbus Metropolitan Library - Worthington Park",
-  "tested": "2015-06-29T22:46:12Z",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Worthington+Park"

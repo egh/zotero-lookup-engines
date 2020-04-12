@@ -1,6 +1,5 @@
 {
   "title": "PALNI - Network",
-  "tested": "2015-07-01T18:47:13Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=pln01pub&scan_start={rft:isbn}"

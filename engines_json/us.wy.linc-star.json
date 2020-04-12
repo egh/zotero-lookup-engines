@@ -1,6 +1,5 @@
 {
   "title": "Lincoln Co. - Star Valley Branch",
-  "tested": "2015-06-25T20:13:08Z",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=linc-starweb&library=LINC-STAR&searchdata1={rft:isbn}"

@@ -1,6 +1,5 @@
 {
   "title": "San Antonio Public Library",
-  "tested": "2015-06-30T16:01:03Z",
   "country": "US",
   "state": "TX",
   "linktemplate": "http://sapl.sat.lib.tx.us/search~S1/?searchtype=i&searcharg={rft:isbn}"

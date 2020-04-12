@@ -1,6 +1,5 @@
 {
   "title": "Winchester Public Library",
-  "tested": "2015-06-30T02:01:09Z",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=42"

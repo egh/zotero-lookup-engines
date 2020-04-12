@@ -1,6 +1,5 @@
 {
   "title": "NYPL - Columbus",
-  "tested": "2015-06-30T10:16:09Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=19"

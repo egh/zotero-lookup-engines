@@ -1,6 +1,5 @@
 {
   "title": "San Diego - Alpine Branch",
-  "tested": "2015-06-27T07:01:01Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=2"

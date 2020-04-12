@@ -1,6 +1,5 @@
 {
   "title": "San Antonio Public Library - McCreless",
-  "tested": "2015-07-04T17:02:06Z",
   "country": "US",
   "state": "TX",
   "linktemplate": "http://sapl.sat.lib.tx.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=20"

@@ -1,6 +1,5 @@
 {
   "title": "Orange County Public Library - North Orange",
-  "tested": "2015-06-27T14:46:14Z",
   "country": "US",
   "state": "FL",
   "linktemplate": "http://iii.ocls.info/search/a?a&searchtype=i&searcharg={rft:isbn}&searchscope=7"

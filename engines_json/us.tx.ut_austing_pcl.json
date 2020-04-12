@@ -1,6 +1,5 @@
 {
   "title": "UT Austin  - PCL (Perry Castaneda Library)",
-  "tested": "2015-06-29T02:01:11Z",
   "country": "US",
   "state": "TX",
   "linktemplate": "http://catalog.lib.utexas.edu/search/i?SEARCH={rft:isbn}&searchscope=23"

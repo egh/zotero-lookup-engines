@@ -1,6 +1,5 @@
 {
   "title": "Chicago Grande Prairie",
-  "tested": "2015-06-29T03:16:00Z",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=63"

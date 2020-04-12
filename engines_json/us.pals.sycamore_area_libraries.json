@@ -1,6 +1,5 @@
 {
   "title": "LS - Sycamore Area Libraries",
-  "tested": "2015-07-03T19:17:10Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SYLYGRP01&sort_by=ANY%27"

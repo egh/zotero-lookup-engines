@@ -1,6 +1,5 @@
 {
   "title": "PALNI - Christian Theological Seminary",
-  "tested": "2015-07-01T19:17:01Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnctp&scan_start={rft:isbn}"

@@ -1,6 +1,5 @@
 {
   "title": "Davis County Library System - Kaysville Branch",
-  "tested": "2015-06-24T09:58:09Z",
   "country": "US",
   "state": "UT",
   "linktemplate": "http://168.180.199.11/uhtbin/cgisirsi.exe/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=KYV"

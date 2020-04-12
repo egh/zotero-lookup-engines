@@ -1,6 +1,5 @@
 {
   "title": "PALNI - Marian College",
-  "tested": "2015-06-30T02:16:09Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnmcp&scan_start={rft:isbn}"

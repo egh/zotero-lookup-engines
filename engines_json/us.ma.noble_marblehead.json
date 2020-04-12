@@ -1,6 +1,5 @@
 {
   "title": "NOBLE - Marblehead",
-  "tested": "2015-06-30T05:31:02Z",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=14"

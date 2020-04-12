@@ -1,6 +1,5 @@
 {
   "title": "NYPL - Hudson Park",
-  "tested": "2015-06-30T11:46:10Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=36"

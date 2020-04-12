@@ -1,6 +1,5 @@
 {
   "title": "San Jose Public Library - King Library",
-  "tested": "2015-06-25T09:13:30Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&availlim=1&searchscope=12"

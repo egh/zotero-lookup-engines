@@ -1,6 +1,5 @@
 {
   "title": "Indianapolis - Marion County Public Library - infoZone",
-  "tested": "2015-06-25T14:28:04Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=infoZone"

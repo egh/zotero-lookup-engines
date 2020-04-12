@@ -1,6 +1,5 @@
 {
   "title": "NYPL - 115th Street",
-  "tested": "2015-06-30T08:01:04Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=5"

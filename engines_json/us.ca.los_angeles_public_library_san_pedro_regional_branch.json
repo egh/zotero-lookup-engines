@@ -1,6 +1,5 @@
 {
   "title": "LA Public - San Pedro Regional Branch",
-  "tested": "2015-06-28T14:46:10Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=SPEDRO"

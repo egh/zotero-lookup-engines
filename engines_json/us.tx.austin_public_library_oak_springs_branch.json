@@ -1,6 +1,5 @@
 {
   "title": "Austin - Oak Springs Branch",
-  "tested": "2015-07-04T13:32:12Z",
   "country": "US",
   "state": "TX",
   "linktemplate": "https://www.ci.austin.tx.us/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=OS"

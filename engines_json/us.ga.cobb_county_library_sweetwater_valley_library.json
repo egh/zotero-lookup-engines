@@ -1,6 +1,5 @@
 {
   "title": "Cobb County Library - Sweetwater Valley Library",
-  "tested": "2015-07-03T18:47:13Z",
   "country": "US",
   "state": "GA",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SWEETWATER"

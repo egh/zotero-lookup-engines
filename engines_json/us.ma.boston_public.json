@@ -1,6 +1,5 @@
 {
   "title": "Boston Public Library",
-  "tested": "2015-06-26T09:28:13Z",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.mbln.org/ipac20/ipac.jsp?profile=bpl1&index=.BN&term={rft:isbn}"

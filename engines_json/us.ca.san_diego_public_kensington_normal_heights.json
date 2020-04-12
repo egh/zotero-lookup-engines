@@ -1,6 +1,5 @@
 {
   "title": "San Diego Public - Kensington-Normal Heights",
-  "tested": "2015-07-03T18:17:13Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=KEN-NH"

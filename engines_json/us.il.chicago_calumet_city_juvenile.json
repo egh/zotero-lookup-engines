@@ -1,6 +1,5 @@
 {
   "title": "Chicago Calumet City Juvenile",
-  "tested": "2015-06-27T19:01:02Z",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=25"

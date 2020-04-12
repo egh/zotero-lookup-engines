@@ -1,6 +1,5 @@
 {
   "title": "Sheffield",
-  "tested": "2015-06-26T05:58:00Z",
   "country": "US",
   "state": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=54"

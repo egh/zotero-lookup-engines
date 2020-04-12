@@ -1,6 +1,5 @@
 {
   "title": "Winnipeg Public Library",
-  "tested": "2015-06-30T13:01:15Z",
   "country": "CA",
   "state": "MA",
   "linktemplate": "http://wpl-pac.winnipeg.ca/ipac20/ipac.jsp?menu=search&profile=wpl&index=ISBNEX&term={rft:isbn}"

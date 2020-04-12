@@ -1,6 +1,5 @@
 {
   "title": "Jefferson County Public Library",
-  "tested": "2015-06-27T13:16:15Z",
   "country": "US",
   "state": "CO",
   "linktemplate": "http://sable.jefferson.lib.co.us/search/?searchtype=i&searcharg={rft:isbn}&SORT=D&searchscope=9"

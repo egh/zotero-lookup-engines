@@ -1,6 +1,5 @@
 {
   "title": "LS - Shorewood-Troy Public Library",
-  "tested": "2015-07-04T08:47:22Z",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=STBB-2&sort_by=ANY%27"

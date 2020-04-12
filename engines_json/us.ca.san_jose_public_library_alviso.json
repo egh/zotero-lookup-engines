@@ -1,6 +1,5 @@
 {
   "title": "San Jose Public Library - Alviso",
-  "tested": "2015-06-25T09:28:19Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&searchscope=1&availlim=16"

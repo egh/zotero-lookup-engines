@@ -1,6 +1,5 @@
 {
   "title": "Columbus Metropolitan Library - Southeast",
-  "tested": "2015-06-29T22:16:08Z",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Southeast"

@@ -1,6 +1,5 @@
 {
   "title": "Phoenix Public Library - Ironwood",
-  "tested": "2015-07-04T10:17:01Z",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=6650"

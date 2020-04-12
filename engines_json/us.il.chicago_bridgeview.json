@@ -1,6 +1,5 @@
 {
   "title": "Chicago Bridgeview",
-  "tested": "2015-06-27T18:01:04Z",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=110"

@@ -1,6 +1,5 @@
 {
   "title": "Driftwood",
-  "tested": "2015-06-29T18:31:08Z",
   "country": "US",
   "state": "OR",
   "linktemplate": "http://www.beachbooks.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DRIFTWD"

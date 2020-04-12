@@ -1,6 +1,5 @@
 {
   "title": "Vancouver Public Library - Champlain Heights Branch",
-  "tested": "2015-06-28T14:16:04Z",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Champlain+Heights+Branch+Library%22&custom_edit=false"

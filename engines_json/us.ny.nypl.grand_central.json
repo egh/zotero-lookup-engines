@@ -1,6 +1,5 @@
 {
   "title": "NYPL - Grand Central",
-  "tested": "2015-06-30T11:16:02Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=29"

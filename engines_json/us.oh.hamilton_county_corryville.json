@@ -1,6 +1,5 @@
 {
   "title": "Hamilton - Corryville",
-  "tested": "2015-07-01T13:17:03Z",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CORRYVILLE"

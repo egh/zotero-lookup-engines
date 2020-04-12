@@ -1,6 +1,5 @@
 {
   "title": "PALNI - Franklin College",
-  "tested": "2015-06-27T15:53:01Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnfcp&scan_start={rft:isbn}"

@@ -1,6 +1,5 @@
 {
   "title": "PALNI - Depauw University",
-  "tested": "2015-06-27T13:31:04Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plndup&scan_start={rft:isbn}"

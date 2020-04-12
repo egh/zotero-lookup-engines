@@ -1,6 +1,5 @@
 {
   "title": "St. L Muni Lib Consortium",
-  "tested": "2015-06-30T03:46:02Z",
   "country": "US",
   "state": "MO",
   "linktemplate": "http://catalog.mlc.lib.mo.us/ipac20/ipac.jsp?profile=uc&index=ISBNEX&term={rft:isbn}"

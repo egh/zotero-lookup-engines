@@ -1,6 +1,5 @@
 {
   "title": "Cobb County Library - Marietta Area Libraries",
-  "tested": "2015-07-02T04:02:12Z",
   "country": "US",
   "state": "GA",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MARIETTA"

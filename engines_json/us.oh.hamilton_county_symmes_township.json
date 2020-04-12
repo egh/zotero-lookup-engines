@@ -1,6 +1,5 @@
 {
   "title": "Hamilton - Symmes Township",
-  "tested": "2015-07-01T15:47:02Z",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SYMMES_TWP"

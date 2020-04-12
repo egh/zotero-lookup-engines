@@ -1,6 +1,5 @@
 {
   "title": "Loudoun County",
-  "tested": "2015-07-02T07:02:02Z",
   "country": "US",
   "state": "VA",
   "linktemplate": "http://catalog.lcpl.lib.va.us/ipac20/ipac.jsp?menu=search&profile=adm&ri=&term={rft:isbn}&index=PISBNEX"

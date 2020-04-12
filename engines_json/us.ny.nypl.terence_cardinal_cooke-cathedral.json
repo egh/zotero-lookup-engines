@@ -1,6 +1,5 @@
 {
   "title": "NYPL - Terence Cardinal Cooke-Cathedral",
-  "tested": "2015-06-30T17:01:06Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=77"

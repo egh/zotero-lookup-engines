@@ -1,6 +1,5 @@
 {
   "title": "NYPL - Allerton",
-  "tested": "2015-06-30T08:46:04Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=8"

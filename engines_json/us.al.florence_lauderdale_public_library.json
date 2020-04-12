@@ -1,6 +1,5 @@
 {
   "title": "Florence-Lauderdale Public Library",
-  "tested": "2015-07-02T05:02:08Z",
   "country": "US",
   "state": "AL",
   "linktemplate": "http://catalog.flpl.lib.al.us/polaris/search/searchresults.aspx?ctx=3.1033.0.0.1&type=Advanced&term={rft:isbn}&relation=ALL&by=ISBN&bool4=AND&limit=TOM=*&sort=RELEVANCE&page=0"

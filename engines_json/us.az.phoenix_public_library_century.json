@@ -1,6 +1,5 @@
 {
   "title": "Phoenix Public Library - Century",
-  "tested": "2015-07-04T09:32:02Z",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=6645"

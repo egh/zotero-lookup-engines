@@ -1,6 +1,5 @@
 {
   "title": "Suffolk County - Mattituck-Laurel",
-  "tested": "2015-07-01T03:47:22Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=78"

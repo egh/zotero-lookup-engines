@@ -1,6 +1,5 @@
 {
   "title": "Pasadena Public Library",
-  "tested": "2015-06-26T22:13:08Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.pasadenapubliclibrary.net/ipac20/ipac.jsp?menu=search&term={rft:isbn}&index=ISBNEX"

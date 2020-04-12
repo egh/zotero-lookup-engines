@@ -1,6 +1,5 @@
 {
   "title": "Indianapolis - Marion County Public Library - Lawrence Branch",
-  "tested": "2015-06-25T14:58:06Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Lawrence+Branch"

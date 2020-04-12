@@ -1,6 +1,5 @@
 {
   "title": "Ottawa Public Library - Bookmobile",
-  "tested": "2015-06-28T17:46:05Z",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Bookmobile%22&custom_edit=false"

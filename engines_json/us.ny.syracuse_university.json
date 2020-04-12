@@ -1,6 +1,5 @@
 {
   "title": "Syracuse University",
-  "tested": "2015-07-01T11:02:02Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://summit.syr.edu/cgi-bin/Pwebrecon.cgi?FLD1=ISBN+%28ISBN%29&CNT=1&SAB1={rft:isbn}"

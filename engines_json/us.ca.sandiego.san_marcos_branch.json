@@ -1,6 +1,5 @@
 {
   "title": "San Diego - San Marcos Branch",
-  "tested": "2015-07-03T10:02:04Z",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=32"

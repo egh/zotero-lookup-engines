@@ -1,6 +1,5 @@
 {
   "title": "Pima County Library",
-  "tested": "2015-07-02T03:47:04Z",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://librarycatalog.pima.gov/search/?searchtype=i&SORT=D&searcharg={rft:isbn}&searchscope=8&submit=Submit"

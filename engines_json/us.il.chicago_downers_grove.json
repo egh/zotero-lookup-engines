@@ -1,6 +1,5 @@
 {
   "title": "Chicago Downers Grove",
-  "tested": "2015-06-28T03:46:04Z",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=44"

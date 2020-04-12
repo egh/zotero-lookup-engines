@@ -1,6 +1,5 @@
 {
   "title": "Phoenix Public Library - Cesar Chavez",
-  "tested": "2015-07-04T09:32:03Z",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=7265"

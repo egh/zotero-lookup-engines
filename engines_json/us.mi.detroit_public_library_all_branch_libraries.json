@@ -1,6 +1,5 @@
 {
   "title": "Detroit Public Library - All Branch Libraries",
-  "tested": "2015-06-24T07:13:16Z",
   "country": "US",
   "state": "MI",
   "linktemplate": "http://dplopac.detroitpubliclibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=BRANCHES"

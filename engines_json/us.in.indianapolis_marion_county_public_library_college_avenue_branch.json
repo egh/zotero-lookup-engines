@@ -1,6 +1,5 @@
 {
   "title": "Indianapolis - Marion County Public Library - College Avenue Branch",
-  "tested": "2015-06-25T13:43:03Z",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=College+Avenue+Branch"

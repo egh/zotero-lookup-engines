@@ -1,6 +1,5 @@
 {
   "title": "Sweetwater County Libraries",
-  "tested": "2015-06-26T00:43:06Z",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=swtrweb&library=SWTRLIBS&searchdata1={rft:isbn}"

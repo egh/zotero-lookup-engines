@@ -1,6 +1,5 @@
 {
   "title": "Montgomery County Public Library- Long Branch",
-  "tested": "2015-06-30T02:31:17Z",
   "country": "US",
   "state": "MD",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=LONGBRANCH"

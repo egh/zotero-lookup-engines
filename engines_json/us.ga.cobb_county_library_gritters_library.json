@@ -1,6 +1,5 @@
 {
   "title": "Cobb County Library - Gritters Library",
-  "tested": "2015-07-01T19:02:09Z",
   "country": "US",
   "state": "GA",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GRITTERS"

@@ -1,6 +1,5 @@
 {
   "title": "Toronto Public Library - Yorkville",
-  "tested": "2015-06-28T09:31:05Z",
   "country": "CA",
   "state": "ON",
   "linktemplate": "http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&N=0&advancedSearch=true&Ntt={rft:isbn}&N=33191"

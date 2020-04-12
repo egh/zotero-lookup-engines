@@ -1,6 +1,5 @@
 {
   "title": "Vancouver Public Library - Britannia Branch",
-  "tested": "2015-06-28T14:01:03Z",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Britannia+Branch+Library%22&custom_edit=false"

@@ -1,6 +1,5 @@
 {
   "title": "Westport Public Library",
-  "tested": "2015-06-27T13:31:04Z",
   "country": "US",
   "state": "CT",
   "linktemplate": "http://catalog.westportlibrary.org/ipac20/ipac.jsp?index=ISBNEX&term={rft:isbn}"

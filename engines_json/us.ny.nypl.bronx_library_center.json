@@ -1,6 +1,5 @@
 {
   "title": "NYPL - Bronx Library Center",
-  "tested": "2015-06-30T09:46:07Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=14"

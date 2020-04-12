@@ -1,6 +1,5 @@
 {
   "title": "Crook County Public Libraries",
-  "tested": "2015-06-25T12:43:10Z",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=crkweb&library=CRKLIBS&searchdata1={rft:isbn}"

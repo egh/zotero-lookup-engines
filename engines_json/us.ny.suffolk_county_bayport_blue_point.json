@@ -1,6 +1,5 @@
 {
   "title": "Suffolk County - Bayport Blue Point",
-  "tested": "2015-06-30T18:46:25Z",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=5"
