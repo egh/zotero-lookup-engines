@@ -15,8 +15,8 @@ end
 
 Liquid::Template.register_filter(TextFilter)
 
-html_template = Liquid::Template.parse(File.read('engine.html'))
-index_template = Liquid::Template.parse(File.read('index.html'))
+html_template = Liquid::Template.parse(File.read('engine.liquid'))
+index_template = Liquid::Template.parse(File.read('index.liquid'))
 Liquid::Template.file_system = Liquid::LocalFileSystem.new(__dir__)
 
 countries = {}
