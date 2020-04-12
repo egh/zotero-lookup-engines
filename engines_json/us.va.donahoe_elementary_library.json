@@ -1,6 +1,5 @@
 {
   "dont": "0967865204",
-  "is_community": false,
   "missing": "found no matches",
   "title": "Donahoe Elementary Library",
   "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1=0590353403&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DONAHOE",

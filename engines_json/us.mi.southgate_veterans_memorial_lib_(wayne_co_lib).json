@@ -1,6 +1,5 @@
 {
   "dont": "0967865204",
-  "is_community": false,
   "missing": "found no matches in the library you searched",
   "title": "Southgate Veterans Memorial Lib. (Wayne Co. Lib.)",
   "problems": "DNS lookup failed for URL: http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-SOUTHGAT",

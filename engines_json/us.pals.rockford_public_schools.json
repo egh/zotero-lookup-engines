@@ -1,6 +1,5 @@
 {
   "dont": "0967865204",
-  "is_community": false,
   "missing": "found no matches",
   "title": "LS - Rockford Public Schools",
   "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=RDLY&sort_by=ANY%27",
