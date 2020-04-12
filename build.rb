@@ -17,8 +17,14 @@ Liquid::Template.register_filter(TextFilter)
 
 html_template = Liquid::Template.parse(File.read('engine.html'))
 index_template = Liquid::Template.parse(File.read('index.html'))
+Liquid::Template.file_system = Liquid::LocalFileSystem.new(__dir__)
 
 countries = {}
+
+# examples
+crossref = JSON.parse(File.read("engines_json/crossref.json"))
+google = JSON.parse(File.read("engines_json/google.json"))
+
 items = Dir['engines_json/*'].map do |filename|
   item = JSON.parse(File.read(filename))
   filename = File.basename(filename, '.json')
@@ -36,7 +42,7 @@ items.each do |item|
   countries[country][state] ||= []
   countries[country][state].push(item)
   File.open(File.join('generated', "#{filename}.html"), 'w') do |f|
-    f << html_template.render('item' => item)
+    f << html_template.render('item' => item, 'crossref' => crossref, 'google' => google)
   end
 end
 

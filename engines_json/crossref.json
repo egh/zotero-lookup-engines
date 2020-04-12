@@ -1,0 +1,6 @@
+{
+    "title": "CrossRef Lookup",
+    "description": "CrossRef Search Engine",
+    "icon": "https://crossref.org/favicon.ico",
+    "linktemplate": "https://crossref.org/openurl?{z:openURL}&pid=zter:zter321"
+}
