@@ -12,5 +12,6 @@
   "name": "us.ca.san_francisco_public_library",
   "country": "US",
   "state": "CA",
-  "linktemplate": "http://sflib1.sfpl.org/search/i?SEARCH={rft:isbn}"
+  "linktemplate": "http://sflib1.sfpl.org/search/i?SEARCH={rft:isbn}",
+  "icon": "http://sflib1.sfpl.org/screens/favicon.ico"
 }
