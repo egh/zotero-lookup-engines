@@ -4,20 +4,19 @@
   </head>
   <body>
     <ul>
+      <li>
+        No location
+        <ul>
+          {% include "list_item" for global %}
+        </ul>
+      </li>  
       {% for country in countries %}
-        <li>{{ country[0] }}</a>
-          <ul>
-            {% for state in country[1] %}
-              <li>{{ state[0] }}
-                <ul>
-                  {% for item in state[1] %}
-                  <li>
-                    {%- if item.icon %}
-                    <img src={{ item.icon }} height="16px">
-                    {% endif %}
-                    <a href="{{ item.filename }}.html">{{ item.title }}</a>
-                  </li>
-                  {% endfor %}
+      <li>{{ country[0] }}
+        <ul>
+          {% for state in country[1] %}
+          <li>{{ state[0] }}
+            <ul>
+                  {% include "list_item" for state[1] %}
                 </ul>
               </li>
             {% endfor %}

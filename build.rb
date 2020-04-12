@@ -20,6 +20,7 @@ index_template = Liquid::Template.parse(File.read('index.html'))
 Liquid::Template.file_system = Liquid::LocalFileSystem.new(__dir__)
 
 countries = {}
+global = []
 
 # examples
 crossref = JSON.parse(File.read("engines_json/crossref.json"))
@@ -41,16 +42,20 @@ end
 
 items.each do |item|
   filename = item['filename']
-  country = item['country'] || 'NONE'
+  country = item['country']
   state = item['state'] || 'NONE'
-  countries[country] ||= {}
-  countries[country][state] ||= []
-  countries[country][state].push(item)
+  if country.nil?
+    global.push(item)
+  else
+    countries[country] ||= {}
+    countries[country][state] ||= []
+    countries[country][state].push(item)
+  end
   File.open(File.join('generated', "#{filename}.html"), 'w') do |f|
     f << html_template.render('item' => item, 'crossref' => crossref, 'google' => google)
   end
 end
 
 File.open(File.join('generated', 'index.html'), 'w') do |f|
-  f << index_template.render('countries' => countries)
+  f << index_template.render('countries' => countries, 'global' => global)
 end
