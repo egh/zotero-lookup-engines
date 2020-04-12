@@ -1,6 +1,6 @@
 {
   "title": "Ohio State University",
   "country": "US",
-  "state": null,
+  "state": "OH",
   "linktemplate": "http://library.ohio-state.edu/search/i?SEARCH={rft:isbn}"
 }
