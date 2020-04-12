@@ -1,6 +1,6 @@
 {
   "title": "Cobb County Library - Kemp Memorial Library",
   "country": "US",
-  "state": "GA",
+  "region": "GA",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=KEMP"
 }

@@ -11,15 +11,19 @@
         </ul>
       </li>  
       {% for country in countries %}
-      <li>{{ country[0] }}
-        <ul>
-          {% for state in country[1] %}
-          <li>{{ state[0] }}
-            <ul>
-                  {% include "list_item" for state[1] %}
-                </ul>
-              </li>
-            {% endfor %}
+        <li>{{ country[0] }}
+          <ul>
+            {% if country[0] == "United States" %}
+              {% for region in country[1] %}
+                <li>{{ region[0] }}
+                  <ul>
+                    {% include "list_item" for region[1] %}
+                  </ul>
+                </li>
+              {% endfor %}
+            {% else %}
+              {% include "list_item" for country[1] %}
+            {% endif %}
           </ul>
         </li>
       {% endfor %}

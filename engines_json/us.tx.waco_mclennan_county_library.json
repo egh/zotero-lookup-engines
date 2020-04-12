@@ -1,6 +1,6 @@
 {
   "title": "Waco-McLennan County Library",
   "country": "US",
-  "state": "TX",
+  "region": "TX",
   "linktemplate": "http://ipac.ci.waco.tx.us:8080/ipac20/ipac.jsp?profile=cen&index=ISBNEX&term={rft:isbn}"
 }

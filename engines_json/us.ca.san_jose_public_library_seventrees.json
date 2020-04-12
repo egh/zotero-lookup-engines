@@ -1,6 +1,6 @@
 {
   "title": "San Jose Public Library - Seventrees",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&availlim=1&searchscope=29"
 }

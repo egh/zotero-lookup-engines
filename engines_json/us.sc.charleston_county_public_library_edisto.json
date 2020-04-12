@@ -1,6 +1,6 @@
 {
   "title": "Charleston County Public Library - Edisto",
   "country": "US",
-  "state": "SC",
+  "region": "SC",
   "linktemplate": "http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=EDISTO"
 }

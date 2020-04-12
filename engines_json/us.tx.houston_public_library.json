@@ -1,6 +1,6 @@
 {
   "title": "Houston Public Library",
   "country": "US",
-  "state": "TX",
+  "region": "TX",
   "linktemplate": "http://encore.houstonlibrary.org/iii/encore/search/C%7CS{rft:isbn}%7COrightresult%7CU1?lang=eng&suite=pearl"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Library of Congress",
   "country": "US",
-  "state": "DC",
+  "region": "DC",
   "linktemplate": "http://www.loc.gov/search/?q={rft:isbn}&fa=digitized:false"
 }

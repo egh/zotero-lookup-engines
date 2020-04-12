@@ -1,6 +1,6 @@
 {
   "title": "Suffolk County - Islip",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=33"
 }

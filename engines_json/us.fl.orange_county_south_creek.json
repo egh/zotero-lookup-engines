@@ -1,6 +1,6 @@
 {
   "title": "Orange County Public Library - South Creek",
   "country": "US",
-  "state": "FL",
+  "region": "FL",
   "linktemplate": "http://iii.ocls.info/search/a?a&searchtype=i&searcharg={rft:isbn}&searchscope=11"
 }

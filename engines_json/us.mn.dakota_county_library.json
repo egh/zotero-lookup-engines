@@ -1,6 +1,6 @@
 {
   "title": "Dakota County Library",
   "country": "US",
-  "state": "MN",
+  "region": "MN",
   "linktemplate": "http://ipac.dakota.lib.mn.us/ipac20/ipac.jsp?&profile=ctw&index=ISBNEX&term={rft:isbn}"
 }

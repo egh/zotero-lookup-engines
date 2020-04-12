@@ -1,6 +1,6 @@
 {
   "title": "South Central Library System",
   "country": "US",
-  "state": "WI",
+  "region": "WI",
   "linktemplate": "http://www.linkcat.info/ipac20/ipac.jsp?menu=search&term={rft:isbn}&index=CISBN"
 }

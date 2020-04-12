@@ -1,6 +1,6 @@
 {
   "title": "Vancouver Public Library",
   "country": "CA",
-  "state": "BC",
+  "region": "BC",
   "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})"
 }

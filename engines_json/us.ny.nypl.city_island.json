@@ -1,6 +1,6 @@
 {
   "title": "NYPL - City Island",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=17"
 }

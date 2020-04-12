@@ -1,6 +1,6 @@
 {
   "title": "BPL - Central Library",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://brooklyn.bibliocommons.com/search?custom_query=identifier%3A({rft:isbn})&suppress=true&custom_edit=false"
 }

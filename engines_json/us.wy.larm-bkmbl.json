@@ -1,6 +1,6 @@
 {
   "title": "Laramie Co. Library - Bookmobile",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=larm-bkmblweb&library=LARM-BKMBL&searchdata1={rft:isbn}"
 }

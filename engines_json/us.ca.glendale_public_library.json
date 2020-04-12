@@ -1,6 +1,6 @@
 {
   "title": "Glendale Public Library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.glendalepubliclibrary.org/ipac20/ipac.jsp?menu=search&term={rft:isbn}&index=ISBNEX"
 }

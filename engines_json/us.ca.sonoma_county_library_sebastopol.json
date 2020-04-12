@@ -1,6 +1,6 @@
 {
   "title": "Sonoma County Library - Sebastopol",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.sonomalibrary.org/ipac20/ipac.jsp?menu=search&index=ISBNEX&term={rft:isbn}&LO01=seba"
 }

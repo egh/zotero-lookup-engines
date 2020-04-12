@@ -2,6 +2,6 @@
   "title": "Chicago All SWAN Libraries",
   "name": "us.il.chicago_all_swan_libraries",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=1"
 }

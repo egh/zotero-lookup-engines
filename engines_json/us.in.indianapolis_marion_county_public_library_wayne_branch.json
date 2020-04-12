@@ -1,6 +1,6 @@
 {
   "title": "Indianapolis - Marion County Public Library - Wayne Branch",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Wayne+Branch"
 }

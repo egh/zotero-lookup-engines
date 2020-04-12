@@ -1,6 +1,6 @@
 {
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "title": "Oakland Public Library",
   "linktemplate": "http://encore.oaklandlibrary.org/iii/encore/search?formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&target={rft:isbn}",
   "icon": "https://www.oaklandlibrary.org/sites/default/files/favicon.ico"

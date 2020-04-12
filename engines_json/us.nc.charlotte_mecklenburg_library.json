@@ -1,6 +1,6 @@
 {
   "title": "Charlotte Mecklenburg Library",
   "country": "US",
-  "state": "NC",
+  "region": "NC",
   "linktemplate": "http://catalog.plcmc.org/accessible.ashx?q=isbn%3A{rft:isbn}&cmd=find"
 }

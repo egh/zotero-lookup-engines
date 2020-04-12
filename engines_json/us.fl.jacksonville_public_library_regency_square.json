@@ -1,6 +1,6 @@
 {
   "title": "Jacksonville Public Library - Regency Square",
   "country": "US",
-  "state": "FL",
+  "region": "FL",
   "linktemplate": "http://jpl.coj.net/web2/tramp2.exe/do_keyword_search/guest?query={rft:isbn}&setting_key=english&servers=1home&location_group_filter=REGENCY"
 }

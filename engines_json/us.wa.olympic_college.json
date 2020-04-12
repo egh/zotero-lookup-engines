@@ -1,6 +1,6 @@
 {
   "title": "Olympic College",
   "country": "US",
-  "state": "WA",
+  "region": "WA",
   "linktemplate": "http://olympic.library.ctc.edu/vwebv/search?searchArg1={rft:isbn}&argType1=any&searchCode1=ISBN&searchType=2"
 }

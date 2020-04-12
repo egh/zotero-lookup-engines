@@ -33,23 +33,31 @@ items = Dir['engines_json/*'].map do |filename|
   item = JSON.parse(File.read(filename))
   filename = File.basename(filename, '.json')
   item['filename'] = filename
-  item['state'] = us_states_map.fetch((item['state'] || '').downcase, nil)
-  item['country'] = countries_map.fetch((item['country'] || '').downcase, nil)
+  country_code = (item['country'] || '').downcase
+  if country_code == 'us'
+    item['region'] = us_states_map.fetch((item['region'] || '').downcase, nil)
+  end
+  item['country'] = countries_map.fetch(country_code, nil)
   item
 end.sort_by do |i|
-  [i['country'] || '', i['state'] || '', i['filename']]
+  [i['country'] || '', i['region'] || '', i['filename']]
 end
 
 items.each do |item|
   filename = item['filename']
   country = item['country']
-  state = item['state'] || 'NONE'
+  region = item['region'] || :none
   if country.nil?
     global.push(item)
   else
-    countries[country] ||= {}
-    countries[country][state] ||= []
-    countries[country][state].push(item)
+    if country == 'United States'
+      countries[country] ||= {}
+      countries[country][region] ||= []
+      countries[country][region].push(item)
+    else
+      countries[country] ||= []
+      countries[country].push(item)
+    end
   end
   File.open(File.join('generated', "#{filename}.html"), 'w') do |f|
     f << html_template.render('item' => item, 'crossref' => crossref, 'google' => google)

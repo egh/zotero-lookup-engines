@@ -1,6 +1,6 @@
 {
   "title": "PALNI - Concordia Theological Seminary",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F?func=find-b&PLIB=co&find_code=ISBN&request={rft:isbn}"
 }

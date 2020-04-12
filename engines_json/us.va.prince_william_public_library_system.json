@@ -1,6 +1,6 @@
 {
   "title": "Prince William Public Library System",
   "country": "US",
-  "state": "VA",
+  "region": "VA",
   "linktemplate": "http://librarycatalog.pwcgov.org/polaris/search/searchresults.aspx?ctx=1.1033.0.0.4&type=Advanced&term={rft:isbn}&by=ISBN&bool1=And&sort=RELEVANCE&page=0"
 }

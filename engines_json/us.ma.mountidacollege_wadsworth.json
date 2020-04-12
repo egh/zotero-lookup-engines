@@ -1,6 +1,6 @@
 {
   "title": "Mount Ida College - Wadsworth Learnning Resource Center",
   "country": "US",
-  "state": "MA",
+  "region": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=27"
 }

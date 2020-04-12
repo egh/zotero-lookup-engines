@@ -1,6 +1,6 @@
 {
   "title": "Chicago Cicero Branch",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=34"
 }

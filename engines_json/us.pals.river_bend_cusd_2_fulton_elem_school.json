@@ -1,6 +1,6 @@
 {
   "title": "LS - River Bend CUSD 2 - Fulton Elem. School",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=FESG-7&sort_by=ANY%27"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Topeka Public Library",
   "country": "US",
-  "state": "KS",
+  "region": "KS",
   "linktemplate": "http://catalog.tscpl.org/ipac20/ipac.jsp?index=ISBNEX&term={rft:isbn}"
 }

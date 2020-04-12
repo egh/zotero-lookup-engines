@@ -1,6 +1,6 @@
 {
   "title": "St. Louis University",
   "country": "US",
-  "state": "MO",
+  "region": "MO",
   "linktemplate": "http://libcat.slu.edu/search~S5/?searchtype=i&searcharg={rft:isbn}+&searchscope=5"
 }

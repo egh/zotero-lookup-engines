@@ -1,6 +1,6 @@
 {
   "title": "Vancouver Public Library - Kitsilano Branch",
   "country": "CA",
-  "state": "BC",
+  "region": "BC",
   "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Kitsilano+Branch+Library%22&custom_edit=false"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Phoenix Public Library - All",
   "country": "US",
-  "state": "AZ",
+  "region": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?view=full&N=0&ISBN={rft:isbn}"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Syracuse University",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://summit.syr.edu/cgi-bin/Pwebrecon.cgi?FLD1=ISBN+%28ISBN%29&CNT=1&SAB1={rft:isbn}"
 }

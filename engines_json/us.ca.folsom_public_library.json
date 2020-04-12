@@ -1,6 +1,6 @@
 {
   "title": "Folsom Public Library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://www.saclibrarycatalog.org/search~S51/a?searchtype=i&searchscope=50&searcharg={rft:isbn}&Submit=Search"
 }

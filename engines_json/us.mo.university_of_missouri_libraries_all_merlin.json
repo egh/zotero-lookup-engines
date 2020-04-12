@@ -1,6 +1,6 @@
 {
   "title": "University of Missouri - All",
   "country": "US",
-  "state": "MO",
+  "region": "MO",
   "linktemplate": "http://laurel.lso.missouri.edu/search~S8/?searchtype=i&searcharg={rft:isbn}&searchscope=8"
 }

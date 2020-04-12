@@ -1,6 +1,6 @@
 {
   "title": "LS - Harvard Diggins Library",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=6&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"
 }

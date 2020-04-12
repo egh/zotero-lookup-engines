@@ -1,6 +1,6 @@
 {
   "title": "Sheridan Co. Fulmer Public Library",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=sherweb&library=SHER&searchdata1={rft:isbn}"
 }

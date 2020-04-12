@@ -1,6 +1,6 @@
 {
   "title": "Humboldt State University",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://voyager.humboldt.edu/vwebv/search?searchArg1={rft:isbn}&argType1=any&searchCode1=ISBN&searchType=2"
 }

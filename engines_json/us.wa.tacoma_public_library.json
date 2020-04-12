@@ -1,6 +1,6 @@
 {
   "title": "Tacoma Public Library",
   "country": "US",
-  "state": "WA",
+  "region": "WA",
   "linktemplate": "http://topcat.tacomapubliclibrary.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ALL"
 }

@@ -1,6 +1,6 @@
 {
   "title": "NOBLE - Merrimack College",
   "country": "US",
-  "state": "MA",
+  "region": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=40"
 }

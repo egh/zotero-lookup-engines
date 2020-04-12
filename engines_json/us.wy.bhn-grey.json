@@ -1,6 +1,6 @@
 {
   "title": "Big Horn Co. - Greybull Branch",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=bhn-greyweb&library=BHN-GREY&searchdata1={rft:isbn}"
 }

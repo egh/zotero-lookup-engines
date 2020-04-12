@@ -1,6 +1,6 @@
 {
   "title": "San Diego Public - San Ysidro",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SAN_YSIDRO"
 }

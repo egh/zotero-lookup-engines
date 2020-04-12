@@ -1,6 +1,6 @@
 {
   "title": "Montgomery County Public Library- Silver Spring",
   "country": "US",
-  "state": "MD",
+  "region": "MD",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=SILVER_SPR"
 }

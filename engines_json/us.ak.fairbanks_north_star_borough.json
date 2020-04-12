@@ -1,6 +1,6 @@
 {
   "title": "Fairbanks North Star Borough",
   "country": "US",
-  "state": "AK",
+  "region": "AK",
   "linktemplate": "http://catalog.fnsb.lib.ak.us/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN"
 }

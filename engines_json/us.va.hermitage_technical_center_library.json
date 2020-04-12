@@ -1,6 +1,6 @@
 {
   "title": "Hermitage Technical Center Library",
   "country": "US",
-  "state": "VA",
+  "region": "VA",
   "linktemplate": "http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HERM-TC"
 }

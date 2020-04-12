@@ -1,6 +1,6 @@
 {
   "title": "Montgomery County Public Library- Aspen Hill",
   "country": "US",
-  "state": "MD",
+  "region": "MD",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=ASPEN_HILL"
 }

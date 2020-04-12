@@ -1,6 +1,6 @@
 {
   "title": "Hennepin County Library",
   "country": "US",
-  "state": "MN",
+  "region": "MN",
   "linktemplate": "https://catalog.hclib.org/ipac20/ipac.jsp?menu=search&index=ISBN&term={rft:isbn}"
 }

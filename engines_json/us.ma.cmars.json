@@ -1,6 +1,6 @@
 {
   "title": "Central Mass. Public",
   "country": "US",
-  "state": "MA",
+  "region": "MA",
   "linktemplate": "http://cmars.cwmars.org/search~/i?SEARCH={rft:isbn}"
 }

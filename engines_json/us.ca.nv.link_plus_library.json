@@ -1,6 +1,6 @@
 {
   "title": "Link+ Libraries",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "https://csul.iii.com/search/i?SEARCH={rft:isbn}"
 }

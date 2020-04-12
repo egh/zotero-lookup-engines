@@ -1,6 +1,6 @@
 {
   "title": "El Dorado County Library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://ibistro.eldoradolibrary.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ALL"
 }

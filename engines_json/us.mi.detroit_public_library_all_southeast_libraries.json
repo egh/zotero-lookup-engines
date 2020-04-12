@@ -1,6 +1,6 @@
 {
   "title": "Detroit Public Library - All Southeast Libraries",
   "country": "US",
-  "state": "MI",
+  "region": "MI",
   "linktemplate": "http://dplopac.detroitpubliclibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=BRANCHESSE"
 }

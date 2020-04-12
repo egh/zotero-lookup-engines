@@ -1,6 +1,6 @@
 {
   "title": "San Mateo County Libraries",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.plsinfo.org/search/i?SEARCH={rft:isbn}"
 }

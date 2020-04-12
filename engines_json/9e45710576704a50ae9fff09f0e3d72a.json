@@ -1,6 +1,6 @@
 {
   "title": "Mountain View (updated)",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://encore.mountainview.gov/iii/encore/search/C__Si%3A{rft:isbn}__Orightresult__U?lang=eng&suite=cobalt"
 }

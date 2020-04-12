@@ -1,6 +1,6 @@
 {
   "title": "San Jose Public Library - All",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&searchscope=1&availlim=1"
 }

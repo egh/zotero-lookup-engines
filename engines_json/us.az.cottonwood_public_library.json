@@ -1,6 +1,6 @@
 {
   "title": "Cottonwood Public Library",
   "country": "US",
-  "state": "AZ",
+  "region": "AZ",
   "linktemplate": "http://catalog.yln.info/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CTW_SG"
 }

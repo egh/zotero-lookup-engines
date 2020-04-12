@@ -1,6 +1,6 @@
 {
   "title": "Claremont Colleges Library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://blais.claremont.edu/search/i?SEARCH={rft:isbn}"
 }

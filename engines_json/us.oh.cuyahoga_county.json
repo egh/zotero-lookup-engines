@@ -1,6 +1,6 @@
 {
   "title": "Cuyahoga County",
   "country": "US",
-  "state": "OH",
+  "region": "OH",
   "linktemplate": "https://sciron.cuyahoga.lib.oh.us/search/?searchtype=i&availlim=1&searcharg={rft:isbn}"
 }

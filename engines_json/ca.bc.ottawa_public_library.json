@@ -1,6 +1,6 @@
 {
   "title": "Ottawa Public Library",
   "country": "CA",
-  "state": "BC",
+  "region": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})&custom_edit=false"
 }

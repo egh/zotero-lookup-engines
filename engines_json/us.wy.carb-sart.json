@@ -1,6 +1,6 @@
 {
   "title": "Carbon Co. - Saratoga Branch",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=carb-sartweb&library=CARB-SART&searchdata1={rft:isbn}"
 }

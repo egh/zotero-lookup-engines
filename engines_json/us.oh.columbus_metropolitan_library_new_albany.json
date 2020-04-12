@@ -1,6 +1,6 @@
 {
   "title": "Columbus Metropolitan Library - New Albany",
   "country": "US",
-  "state": "OH",
+  "region": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=New+Albany"
 }

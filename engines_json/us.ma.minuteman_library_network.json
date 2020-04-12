@@ -1,6 +1,6 @@
 {
   "title": "Minuteman Library Network",
   "country": "US",
-  "state": "MA",
+  "region": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=1"
 }

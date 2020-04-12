@@ -1,6 +1,6 @@
 {
   "title": "Shoals Area Libraries",
   "country": "US",
-  "state": "AL",
+  "region": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=56"
 }

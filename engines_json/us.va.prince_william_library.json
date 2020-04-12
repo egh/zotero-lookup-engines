@@ -1,6 +1,6 @@
 {
   "title": "Prince William Library",
   "country": "US",
-  "state": "VA",
+  "region": "VA",
   "linktemplate": "http://librarycatalog.pwcgov.org/ipac20/ipac.jsp?menu=search&x=0&y=0&aspect=subtab13&index=ISBNEX&term={rft:isbn}"
 }

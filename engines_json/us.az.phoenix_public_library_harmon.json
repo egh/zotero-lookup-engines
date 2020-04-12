@@ -1,6 +1,6 @@
 {
   "title": "Phoenix Public Library - Harmon",
   "country": "US",
-  "state": "AZ",
+  "region": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=6649"
 }

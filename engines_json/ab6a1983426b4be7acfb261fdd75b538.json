@@ -1,6 +1,6 @@
 {
   "title": "Mountain View Public - Classic Cat",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://library.mountainview.gov/search/i{rft:isbn}"
 }

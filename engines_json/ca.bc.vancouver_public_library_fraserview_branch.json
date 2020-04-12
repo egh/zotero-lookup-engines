@@ -1,6 +1,6 @@
 {
   "title": "Vancouver Public Library - Fraserview Branch",
   "country": "CA",
-  "state": "BC",
+  "region": "BC",
   "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Fraserview+Branch+Library%22&custom_edit=false"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Fremont Co. - Dubois Branch",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=frem-duboweb&library=FREM-DUBO&searchdata1={rft:isbn}"
 }

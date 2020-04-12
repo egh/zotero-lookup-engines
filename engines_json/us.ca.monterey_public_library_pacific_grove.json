@@ -1,6 +1,6 @@
 {
   "title": "Monterey Public Library - Pacific Grove",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://montn.ci.monterey.ca.us/search/i?SEARCH={rft:isbn}&sortdropdown=-&searchscope=2"
 }

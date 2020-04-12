@@ -1,6 +1,6 @@
 {
   "title": "Montgomery County Public Library- Davis",
   "country": "US",
-  "state": "MD",
+  "region": "MD",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?user_id=webserver&searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DAVIS"
 }

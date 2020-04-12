@@ -1,6 +1,6 @@
 {
   "title": "LA Public - Granada Hills Branch",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=GRNHLS"
 }

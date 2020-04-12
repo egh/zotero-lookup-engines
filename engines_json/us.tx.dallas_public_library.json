@@ -1,6 +1,6 @@
 {
   "title": "Dallas Public Library",
   "country": "US",
-  "state": "TX",
+  "region": "TX",
   "linktemplate": "http://catalog.dallaslibrary.org/Polaris/search/searchresults.aspx?ctx=1.1033.0.0.6&type=Keyword&term={rft:isbn}&by=ISBN&sort=PD_TI&limit=TOM=*&query=&page=0"
 }

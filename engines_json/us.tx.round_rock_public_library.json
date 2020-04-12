@@ -1,6 +1,6 @@
 {
   "title": "Round Rock Public Library",
   "country": "US",
-  "state": "TX",
+  "region": "TX",
   "linktemplate": "http://cat.round-rock.tx.us:8080/ipac20/ipac.jsp?profile=current-rrpl&ri=&index=ISBNEX&term={rft:isbn}"
 }

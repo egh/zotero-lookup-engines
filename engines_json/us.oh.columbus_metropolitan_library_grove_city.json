@@ -1,6 +1,6 @@
 {
   "title": "Columbus Metropolitan Library - Grove City",
   "country": "US",
-  "state": "OH",
+  "region": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Grove+City"
 }

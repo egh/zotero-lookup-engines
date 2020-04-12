@@ -1,6 +1,6 @@
 {
   "title": "Salt Lake City Libraries - All",
   "country": "US",
-  "state": "UT",
+  "region": "UT",
   "linktemplate": "http://catalog.slcpl.org/search/?searchtype=i&searcharg={rft:isbn}"
 }

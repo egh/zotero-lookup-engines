@@ -1,6 +1,6 @@
 {
   "title": "San Diego County Library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search/i?SEARCH={rft:isbn}&searchscope=38"
 }

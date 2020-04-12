@@ -1,6 +1,6 @@
 {
   "title": "Miami-Dade County",
   "country": "US",
-  "state": "FL",
+  "region": "FL",
   "linktemplate": "http://catalog.mdpls.org/search/searchresults.aspx?ctx=1.1033.0.0.6&type=Keyword&term={rft:isbn}&by=ISBN&sort=RELEVANCE&limit=TOM=*&query=&page=0"
 }

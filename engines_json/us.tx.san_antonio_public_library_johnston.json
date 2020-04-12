@@ -1,6 +1,6 @@
 {
   "title": "San Antonio Public Library - Johnston",
   "country": "US",
-  "state": "TX",
+  "region": "TX",
   "linktemplate": "http://sapl.sat.lib.tx.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=15"
 }

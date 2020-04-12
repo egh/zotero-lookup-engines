@@ -1,6 +1,6 @@
 {
   "title": "Ottawa Public Library - Elmvale Acres",
   "country": "CA",
-  "state": "BC",
+  "region": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Elmvale+Acres%22&custom_edit=false"
 }

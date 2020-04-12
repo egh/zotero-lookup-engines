@@ -1,6 +1,6 @@
 {
   "title": "PALNI - University of Indianapolis",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnuip&scan_start={rft:isbn}"
 }

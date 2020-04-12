@@ -1,6 +1,6 @@
 {
   "title": "Washington University in St. L",
   "country": "US",
-  "state": "MO",
+  "region": "MO",
   "linktemplate": "http://catalog.wustl.edu/search~S2/?searchtype=i&searcharg={rft:isbn}"
 }

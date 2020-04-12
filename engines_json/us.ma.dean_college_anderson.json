@@ -1,6 +1,6 @@
 {
   "title": "Dean College - Anderson Library",
   "country": "US",
-  "state": "MA",
+  "region": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=11"
 }

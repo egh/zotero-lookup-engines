@@ -1,6 +1,6 @@
 {
   "title": "Sonoma County Library - Wine",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.sonomalibrary.org/ipac20/ipac.jsp?menu=search&index=ISBNEX&term={rft:isbn}&CO01=co_wl"
 }
