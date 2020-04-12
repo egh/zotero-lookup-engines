@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2011-08-04T04:37:44Z",
   "title": "LS - Oregon CUSD 220 - Jefferson Elem. School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=OS4Y&sort_by=ANY%27",
   "tested": "2015-07-01T11:32:11Z",
   "have": "",
   "name": "us.pals.oregon_cusd_220_jefferson_elem_school",

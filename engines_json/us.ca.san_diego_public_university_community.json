@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2015-06-16T18:12:21Z",
   "title": "San Diego Public - University Community",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=UNIV_COM",
   "tested": "2015-06-27T06:31:21Z",
   "have": "0439136350",
   "name": "us.ca.san_diego_public_university_community",

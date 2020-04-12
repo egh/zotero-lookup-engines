@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-27T05:34:45Z",
   "title": "LS - DeKalb Public Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DKLY-12&sort_by=ANY%27",
   "tested": "2015-07-03T16:47:11Z",
   "have": "0439786770",
   "name": "us.pals.dekalb_public_library",

@@ -3,7 +3,6 @@
   "missing": null,
   "was_valid": "2012-05-24T22:34:44Z",
   "title": "PALNI - Saint Joseph's College",
-  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnsjp&scan_start=0325000301",
   "tested": "2015-07-03T20:32:11Z",
   "have": "0325000301",
   "name": "us.in.palni_saint_josephs_college",

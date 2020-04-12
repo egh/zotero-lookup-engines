@@ -3,7 +3,6 @@
   "missing": null,
   "was_valid": "2012-08-31T07:36:43Z",
   "title": "PALNI - Butler University",
-  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnbup&scan_start=0323016863",
   "tested": "2015-06-26T09:43:00Z",
   "have": "0323016863",
   "name": "us.in.palni_butler_university",

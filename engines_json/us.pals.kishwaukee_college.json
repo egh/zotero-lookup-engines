@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-30T11:12:58Z",
   "title": "LS - Kishwaukee College",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=KIS-ILDS&sort_by=ANY%27",
   "tested": "2015-06-26T09:28:12Z",
   "have": "0439786770",
   "name": "us.pals.kishwaukee_college",

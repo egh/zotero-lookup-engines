@@ -3,7 +3,6 @@
   "missing": "ItemsInThisList",
   "was_valid": "2013-02-12T12:50:11Z",
   "title": "BCCLS - Park Ridge",
-  "problems": "DNS lookup failed for URL: http://web22.bccls.org/web2/tramp2.exe/do_keyword_search/log_in?setting_key=BCCLS&servers=1home&query=0590353403&highlightorlimit=Limit+to&whichlibrary=PKRD",
   "tested": "2015-07-02T15:47:04Z",
   "have": "0590353403",
   "name": "us.nj.bccls_park_ridge",

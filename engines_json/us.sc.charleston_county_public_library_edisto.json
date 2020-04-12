@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-09-18T10:25:42Z",
   "title": "Charleston County Public Library - Edisto",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=EDISTO",
   "tested": "2015-07-03T21:32:11Z",
   "have": "0439136350",
   "name": "us.sc.charleston_county_public_library_edisto",

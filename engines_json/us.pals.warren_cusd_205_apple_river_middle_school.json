@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2011-08-04T03:16:49Z",
   "title": "LS - Warren CUSD 205 - Apple River Middle School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=WA2Y-13&sort_by=ANY%27",
   "tested": "2015-07-01T08:17:13Z",
   "have": "",
   "name": "us.pals.warren_cusd_205_apple_river_middle_school",

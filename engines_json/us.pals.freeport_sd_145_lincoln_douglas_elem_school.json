@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-28T17:54:29Z",
   "title": "LS - Freeport SD 145 - Lincoln-Douglas Elem. School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0871913216&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=FS5Y-13&sort_by=ANY%27",
   "tested": "2015-06-24T16:43:11Z",
   "have": "0871913216",
   "name": "us.pals.freeport_sd_145_lincoln_douglas_elem_school",

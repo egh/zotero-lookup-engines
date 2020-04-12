@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "was_valid": "2014-08-16T09:14:43Z",
   "title": "NYPL - Bloomingdale",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.nypl.org/search/i?SEARCH=0545139708,&sortdropdown=-&searchscope=13",
   "tested": "2015-06-30T09:31:28Z",
   "have": "0545139708",
   "name": "us.ny.nypl.bloomingdale",

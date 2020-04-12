@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2013-05-31T14:39:03Z",
   "title": "Charleston County Public Library - St. Paul's / Hollywood",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ST_PAULS",
   "tested": "2015-07-04T00:32:10Z",
   "have": "0439136350",
   "name": "us.sc.charleston_county_public_library_st_pauls_hollywood",

@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "was_valid": "2014-07-16T07:51:54Z",
   "title": "Suffolk County - Port Jefferson",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0439136350&searchscope=50",
   "tested": "2015-07-01T04:47:24Z",
   "have": "0439136350",
   "name": "us.ny.suffolk_county_port_jefferson",

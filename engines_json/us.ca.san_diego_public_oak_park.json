@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2015-06-18T12:27:31Z",
   "title": "San Diego Public - Oak Park",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1=0967865204&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=OAK_PARK",
   "tested": "2015-06-29T00:31:26Z",
   "have": "0439136350",
   "name": "us.ca.san_diego_public_oak_park",

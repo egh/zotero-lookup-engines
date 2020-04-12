@@ -2,7 +2,6 @@
   "dont": "0967865204",
   "missing": "found no matches in the library you searched",
   "title": "Highland Township Public Library",
-  "problems": "DNS lookup failed for URL: http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-HIGHLAND",
   "tested": "2015-07-02T00:32:01Z",
   "have": "0439786770",
   "name": "us.mi.highland_township_public_library",

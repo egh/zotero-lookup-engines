@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-27T04:33:58Z",
   "title": "LS - DeKalb CUSD 428 - Cortland Elem. School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DB8Y-12&sort_by=ANY%27",
   "tested": "2015-07-03T15:53:09Z",
   "have": "0439786770",
   "name": "us.pals.dekalb_cusd_428_cortland_elem_school",

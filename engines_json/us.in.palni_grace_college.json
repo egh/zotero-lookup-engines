@@ -3,7 +3,6 @@
   "missing": null,
   "was_valid": "2012-08-26T02:38:59Z",
   "title": "PALNI - Grace College",
-  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plngrp&scan_start=0321267222",
   "tested": "2015-07-01T19:32:01Z",
   "have": "0321267222",
   "name": "us.in.palni_grace_college",

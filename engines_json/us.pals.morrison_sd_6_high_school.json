@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-30T13:30:02Z",
   "title": "LS - Morrison SD 6 - High School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MOHG-7&sort_by=ANY%27",
   "tested": "2015-06-26T11:43:23Z",
   "have": "0439786770",
   "name": "us.pals.morrison_sd_6_high_school",

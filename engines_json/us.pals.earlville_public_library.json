@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-17T05:47:42Z",
   "title": "LS - Earlville Public Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=EAPY-12&sort_by=ANY%27",
   "tested": "2015-07-04T06:17:22Z",
   "have": "0439786770",
   "name": "us.pals.earlville_public_library",

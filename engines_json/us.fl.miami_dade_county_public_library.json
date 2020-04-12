@@ -2,7 +2,6 @@
   "dont": "0967865204",
   "missing": "could not find anything matching",
   "title": "Miami-Dade County",
-  "problems": "Too many redirects at URL: http://catalog.mdpls.org/search/searchresults.aspx?ctx=1.1033.0.0.6&type=Keyword&term=0545010225&by=ISBN&sort=RELEVANCE&limit=TOM=*&query=&page=0 with redirect=true",
   "tested": "2015-07-02T05:47:02Z",
   "have": "0545010225",
   "name": "us.fl.miami_dade_county_public_library",

@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2011-11-02T04:30:22Z",
   "title": "LS - Davenport Public Library - Main",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DPLG-6&sort_by=ANY%27",
   "tested": "2015-07-03T15:17:23Z",
   "have": "0439786770",
   "name": "us.pals.davenport_public_library_main",

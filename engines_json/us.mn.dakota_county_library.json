@@ -2,7 +2,6 @@
   "dont": "0967865204",
   "missing": "Sorry, could not find anything matching",
   "title": "Dakota County Library",
-  "problems": "DNS lookup failed for URL: http://ipac.dakota.lib.mn.us/ipac20/ipac.jsp?&profile=ctw&index=ISBNEX&term=0394839129",
   "tested": "2015-07-02T08:47:03Z",
   "have": "0394839129",
   "name": "us.mn.dakota_county_library",

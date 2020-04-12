@@ -3,7 +3,6 @@
   "missing": "No available matches found",
   "was_valid": "2015-05-03T18:51:56Z",
   "title": "San Jose Public Library - All",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg=0321279670&searchscope=1&availlim=1",
   "tested": "2015-06-25T09:13:15Z",
   "have": "043935806X",
   "name": "us.ca.san_jose_public_library_all",

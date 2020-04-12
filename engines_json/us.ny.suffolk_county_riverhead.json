@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "was_valid": "2015-05-20T04:24:24Z",
   "title": "Suffolk County - Riverhead",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=52",
   "tested": "2015-07-01T05:02:21Z",
   "have": "0439136350",
   "name": "us.ny.suffolk_county_riverhead",

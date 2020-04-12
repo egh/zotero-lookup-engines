@@ -2,7 +2,6 @@
   "dont": "0967865204",
   "missing": "found no matches in the library you searched",
   "title": "The Library Network",
-  "problems": "DNS lookup failed for URL: http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1=0413774929&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-TLN",
   "tested": "2015-07-02T06:17:03Z",
   "have": "0413774929",
   "name": "us.mi.the_library_network",

@@ -3,7 +3,6 @@
   "missing": "Item not found--perhaps the following list will help",
   "was_valid": "2012-03-15T07:18:53Z",
   "title": "Cedar Park Library",
-  "problems": "DNS lookup failed for URL: http://webcat.cedarparktx.us/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1=0439136350&srchfield1=020^SUBJECT^GENERAL^^isbn",
   "tested": "2015-06-26T17:43:04Z",
   "have": "0439136350",
   "name": "us.tx.cedar_park_library",

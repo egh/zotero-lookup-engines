@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-27T03:18:15Z",
   "title": "LS - Dakota CUSD 201 - Jr/Sr High School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=068986938X&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DALY-13&sort_by=ANY%27",
   "tested": "2015-07-03T14:47:12Z",
   "have": "068986938X",
   "name": "us.pals.dakota_cusd_201_jr/sr_high_school",

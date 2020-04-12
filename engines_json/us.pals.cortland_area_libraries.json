@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-26T23:31:08Z",
   "title": "LS - Cortland Area Libraries",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CTPYGRP01&sort_by=ANY%27",
   "tested": "2015-07-03T11:02:11Z",
   "have": "0439786770",
   "name": "us.pals.cortland_area_libraries",

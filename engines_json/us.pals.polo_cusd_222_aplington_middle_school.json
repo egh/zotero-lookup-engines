@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-24T12:59:21Z",
   "title": "LS - Polo CUSD 222 - Aplington Middle School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0590353403&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=PO3Y-14&sort_by=ANY%27",
   "tested": "2015-07-01T00:32:12Z",
   "have": "0590353403",
   "name": "us.pals.polo_cusd_222_aplington_middle_school",

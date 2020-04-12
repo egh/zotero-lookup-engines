@@ -2,7 +2,6 @@
   "dont": "0967865204",
   "missing": "No titles found",
   "title": "Florence-Lauderdale Public Library",
-  "problems": "DNS lookup failed for URL: http://catalog.flpl.lib.al.us/polaris/search/searchresults.aspx?ctx=3.1033.0.0.1&type=Advanced&term=0439136350&relation=ALL&by=ISBN&bool4=AND&limit=TOM=*&sort=RELEVANCE&page=0",
   "tested": "2015-07-02T05:02:08Z",
   "have": "0439136350",
   "name": "us.al.florence_lauderdale_public_library",

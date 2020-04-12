@@ -2,7 +2,6 @@
   "dont": "0967865204",
   "missing": "found no matches",
   "title": "LS - Dixon CUSD 170 - Reagan Middle School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0525671501&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DI4Y-14&sort_by=ANY%27",
   "tested": "2015-07-03T17:02:22Z",
   "have": "0525671501",
   "name": "us.pals.dixon_cusd_170_reagan_middle_school",

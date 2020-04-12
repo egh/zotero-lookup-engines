@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2013-05-31T14:23:32Z",
   "title": "Charleston County Public Library - Poe Branch",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=POE",
   "tested": "2015-07-04T00:17:10Z",
   "have": "0439136350",
   "name": "us.sc.charleston_county_public_library_poe_branch",

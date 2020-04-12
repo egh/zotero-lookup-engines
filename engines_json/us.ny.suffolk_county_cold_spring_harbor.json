@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "was_valid": "2014-11-30T21:40:38Z",
   "title": "Suffolk County - Cold Spring Harbor",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=12",
   "tested": "2015-06-30T19:31:18Z",
   "have": "0439136350",
   "name": "us.ny.suffolk_county_cold_spring_harbor",

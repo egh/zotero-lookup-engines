@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-28T19:10:24Z",
   "title": "LS - Galena SD 120 - Primary School LRC",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0316126500&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GL2Y-13&sort_by=ANY%27",
   "tested": "2015-06-24T17:43:21Z",
   "have": "0316126500",
   "name": "us.pals.galena_sd_120_primary_school_lrc",

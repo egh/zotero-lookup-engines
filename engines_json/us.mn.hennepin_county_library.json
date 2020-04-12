@@ -3,7 +3,6 @@
   "missing": "could not find anything matching",
   "was_valid": "2014-09-27T14:16:34Z",
   "title": "Hennepin County Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: https://catalog.hclib.org/ipac20/ipac.jsp?menu=search&index=ISBN&term=0394839129",
   "tested": "2015-06-30T03:16:15Z",
   "have": "0394839129",
   "name": "us.mn.hennepin_county_library",

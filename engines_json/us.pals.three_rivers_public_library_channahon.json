@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-17T00:14:08Z",
   "title": "LS - Three Rivers Public Library - Channahon",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=TRBB-2&sort_by=ANY%27",
   "tested": "2015-07-04T01:32:20Z",
   "have": "0439786770",
   "name": "us.pals.three_rivers_public_library_channahon",

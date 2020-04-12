@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2015-05-26T14:54:27Z",
   "title": "San Diego Public - Mira Mesa",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1=0967865204&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MIRA_MESA",
   "tested": "2015-06-27T03:13:27Z",
   "have": "0439136350",
   "name": "us.ca.san_diego_public_mira_mesa",

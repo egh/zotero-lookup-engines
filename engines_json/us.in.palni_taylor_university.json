@@ -3,7 +3,6 @@
   "missing": null,
   "was_valid": "2012-08-17T22:41:29Z",
   "title": "PALNI - Taylor University",
-  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plntup&scan_start=0324001029",
   "tested": "2015-07-04T05:32:10Z",
   "have": "0324001029",
   "name": "us.in.palni_taylor_university",

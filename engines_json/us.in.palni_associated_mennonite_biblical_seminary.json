@@ -3,7 +3,6 @@
   "missing": null,
   "was_valid": "2011-08-29T01:55:48Z",
   "title": "PALNI - Associated Mennonite Biblical Seminary",
-  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnamp&scan_start=0333638921",
   "tested": "2015-07-01T19:02:10Z",
   "have": "0333638921",
   "name": "us.in.palni_associated_mennonite_biblical_seminary",

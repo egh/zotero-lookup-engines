@@ -3,7 +3,6 @@
   "missing": "Sorry, could not find anything matching",
   "was_valid": "2015-03-27T09:04:45Z",
   "title": "Winnipeg Public Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://wpl-pac.winnipeg.ca/ipac20/ipac.jsp?menu=search&profile=wpl&index=ISBNEX&term=0773760261",
   "tested": "2015-06-30T13:01:15Z",
   "have": "0773760261",
   "name": "ca.ma.winnipeg_public_library",

@@ -3,7 +3,6 @@
   "missing": "Sorry, could not find anything matching",
   "was_valid": "2013-11-28T17:08:35Z",
   "title": "Salt Lake County Libraries - All",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://ipac.slco.lib.ut.us/ipac20/ipac.jsp?index=ISBNEX&term=0156012197",
   "tested": "2015-06-24T11:43:11Z",
   "have": "0156012197",
   "name": "us.ut.salt_lake_county_libraries_all",

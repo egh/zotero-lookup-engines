@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "was_valid": "2014-12-01T06:33:57Z",
   "title": "Suffolk County - North Babylon",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=40",
   "tested": "2015-07-01T04:17:21Z",
   "have": "0439136350",
   "name": "us.ny.suffolk_county_north_babylon",

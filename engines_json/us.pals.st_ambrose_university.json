@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2011-11-02T10:09:04Z",
   "title": "LS - St. Ambrose University",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SAUG-6&sort_by=ANY%27",
   "tested": "2015-07-04T05:02:11Z",
   "have": "0439136350",
   "name": "us.pals.st_ambrose_university",

@@ -2,7 +2,6 @@
   "dont": "0967865204",
   "missing": "found no matches in the library you searched",
   "title": "Waterford Township Public Library All Branches",
-  "problems": "DNS lookup failed for URL: http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-ALLWATE",
   "tested": "2015-07-02T08:02:05Z",
   "have": "0439786770",
   "name": "us.mi.waterford_township_public_library_all_branches",

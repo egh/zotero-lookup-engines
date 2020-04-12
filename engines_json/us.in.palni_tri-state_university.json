@@ -3,7 +3,6 @@
   "missing": null,
   "was_valid": "2012-08-26T15:47:06Z",
   "title": "PALNI - Tri-State University",
-  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plntsp&scan_start=0321384016",
   "tested": "2015-07-02T08:47:02Z",
   "have": "0321384016",
   "name": "us.in.palni_tri-state_university",

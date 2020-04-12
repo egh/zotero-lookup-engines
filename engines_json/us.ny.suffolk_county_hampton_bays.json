@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "was_valid": "2012-02-27T06:09:53Z",
   "title": "Suffolk County - Hampton Bays",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0439136350&searchscope=26",
   "tested": "2015-06-30T20:32:21Z",
   "have": "0439136350",
   "name": "us.ny.suffolk_county_hampton_bays",

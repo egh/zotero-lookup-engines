@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2011-08-04T04:18:00Z",
   "title": "LS - Oregon CUSD 220 - High School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=OSLY&sort_by=ANY%27",
   "tested": "2015-07-01T10:32:21Z",
   "have": "",
   "name": "us.pals.oregon_cusd_220_high_school",

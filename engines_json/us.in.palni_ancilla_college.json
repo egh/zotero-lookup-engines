@@ -3,7 +3,6 @@
   "missing": null,
   "was_valid": "2012-08-31T04:48:52Z",
   "title": "PALNI - Ancilla College",
-  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnacp&scan_start=0321342321",
   "tested": "2015-06-26T06:58:03Z",
   "have": "0321342321",
   "name": "us.in.palni_ancilla_college",

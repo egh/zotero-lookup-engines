@@ -3,7 +3,6 @@
   "missing": "No direct matches were found",
   "was_valid": "2015-06-18T05:42:02Z",
   "title": "Ottawa Public Library - Carp",
-  "problems": "Connection closed unexpectedly by server at URL: http://ottawa.bibliocommons.com/search?custom_query=Identifier:(1551929767)%20%20branch:%22Carp%22&custom_edit=false",
   "tested": "2015-06-28T17:46:05Z",
   "have": "1551929767",
   "name": "ca.bc.ottawa_public_library_carlingwood",

@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "was_valid": "2014-11-29T06:00:12Z",
   "title": "Suffolk County - John Jermain",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=34",
   "tested": "2015-06-29T03:46:22Z",
   "have": "0439136369",
   "name": "us.ny.suffolk_county_john_jermain",

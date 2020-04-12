@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "was_valid": "2012-07-27T12:40:50Z",
   "title": "LS - Warren CUSD 205 - Jr/Sr High School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=WALY-13&sort_by=ANY%27",
   "tested": "2015-07-03T23:47:13Z",
   "have": "0439786770",
   "name": "us.pals.warren_cusd_205_jr/sr_high_school",

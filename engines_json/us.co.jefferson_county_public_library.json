@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "was_valid": "2015-06-17T00:57:09Z",
   "title": "Jefferson County Public Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://sable.jefferson.lib.co.us/search/?searchtype=i&searcharg=0967865204&SORT=D&searchscope=9",
   "tested": "2015-06-27T13:16:15Z",
   "have": "0439136350",
   "name": "us.co.jefferson_county_public_library",
