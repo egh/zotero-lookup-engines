@@ -6,10 +6,10 @@
   <body>
     <h1>
       
-        US -
+      US -
       
       
-        FL -
+      FL -
       
       Jacksonville Public Library - University Park</h1>
     <p>
@@ -17,26 +17,25 @@
     </p>
     <p>
       Unfortunately, Zotero has removed the ability to add these lookup engines
-      to Zotero from a user interface. You can add the following snippet to the
-      file named <code>locate/engines.json</code> in your Zotero data directory.
+      to Zotero from a user interface (see https://github.com/zotero/zotero-connectors/issues/81).
+      You can add the following snippet to the file named <code>locate/engines.json</code> in your Zotero data directory.
       To find out where your Zotero data directory is, check your Zotero
       preferences, Advanced tab for the data directory location.
     </p>
 
     <pre>
-	{
-		"name": "Jacksonville Public Library - University Park",
-		"_urlTemplate": "http://jpl.coj.net/web2/tramp2.exe/do_keyword_search/guest?query={rft:isbn}&setting_key=english&servers=1home&location_group_filter=UNIVERSITY",
-		"description": "Search Jacksonville Public Library - University Park",
-		"alias": "us.fl.jacksonville_public_library_university_park",
-		"hidden": false,
-                "_urlParams": [],
-		"_urlNamespaces": {
-			"rft": "info:ofi/fmt:kev:mtx:journal",
-			"z": "http://www.zotero.org/namespaces/openSearch#",
-			"": "http://a9.com/-/spec/opensearch/1.1/"
-		}
-	}
+{
+    "_name": "Jacksonville Public Library - University Park",
+    "_alias": "Jacksonville Public Library - University Park",
+    "_urlTemplate": "http://jpl.coj.net/web2/tramp2.exe/do_keyword_search/guest?query={rft:isbn}&setting_key=english&servers=1home&location_group_filter=UNIVERSITY",
+    "_description": "Search Jacksonville Public Library - University Park",
+    "_urlParams": [],
+    "_hidden": false,"_urlNamespaces": {
+	"rft": "info:ofi/fmt:kev:mtx:journal",
+	"z": "http://www.zotero.org/namespaces/openSearch#",
+	"": "http://a9.com/-/spec/opensearch/1.1/"
+    }
+}
     </pre>
 
     <p>
@@ -46,49 +45,46 @@
 
     <pre>
 [
-        {
-                "name": "CrossRef Lookup",
-                "alias": "CrossRef",
-                "icon": "file:///home/egh/d/zotero/locate/CrossRef%20Lookup.ico",
-                "_urlTemplate": "https://crossref.org/openurl?{z:openURL}&pid=zter:zter321",
-                "description": "CrossRef Search Engine",
-                "hidden": false,
-                "_urlParams": [],
-                "_urlNamespaces": {
-                        "z": "http://www.zotero.org/namespaces/openSearch#",
-                        "": "http://a9.com/-/spec/opensearch/1.1/"
-                },
-                "icon": "https://crossref.org/favicon.ico"
-        },
-        {
-                "name": "Google Scholar Search",
-                "alias": "Google Scholar",
-                "icon": null,
-                "_urlTemplate": "https://scholar.google.com/scholar?as_q=&as_epq={z:title}&as_occt=title&as_sauthors={rft:aufirst?}+{rft:aulast?}&as_ylo={z:year?}&as_yhi={z:year?}&as_sdt=1.&as_sdtp=on&as_sdtf=&as_sdts=22&",
-                "description": "Google Scholar Search",
-                "hidden": false,
-                "_urlParams": [],
-                "_urlNamespaces": {
-                        "rft": "info:ofi/fmt:kev:mtx:journal",
-                        "z": "http://www.zotero.org/namespaces/openSearch#",
-                        "": "http://a9.com/-/spec/opensearch/1.1/"
-                },
-                "icon": "https://scholar.google.com/favicon.ico"
-        },
-	{
-		"name": "Jacksonville Public Library - University Park",
-		"_urlTemplate": "http://jpl.coj.net/web2/tramp2.exe/do_keyword_search/guest?query={rft:isbn}&setting_key=english&servers=1home&location_group_filter=UNIVERSITY",
-		"description": "Search Jacksonville Public Library - University Park",
-		"alias": "us.fl.jacksonville_public_library_university_park",
-		"hidden": false,
-		"icon": null,
-		"_urlParams": [],
-		"_urlNamespaces": {
-			"rft": "info:ofi/fmt:kev:mtx:journal",
-			"z": "http://www.zotero.org/namespaces/openSearch#",
-			"": "http://a9.com/-/spec/opensearch/1.1/"
-		}
-	}
+{
+    "_name": "Jacksonville Public Library - University Park",
+    "_alias": "Jacksonville Public Library - University Park",
+    "_urlTemplate": "http://jpl.coj.net/web2/tramp2.exe/do_keyword_search/guest?query={rft:isbn}&setting_key=english&servers=1home&location_group_filter=UNIVERSITY",
+    "_description": "Search Jacksonville Public Library - University Park",
+    "_urlParams": [],
+    "_hidden": false,"_urlNamespaces": {
+	"rft": "info:ofi/fmt:kev:mtx:journal",
+	"z": "http://www.zotero.org/namespaces/openSearch#",
+	"": "http://a9.com/-/spec/opensearch/1.1/"
+    }
+},
+{
+    "_name": "CrossRef Lookup",
+    "_alias": "CrossRef Lookup",
+    "_urlTemplate": "https://crossref.org/openurl?{z:openURL}&pid=zter:zter321",
+    "_description": "Search CrossRef Lookup",
+    "_urlParams": [],
+    "_hidden": false,
+    "_icon": "https://crossref.org/favicon.ico",
+    "_urlNamespaces": {
+	"rft": "info:ofi/fmt:kev:mtx:journal",
+	"z": "http://www.zotero.org/namespaces/openSearch#",
+	"": "http://a9.com/-/spec/opensearch/1.1/"
+    }
+},
+{
+    "_name": "Google Scholar",
+    "_alias": "Google Scholar",
+    "_urlTemplate": "https://scholar.google.com/scholar?as_q=&as_epq={z:title}&as_occt=title&as_sauthors={rft:aufirst?}+{rft:aulast?}&as_ylo={z:year?}&as_yhi={z:year?}&as_sdt=1.&as_sdtp=on&as_sdtf=&as_sdts=22&",
+    "_description": "Search Google Scholar",
+    "_urlParams": [],
+    "_hidden": false,
+    "_icon": "https://scholar.google.com/favicon.ico",
+    "_urlNamespaces": {
+	"rft": "info:ofi/fmt:kev:mtx:journal",
+	"z": "http://www.zotero.org/namespaces/openSearch#",
+	"": "http://a9.com/-/spec/opensearch/1.1/"
+    }
+}
 ]
     </pre>
   </body>
