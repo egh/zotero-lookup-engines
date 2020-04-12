@@ -13,7 +13,7 @@
                   {% for item in state[1] %}
                   <li>
                     {%- if item.icon %}
-                    <img src={{ item.icon }}>
+                    <img src={{ item.icon }} height="16px">
                     {% endif %}
                     <a href="{{ item.filename }}.html">{{ item.title }}</a>
                   </li>
