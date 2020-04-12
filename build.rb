@@ -25,10 +25,15 @@ countries = {}
 crossref = JSON.parse(File.read("engines_json/crossref.json"))
 google = JSON.parse(File.read("engines_json/google.json"))
 
+us_states_map = JSON.parse(File.read("us_states.json"))
+countries_map = JSON.parse(File.read("countries.json"))
+
 items = Dir['engines_json/*'].map do |filename|
   item = JSON.parse(File.read(filename))
   filename = File.basename(filename, '.json')
   item['filename'] = filename
+  item['state'] = us_states_map.fetch((item['state'] || '').downcase, nil)
+  item['country'] = countries_map.fetch((item['country'] || '').downcase, nil)
   item
 end.sort_by do |i|
   [i['country'] || '', i['state'] || '', i['filename']]
