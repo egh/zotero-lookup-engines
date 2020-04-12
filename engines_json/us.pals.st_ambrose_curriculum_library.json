@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - St. Ambrose Curriculum Library",
   "tested": "2015-07-04T05:32:10Z",
-  "name": "us.pals.st_ambrose_curriculum_library",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SAEG-6&sort_by=ANY%27"

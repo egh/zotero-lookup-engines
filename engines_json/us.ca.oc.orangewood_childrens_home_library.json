@@ -3,7 +3,6 @@
   "missing": "found no matches in the library you searched",
   "title": "Orange Co. - Orangewood Childrens Home Library",
   "tested": "2015-06-28T23:31:03Z",
-  "name": "us.ca.oc.orangewood_childrens_home_library",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://orca.ocpl.org/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ORANGEWOOD"

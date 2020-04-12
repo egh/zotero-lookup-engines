@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Stockton Township Public Library",
   "tested": "2015-07-04T05:17:13Z",
-  "name": "us.pals.stockton_township_public_library",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SKLY-13&sort_by=ANY%27"

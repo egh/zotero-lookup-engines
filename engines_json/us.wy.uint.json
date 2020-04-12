@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Uinta Co. Library",
   "tested": "2015-06-26T01:28:12Z",
-  "name": "us.wy.uint",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=uintweb&library=UINT&searchdata1={rft:isbn}"

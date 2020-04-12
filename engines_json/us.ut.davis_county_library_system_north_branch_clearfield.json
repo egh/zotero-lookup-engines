@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Davis County Library System - North Branch/Clearfield",
   "tested": "2015-06-24T09:58:20Z",
-  "name": "us.ut.davis_county_library_system_north_branch_clearfield",
   "country": "US",
   "state": "UT",
   "linktemplate": "http://168.180.199.11/uhtbin/cgisirsi.exe/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=NOD"

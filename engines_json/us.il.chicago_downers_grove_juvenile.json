@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Chicago Downers Grove Juvenile",
   "tested": "2015-06-28T04:01:04Z",
-  "name": "us.il.chicago_downers_grove_juvenile",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=45"

@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Chicago Worth",
   "tested": "2015-06-29T15:53:01Z",
-  "name": "us.il.chicago_worth",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=159"

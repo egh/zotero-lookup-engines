@@ -3,7 +3,6 @@
   "missing": "nohits.jsp",
   "title": "LA Public - Panorama City Branch",
   "tested": "2015-06-26T18:28:03Z",
-  "name": "us.ca.los_angeles_public_library_panorama_city_branch",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=PNORAM"

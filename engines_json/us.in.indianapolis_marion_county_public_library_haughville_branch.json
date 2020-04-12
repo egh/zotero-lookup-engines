@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Indianapolis - Marion County Public Library - Haughville Branch",
   "tested": "2015-06-27T00:43:04Z",
-  "name": "us.in.indianapolis_marion_county_public_library_haughville_branch",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Haughville+Branch"

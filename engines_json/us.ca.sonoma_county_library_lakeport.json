@@ -3,7 +3,6 @@
   "missing": "could not find anything matching",
   "title": "Sonoma County Library - Lakeport",
   "tested": "2015-06-27T11:01:03Z",
-  "name": "us.ca.sonoma_county_library_lakeport",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.sonomalibrary.org/ipac20/ipac.jsp?menu=search&index=ISBNEX&term={rft:isbn}&LO01=lake"

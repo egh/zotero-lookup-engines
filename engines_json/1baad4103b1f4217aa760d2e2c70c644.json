@@ -3,7 +3,6 @@
   "missing": "No catalog results found",
   "title": "Mountain View",
   "tested": "2015-07-01T17:32:03Z",
-  "name": "1baad4103b1f4217aa760d2e2c70c644",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://encore.mountainview.gov/iii/encore/search/C__S%28{rft:isbn}%29__Orightresult__U1?lang=eng&suite=pearl"

@@ -3,7 +3,6 @@
   "missing": "would have appeared here",
   "title": "CUNY Union Catalog",
   "tested": "2015-06-30T08:01:03Z",
-  "name": "us.ny.cuny_libraries",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://apps.appl.cuny.edu:83/F?func=scan&local_base=U-CUN01&scan_code=ISBN&scan_start={rft:isbn}"

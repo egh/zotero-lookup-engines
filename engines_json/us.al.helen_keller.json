@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Helen Keller",
   "tested": "2015-06-26T03:58:01Z",
-  "name": "us.al.helen_keller",
   "country": "US",
   "state": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=41"

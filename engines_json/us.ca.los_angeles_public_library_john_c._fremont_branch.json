@@ -3,7 +3,6 @@
   "missing": "nohits.jsp",
   "title": "LA Public - John C. Fremont Branch",
   "tested": "2015-07-03T09:02:14Z",
-  "name": "us.ca.los_angeles_public_library_john_c._fremont_branch",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=JCFRMT"

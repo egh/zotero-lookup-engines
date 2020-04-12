@@ -3,7 +3,6 @@
   "missing": "nohits.jsp",
   "title": "LA Public - Cypress Park Branch",
   "tested": "2015-06-26T15:13:07Z",
-  "name": "us.ca.los_angeles_public_library_cypress_park_branch",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=CYPPRK"

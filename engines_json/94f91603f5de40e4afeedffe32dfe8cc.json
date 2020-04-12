@@ -3,7 +3,6 @@
   "missing": "No matches found; nearby ISN'S are:",
   "title": "Pima County Library",
   "tested": "2015-07-02T03:47:04Z",
-  "name": "94f91603f5de40e4afeedffe32dfe8cc",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://librarycatalog.pima.gov/search/?searchtype=i&SORT=D&searcharg={rft:isbn}&searchscope=8&submit=Submit"

@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Kansas City Libraries",
   "tested": "2015-07-03T02:02:11Z",
-  "name": "us.mo.kansas_city_libraries",
   "country": "US",
   "state": "MO",
   "linktemplate": "http://kcmo.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ALL"

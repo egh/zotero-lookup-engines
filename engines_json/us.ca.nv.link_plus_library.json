@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Link+ Libraries",
   "tested": "2015-06-26T21:28:06Z",
-  "name": "us.ca.nv.link_plus_library",
   "country": "US",
   "state": "CA",
   "linktemplate": "https://csul.iii.com/search/i?SEARCH={rft:isbn}"

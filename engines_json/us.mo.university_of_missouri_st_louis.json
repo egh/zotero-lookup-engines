@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "University of Missouri, St. L",
   "tested": "2015-06-30T04:16:05Z",
-  "name": "us.mo.university_of_missouri_st_louis",
   "country": "US",
   "state": "MO",
   "linktemplate": "http://laurel.lso.missouri.edu/search~S6/?searchtype=i&searcharg={rft:isbn}&searchscope=6"

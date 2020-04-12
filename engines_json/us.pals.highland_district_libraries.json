@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Highland District Libraries",
   "tested": "2015-07-03T12:02:12Z",
-  "name": "us.pals.highland_district_libraries",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HCCYGRP01&sort_by=ANY%27"

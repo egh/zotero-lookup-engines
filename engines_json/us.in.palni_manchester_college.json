@@ -3,7 +3,6 @@
   "missing": null,
   "title": "PALNI - Manchester College",
   "tested": "2015-07-01T19:47:03Z",
-  "name": "us.in.palni_manchester_college",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnmap&scan_start={rft:isbn}"

@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Moline SD 40 - High School",
   "tested": "2015-06-26T12:43:10Z",
-  "name": "us.pals.moline_sd_40_high_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MHSG-6&sort_by=ANY%27"

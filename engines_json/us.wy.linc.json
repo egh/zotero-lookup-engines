@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Lincoln Co. Library",
   "tested": "2015-06-25T19:43:02Z",
-  "name": "us.wy.linc",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=lincweb&library=LINC&searchdata1={rft:isbn}"

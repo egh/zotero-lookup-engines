@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Fossil Ridge Bookmobile",
   "tested": "2015-07-04T08:02:21Z",
-  "name": "us.pals.fossil_ridge_bookmobile",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=FBBB-2&sort_by=ANY%27"

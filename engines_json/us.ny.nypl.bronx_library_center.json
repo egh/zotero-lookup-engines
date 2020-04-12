@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Bronx Library Center",
   "tested": "2015-06-30T09:46:07Z",
-  "name": "us.ny.nypl.bronx_library_center",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=14"

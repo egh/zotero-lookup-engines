@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Indianapolis - Marion County Public Library - Central Library",
   "tested": "2015-06-25T13:43:03Z",
-  "name": "us.in.indianapolis_marion_county_public_library_central_library",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Central+Library"

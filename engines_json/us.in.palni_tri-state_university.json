@@ -3,7 +3,6 @@
   "missing": null,
   "title": "PALNI - Tri-State University",
   "tested": "2015-07-02T08:47:02Z",
-  "name": "us.in.palni_tri-state_university",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plntsp&scan_start={rft:isbn}"

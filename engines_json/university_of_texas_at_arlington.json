@@ -1,5 +1,4 @@
 {
   "title": "University of Texas at Arlington",
-  "name": "university_of_texas_at_arlington",
   "linktemplate": "http://sfx.uta.edu:9003/UTAlink?{z:openURL}"
 }

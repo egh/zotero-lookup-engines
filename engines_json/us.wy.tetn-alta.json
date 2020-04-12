@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Teton Co. - Alta Branch",
   "tested": "2015-06-26T00:58:12Z",
-  "name": "us.wy.tetn-alta",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=tetn-altaweb&library=TETN-ALTA&searchdata1={rft:isbn}"

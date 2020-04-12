@@ -1,5 +1,4 @@
 {
   "title": "Princeton University",
-  "name": "princeton_university",
   "linktemplate": "http://sfx.princeton.edu:9003/sfx_pul?{z:openURL}"
 }

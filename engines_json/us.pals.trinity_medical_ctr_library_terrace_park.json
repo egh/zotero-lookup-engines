@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Trinity Medical Ctr Library - Terrace Park",
   "tested": "2015-07-04T01:17:20Z",
-  "name": "us.pals.trinity_medical_ctr_library_terrace_park",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=TTPG-6&sort_by=ANY%27"

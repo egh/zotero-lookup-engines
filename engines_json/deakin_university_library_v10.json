@@ -1,5 +1,4 @@
 {
   "title": "Deakin University Library (v.1.0)",
-  "name": "deakin_university_library_v10",
   "linktemplate": "http://library.deakin.edu.au/resserv?rfr_id=info:sid/Zotero&{z:openURL}"
 }

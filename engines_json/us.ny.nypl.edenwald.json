@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Edenwald",
   "tested": "2015-06-30T10:31:08Z",
-  "name": "us.ny.nypl.edenwald",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=24"

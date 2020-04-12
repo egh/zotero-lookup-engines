@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Indianapolis - Marion County Public Library - East 38th Street Branch",
   "tested": "2015-06-25T13:58:02Z",
-  "name": "us.in.indianapolis_marion_county_public_library_east_38th_street_branch",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=East+38th+Street+Branch"

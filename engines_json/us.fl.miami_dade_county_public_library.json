@@ -3,7 +3,6 @@
   "missing": "could not find anything matching",
   "title": "Miami-Dade County",
   "tested": "2015-07-02T05:47:02Z",
-  "name": "us.fl.miami_dade_county_public_library",
   "country": "US",
   "state": "FL",
   "linktemplate": "http://catalog.mdpls.org/search/searchresults.aspx?ctx=1.1033.0.0.6&type=Keyword&term={rft:isbn}&by=ISBN&sort=RELEVANCE&limit=TOM=*&query=&page=0"

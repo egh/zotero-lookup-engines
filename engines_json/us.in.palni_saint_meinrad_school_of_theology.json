@@ -3,7 +3,6 @@
   "missing": null,
   "title": "PALNI - Saint Meinrad School of Theology",
   "tested": "2015-07-03T20:47:03Z",
-  "name": "us.in.palni_saint_meinrad_school_of_theology",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnsmp&scan_start={rft:isbn}"

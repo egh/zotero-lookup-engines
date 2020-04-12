@@ -1,5 +1,4 @@
 {
   "title": "Harvard",
-  "name": "harvard",
   "linktemplate": "http://sfx.hul.harvard.edu/sfx_local?{z:openURL}"
 }

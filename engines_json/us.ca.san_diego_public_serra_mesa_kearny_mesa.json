@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "San Diego Public - Serra Mesa-Kearny Mesa",
   "tested": "2015-06-27T06:16:12Z",
-  "name": "us.ca.san_diego_public_serra_mesa_kearny_mesa",
   "country": "US",
   "state": "CA",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SM-KMESA"

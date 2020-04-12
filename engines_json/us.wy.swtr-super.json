@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Sweetwater Co. - Superior Branch",
   "tested": "2015-06-26T00:28:06Z",
-  "name": "us.wy.swtr-super",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=swtr-superweb&library=SWTR-SUPER&searchdata1={rft:isbn}"

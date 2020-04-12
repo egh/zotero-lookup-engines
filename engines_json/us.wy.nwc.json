@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Northwest College - Hinckley Library",
   "tested": "2015-06-25T21:28:05Z",
-  "name": "us.wy.nwc",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=nwcweb&library=NWC&searchdata1={rft:isbn}"

@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "San Diego - Lemon Grove Branch",
   "tested": "2015-06-27T08:46:03Z",
-  "name": "us.ca.sandiego.lemon_grove_branch",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=23"

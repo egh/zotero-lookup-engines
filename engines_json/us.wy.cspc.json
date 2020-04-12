@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Casper College Library",
   "tested": "2015-06-25T14:43:03Z",
-  "name": "us.wy.cspc",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=cspcweb&library=CSPC&searchdata1={rft:isbn}"

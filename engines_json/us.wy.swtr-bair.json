@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Sweetwater Co. - Bairoil Branch",
   "tested": "2015-06-25T23:58:02Z",
-  "name": "us.wy.swtr-bair",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=swtr-bairweb&library=SWTR-BAIR&searchdata1={rft:isbn}"

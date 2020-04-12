@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Indianapolis - Marion County Public Library - Pike Branch",
   "tested": "2015-06-25T15:13:03Z",
-  "name": "us.in.indianapolis_marion_county_public_library_pike_branch",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Pike+Branch"

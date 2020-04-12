@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Scottsboro",
   "tested": "2015-06-26T04:58:04Z",
-  "name": "us.al.scottsboro",
   "country": "US",
   "state": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=52"

@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - West Carroll CUSD 314 - Middle School",
   "tested": "2015-07-03T23:32:20Z",
-  "name": "us.pals.west_carroll_cusd_314_middle_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=WCSY-14&sort_by=ANY%27"

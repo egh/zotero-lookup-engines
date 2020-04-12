@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Converse County Libraries",
   "tested": "2015-06-25T09:58:11Z",
-  "name": "us.wy.convlibs",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=convweb&library=CONVLIBS&searchdata1={rft:isbn}"

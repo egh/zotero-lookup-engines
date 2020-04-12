@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Sweetwater Co. - White Mtn Library",
   "tested": "2015-06-26T00:43:03Z",
-  "name": "us.wy.swtr-wmtn",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=swtr-wmtnweb&library=SWTR-WMTN&searchdata1={rft:isbn}"

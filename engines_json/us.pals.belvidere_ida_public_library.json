@@ -3,7 +3,6 @@
   "missing": "No available matches found; nearby available ISN'S are:",
   "title": "LS - Belvidere/Ida Public Library",
   "tested": "2015-07-01T16:32:01Z",
-  "name": "us.pals.belvidere_ida_public_library",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=1&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"

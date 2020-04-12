@@ -3,7 +3,6 @@
   "missing": "nohits.jsp",
   "title": "LA Public - Encino-Tarzana Branch",
   "tested": "2015-06-28T13:46:05Z",
-  "name": "us.ca.los_angeles_public_library_encino-tarzana_branch",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=ENCTAR"

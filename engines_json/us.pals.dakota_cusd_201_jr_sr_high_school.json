@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Dakota CUSD 201 - Jr/Sr High School",
   "tested": "2015-07-03T14:47:12Z",
-  "name": "us.pals.dakota_cusd_201_jr/sr_high_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DALY-13&sort_by=ANY%27"

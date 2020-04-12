@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Fort Vancouver Regional Library - Klickitat County Bookmobile",
   "tested": "2015-06-28T11:46:04Z",
-  "name": "us.wa.fort_vancouver_regional_library_klickitat_county_bookmobile",
   "country": "US",
   "state": "WA",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=FV-BKK"

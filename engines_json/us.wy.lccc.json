@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Laramie County Community College",
   "tested": "2015-06-25T19:28:05Z",
-  "name": "us.wy.lccc",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=lcccweb&library=LCCC&searchdata1={rft:isbn}"

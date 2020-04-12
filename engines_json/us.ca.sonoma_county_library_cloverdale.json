@@ -3,7 +3,6 @@
   "missing": "could not find anything matching",
   "title": "Sonoma County Library - Cloverdale",
   "tested": "2015-06-27T10:16:03Z",
-  "name": "us.ca.sonoma_county_library_cloverdale",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.sonomalibrary.org/ipac20/ipac.jsp?menu=search&index=ISBNEX&term={rft:isbn}&LO01=clov"

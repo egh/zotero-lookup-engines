@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "San Diego Public - Otay Mesa-Nestor",
   "tested": "2015-06-25T07:13:18Z",
-  "name": "us.ca.san_diego_public_otay_mesa_nestor",
   "country": "US",
   "state": "CA",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=OTAYNESTOR"

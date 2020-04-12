@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Washington Heights",
   "tested": "2015-07-03T04:17:03Z",
-  "name": "us.ny.nypl.washington_heights",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=86"

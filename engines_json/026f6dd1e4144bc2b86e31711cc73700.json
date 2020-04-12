@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Harvard University Libraries",
   "tested": "2015-07-01T18:32:02Z",
-  "name": "026f6dd1e4144bc2b86e31711cc73700",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://hollis.harvard.edu/?q=isbn:{rft:isbn}+"

@@ -3,7 +3,6 @@
   "missing": "Sie einen Suchbegriff und klicken Sie auf <strong>absenden</strong>, oder klicken Sie direkt auf einen Suchbegriff",
   "title": "Bibliothek der Fachhochschule Hannover",
   "tested": "2015-06-26T02:43:05Z",
-  "name": "de.de-ni.bibliothek_der_fachhochschule_hannover",
   "country": "DE",
   "state": null,
   "linktemplate": "http://opac.tib.uni-hannover.de/DB=4/SET=1/TTL=1/CLK?IKT=1007&TRM={rft:isbn}"

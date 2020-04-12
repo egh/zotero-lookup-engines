@@ -3,7 +3,6 @@
   "missing": "No direct matches were found",
   "title": "Ottawa Public Library - Bookmobile",
   "tested": "2015-06-28T17:46:05Z",
-  "name": "ca.bc.ottawa_public_library_bookmobile",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Bookmobile%22&custom_edit=false"

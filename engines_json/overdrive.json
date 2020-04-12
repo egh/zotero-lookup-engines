@@ -1,5 +1,4 @@
 {
-  "name": "overdrive",
   "title": "Overdrive",
   "linktemplate": "http://www.overdrive.com/search?q={rft:aulast}+{rft:btitle}"
 }

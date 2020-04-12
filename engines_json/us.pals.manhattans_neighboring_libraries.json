@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Manhattans Neighboring Libraries",
   "tested": "2015-07-03T12:17:11Z",
-  "name": "us.pals.manhattans_neighboring_libraries",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MTBBGRP01&sort_by=ANY%27"

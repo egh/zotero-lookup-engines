@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Castle Hill",
   "tested": "2015-06-30T09:46:25Z",
-  "name": "us.ny.nypl.castle_hill",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=15"

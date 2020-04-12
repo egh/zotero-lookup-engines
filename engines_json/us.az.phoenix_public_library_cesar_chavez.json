@@ -3,7 +3,6 @@
   "missing": "No results were found for your query.",
   "title": "Phoenix Public Library - Cesar Chavez",
   "tested": "2015-07-04T09:32:03Z",
-  "name": "us.az.phoenix_public_library_cesar_chavez",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=7265"

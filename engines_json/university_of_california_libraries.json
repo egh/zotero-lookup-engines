@@ -1,5 +1,4 @@
 {
   "title": "University of California Libraries",
-  "name": "university_of_california_libraries",
   "linktemplate": "http://ucelinks.cdlib.org:8888/sfx_local?{z:openURL}"
 }

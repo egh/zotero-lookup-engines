@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Hamilton - Roselawn",
   "tested": "2015-07-01T12:32:01Z",
-  "name": "us.oh.hamilton_county_roselawn",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ROSELAWN"

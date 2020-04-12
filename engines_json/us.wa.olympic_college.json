@@ -3,7 +3,6 @@
   "missing": "Search resulted in no hits",
   "title": "Olympic College",
   "tested": "2015-06-25T01:43:06Z",
-  "name": "us.wa.olympic_college",
   "country": "US",
   "state": "WA",
   "linktemplate": "http://olympic.library.ctc.edu/vwebv/search?searchArg1={rft:isbn}&argType1=any&searchCode1=ISBN&searchType=2"

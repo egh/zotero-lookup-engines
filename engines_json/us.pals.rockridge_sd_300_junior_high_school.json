@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Rockridge SD 300 - Junior High School",
   "tested": "2015-07-01T05:17:22Z",
-  "name": "us.pals.rockridge_sd_300_junior_high_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ROJG-8&sort_by=ANY%27"

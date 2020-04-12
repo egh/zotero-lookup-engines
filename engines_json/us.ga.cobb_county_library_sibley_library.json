@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Cobb County Library - Sibley Library",
   "tested": "2015-07-02T05:02:07Z",
-  "name": "us.ga.cobb_county_library_sibley_library",
   "country": "US",
   "state": "GA",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SIBLEY"

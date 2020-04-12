@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "NOBLE - Northern Essex Community College",
   "tested": "2015-06-30T06:16:04Z",
-  "name": "us.ma.noble_northern_essex_community_college",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=44"

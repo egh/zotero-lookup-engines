@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Charleston County Public Library - Main",
   "tested": "2015-07-03T22:02:21Z",
-  "name": "us.sc.charleston_county_public_library_main",
   "country": "US",
   "state": "SC",
   "linktemplate": "http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MAIN"

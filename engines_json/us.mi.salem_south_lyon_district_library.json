@@ -3,7 +3,6 @@
   "missing": "found no matches in the library you searched",
   "title": "Salem-South Lyon District Library",
   "tested": "2015-07-02T05:32:01Z",
-  "name": "us.mi.salem_south_lyon_district_library",
   "country": "US",
   "state": "MI",
   "linktemplate": "http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-SALEMSL"

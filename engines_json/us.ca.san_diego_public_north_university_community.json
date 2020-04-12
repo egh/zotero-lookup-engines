@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "San Diego Public - North University Community",
   "tested": "2015-06-29T00:46:13Z",
-  "name": "us.ca.san_diego_public_north_university_community",
   "country": "US",
   "state": "CA",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=N_UNIV_COM"

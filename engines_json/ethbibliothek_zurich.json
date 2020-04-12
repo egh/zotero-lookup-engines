@@ -1,5 +1,4 @@
 {
   "title": "ETH-Bibliothek Zurich",
-  "name": "ethbibliothek_zurich",
   "linktemplate": "http://sfx.ethz.ch:9003/sfx_local/?{z:openURL}"
 }

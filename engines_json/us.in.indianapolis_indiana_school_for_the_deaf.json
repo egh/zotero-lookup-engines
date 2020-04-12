@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Indianapolis - Indiana School for the Deaf",
   "tested": "2015-06-25T16:58:04Z",
-  "name": "us.in.indianapolis_indiana_school_for_the_deaf",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Indiana+School+for+the+Deaf"

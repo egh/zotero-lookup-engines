@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Fort Vancouver Regional Library - PeaceHealth Southwest Medical Center",
   "tested": "2015-06-28T12:01:01Z",
-  "name": "us.wa.fort_vancouver_regional_library_peacehealth_southwest_medical_center",
   "country": "US",
   "state": "WA",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=SWMC"

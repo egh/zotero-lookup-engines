@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Aguilar",
   "tested": "2015-06-30T08:46:03Z",
-  "name": "us.ny.nypl.aguilar",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=7"

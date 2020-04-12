@@ -3,7 +3,6 @@
   "missing": "No available matches found; nearby available ISN'S are:",
   "title": "LS - H Colman/Rockford College",
   "tested": "2015-07-03T11:47:10Z",
-  "name": "us.pals.h_colman_rockford_college",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=5&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"

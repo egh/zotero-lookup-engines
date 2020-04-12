@@ -3,7 +3,6 @@
   "missing": null,
   "title": "PALNI - Hanover College",
   "tested": "2015-07-01T19:32:01Z",
-  "name": "us.in.palni_hanover_college",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnhap&scan_start={rft:isbn}"

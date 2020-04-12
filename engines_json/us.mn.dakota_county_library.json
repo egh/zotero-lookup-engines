@@ -3,7 +3,6 @@
   "missing": "Sorry, could not find anything matching",
   "title": "Dakota County Library",
   "tested": "2015-07-02T08:47:03Z",
-  "name": "us.mn.dakota_county_library",
   "country": "US",
   "state": "MN",
   "linktemplate": "http://ipac.dakota.lib.mn.us/ipac20/ipac.jsp?&profile=ctw&index=ISBNEX&term={rft:isbn}"

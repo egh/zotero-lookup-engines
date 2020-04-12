@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Suffolk County - Central Islip",
   "tested": "2015-06-30T19:16:22Z",
-  "name": "us.ny.suffolk_county_central_islip",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=10"

@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Bureau Valley SD 340 - North Jr High School",
   "tested": "2015-07-04T03:47:22Z",
-  "name": "us.pals.bureau_valley_sd_340_north_jr_high_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=BNJG-8&sort_by=ANY%27"

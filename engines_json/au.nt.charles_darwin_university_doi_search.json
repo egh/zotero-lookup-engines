@@ -1,6 +1,5 @@
 {
   "title": "Charles Darwin University - DOI Search",
-  "name": "au.nt.charles_darwin_university_doi_search",
   "alias": "CDU-DOI",
   "icon": "http://cdu.edu.au/favicon.ico",
   "linktemplate": "https://cdu-edu-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=61CDU_INT&vid=61CDU&query=any,contains,{z:DOI}",

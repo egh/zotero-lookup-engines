@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Schomburg Center",
   "tested": "2015-06-30T16:01:04Z",
-  "name": "us.ny.nypl.schomburg_center",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=67"

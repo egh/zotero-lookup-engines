@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Riverdale SD 100 - Elem. School",
   "tested": "2015-07-01T03:32:20Z",
-  "name": "us.pals.riverdale_sd_100_elem_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=RIEG-7&sort_by=ANY%27"

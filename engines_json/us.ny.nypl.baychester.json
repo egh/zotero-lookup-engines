@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Baychester",
   "tested": "2015-06-30T09:01:07Z",
-  "name": "us.ny.nypl.baychester",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=11"

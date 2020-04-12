@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Genoa-Kingston CUSD 424 - High School",
   "tested": "2015-06-24T18:43:23Z",
-  "name": "us.pals.genoa_kingston_cusd_424_high_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GKLY-12&sort_by=ANY%27"

@@ -3,7 +3,6 @@
   "missing": "No results were found for your query.",
   "title": "Phoenix Public Library - Irish Cultural Center",
   "tested": "2015-07-04T12:02:02Z",
-  "name": "us.az.phoenix_public_library_irish_cultural_center",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=7283"

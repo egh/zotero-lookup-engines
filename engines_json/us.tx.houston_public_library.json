@@ -3,7 +3,6 @@
   "missing": "No catalog results found",
   "title": "Houston Public Library",
   "tested": "2015-06-30T09:16:02Z",
-  "name": "us.tx.houston_public_library",
   "country": "US",
   "state": "TX",
   "linktemplate": "http://encore.houstonlibrary.org/iii/encore/search/C%7CS{rft:isbn}%7COrightresult%7CU1?lang=eng&suite=pearl"

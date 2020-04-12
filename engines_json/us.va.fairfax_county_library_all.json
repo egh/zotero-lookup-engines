@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Fairfax County Library",
   "tested": "2015-06-24T13:43:22Z",
-  "name": "us.va.fairfax_county_library_all",
   "country": "US",
   "state": "VA",
   "linktemplate": "http://fcplcat.fairfaxcounty.gov/uhtbin/cgisirsi/x/0/0/5?user_id=GUEST&password=1111&searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ALL"

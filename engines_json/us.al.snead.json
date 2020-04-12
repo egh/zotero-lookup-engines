@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Snead",
   "tested": "2015-06-26T06:58:03Z",
-  "name": "us.al.snead",
   "country": "US",
   "state": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=57"

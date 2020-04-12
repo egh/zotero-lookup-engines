@@ -3,7 +3,6 @@
   "missing": "No available matches found; nearby available ISN'S are:",
   "title": "LS - Woodstock Public Library",
   "tested": "2015-07-03T20:17:13Z",
-  "name": "us.pals.woodstock_public_library",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=18&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"

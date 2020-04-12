@@ -3,7 +3,6 @@
   "missing": "No titles found",
   "title": "Prince William Public Library System",
   "tested": "2015-06-24T22:43:00Z",
-  "name": "us.va.prince_william_public_library_system",
   "country": "US",
   "state": "VA",
   "linktemplate": "http://librarycatalog.pwcgov.org/polaris/search/searchresults.aspx?ctx=1.1033.0.0.4&type=Advanced&term={rft:isbn}&by=ISBN&bool1=And&sort=RELEVANCE&page=0"

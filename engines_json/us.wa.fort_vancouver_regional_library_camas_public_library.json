@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Fort Vancouver Regional Library - Camas Public Library",
   "tested": "2015-06-28T11:01:05Z",
-  "name": "us.wa.fort_vancouver_regional_library_camas_public_library",
   "country": "US",
   "state": "WA",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=CA"

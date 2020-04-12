@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Indianapolis - All Libraries",
   "tested": "2015-06-25T15:53:01Z",
-  "name": "us.in.indianapolis_all",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}"

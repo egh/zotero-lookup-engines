@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Indianapolis - Eiteljorg Museum",
   "tested": "2015-06-26T22:58:02Z",
-  "name": "us.in.indianapolis_eiteljorg_museum",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Eiteljorg+Museum"

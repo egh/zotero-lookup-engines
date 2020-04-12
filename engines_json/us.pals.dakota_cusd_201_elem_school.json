@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Dakota CUSD 201 - Elem. School",
   "tested": "2015-07-03T15:02:13Z",
-  "name": "us.pals.dakota_cusd_201_elem_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DA2Y-13&sort_by=ANY%27"

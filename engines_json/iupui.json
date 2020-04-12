@@ -1,5 +1,4 @@
 {
   "title": "IUPUI",
-  "name": "iupui",
   "linktemplate": "http://sfx.ulib.iupui.edu/sfx_local?{z:openURL}"
 }

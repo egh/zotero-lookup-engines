@@ -1,5 +1,4 @@
 {
   "title": "University College London",
-  "name": "university_college_london",
   "linktemplate": "http://metalib.ucl.ac.uk:9003/sfx_local?{z:openURL}"
 }

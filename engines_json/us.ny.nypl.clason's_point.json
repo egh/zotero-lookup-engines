@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Clason's Point",
   "tested": "2015-06-30T10:01:11Z",
-  "name": "us.ny.nypl.clason's_point",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=18"

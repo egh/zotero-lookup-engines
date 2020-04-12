@@ -1,5 +1,4 @@
 {
   "title": "Yale University",
-  "name": "yale_university",
   "linktemplate": "http://yale.summon.serialssolutions.com/#!/search?ho=t&l=en&q=(ISBN:({rft:isbn}))"
 }

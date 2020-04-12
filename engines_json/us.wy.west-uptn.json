@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Weston Co. - Upton Branch",
   "tested": "2015-07-03T14:47:02Z",
-  "name": "us.wy.west-uptn",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=west-uptnweb&library=WEST-UPTN&searchdata1={rft:isbn}"

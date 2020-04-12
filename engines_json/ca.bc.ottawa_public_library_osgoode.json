@@ -3,7 +3,6 @@
   "missing": "No direct matches were found",
   "title": "Ottawa Public Library - Osgoode",
   "tested": "2015-06-28T20:46:02Z",
-  "name": "ca.bc.ottawa_public_library_osgoode",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Osgoode%22&custom_edit=false"

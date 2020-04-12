@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Park Co. Library",
   "tested": "2015-06-25T21:28:06Z",
-  "name": "us.wy.park",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=parkweb&library=PARK&searchdata1={rft:isbn}"

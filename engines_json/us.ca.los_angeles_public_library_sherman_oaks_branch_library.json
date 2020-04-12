@@ -3,7 +3,6 @@
   "missing": "nohits.jsp",
   "title": "LA Public - Sherman Oaks Branch Library",
   "tested": "2015-06-26T18:58:07Z",
-  "name": "us.ca.los_angeles_public_library_sherman_oaks_branch_library",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=SHRMNO"

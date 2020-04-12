@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Charleston County Public Library - James Island",
   "tested": "2015-07-03T21:47:11Z",
-  "name": "us.sc.charleston_county_public_library_james_island",
   "country": "US",
   "state": "SC",
   "linktemplate": "http://192.152.249.232/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=JAMES_IS"

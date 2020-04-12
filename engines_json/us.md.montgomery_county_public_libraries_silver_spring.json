@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Montgomery County Public Library- Silver Spring",
   "tested": "2015-06-30T03:16:05Z",
-  "name": "us.md.montgomery_county_public_libraries_silver_spring",
   "country": "US",
   "state": "MD",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=SILVER_SPR"

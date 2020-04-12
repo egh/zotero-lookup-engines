@@ -3,7 +3,6 @@
   "missing": "No direct matches were found",
   "title": "Ottawa Public Library - Ruth E. Dickinson",
   "tested": "2015-06-28T21:16:06Z",
-  "name": "ca.bc.ottawa_public_library_ruth_e_dickinson",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Ruth+E.+Dickinson%22&custom_edit=false"

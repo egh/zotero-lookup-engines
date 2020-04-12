@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "St. Louis University",
   "tested": "2015-06-30T03:31:25Z",
-  "name": "us.mo.St_louis_university_libraries",
   "country": "US",
   "state": "MO",
   "linktemplate": "http://libcat.slu.edu/search~S5/?searchtype=i&searcharg={rft:isbn}+&searchscope=5"

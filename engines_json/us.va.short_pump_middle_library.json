@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Short Pump Middle Library",
   "tested": "2015-06-24T23:58:13Z",
-  "name": "us.va.short_pump_middle_library",
   "country": "US",
   "state": "VA",
   "linktemplate": "http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SH-PUMP-MS"

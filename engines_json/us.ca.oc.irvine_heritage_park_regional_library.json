@@ -3,7 +3,6 @@
   "missing": "found no matches in the library you searched",
   "title": "Orange Co. - Irvine Heritage Park Regional Library",
   "tested": "2015-06-25T06:58:03Z",
-  "name": "us.ca.oc.irvine_heritage_park_regional_library",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://orca.ocpl.org/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=IRVINEHP"

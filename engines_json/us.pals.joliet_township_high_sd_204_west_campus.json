@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Joliet Township High SD 204 - West Campus",
   "tested": "2015-06-26T06:28:10Z",
-  "name": "us.pals.joliet_township_high_sd_204_west_campus",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=JWHB-1&sort_by=ANY%27"

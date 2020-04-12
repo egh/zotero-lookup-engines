@@ -3,7 +3,6 @@
   "missing": "nohits.jsp",
   "title": "LA Public - Washington Irving Branch",
   "tested": "2015-06-26T20:13:07Z",
-  "name": "us.ca.los_angeles_public_library_washington_irving_branch",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=WIRVNG"

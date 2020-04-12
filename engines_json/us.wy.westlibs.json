@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Weston County Libraries",
   "tested": "2015-07-03T14:32:05Z",
-  "name": "us.wy.westlibs",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=westweb&library=WESTLIBS&searchdata1={rft:isbn}"

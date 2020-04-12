@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Richmondtown",
   "tested": "2015-06-30T15:46:04Z",
-  "name": "us.ny.nypl.richmondtown",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=63"

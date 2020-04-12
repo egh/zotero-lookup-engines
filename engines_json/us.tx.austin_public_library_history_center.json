@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Austin - History Center",
   "tested": "2015-06-30T14:16:09Z",
-  "name": "us.tx.austin_public_library_history_center",
   "country": "US",
   "state": "TX",
   "linktemplate": "https://www.ci.austin.tx.us/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HC"

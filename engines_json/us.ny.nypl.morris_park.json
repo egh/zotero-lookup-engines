@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Morris Park",
   "tested": "2015-06-30T14:16:19Z",
-  "name": "us.ny.nypl.morris_park",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=50"

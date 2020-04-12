@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Chicago La Grange Park",
   "tested": "2015-06-29T06:01:05Z",
-  "name": "us.il.chicago_la_grange_park",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=81"

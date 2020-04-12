@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Orange County Public Library - All",
   "tested": "2015-06-27T14:01:18Z",
-  "name": "us.fl.orange_county_all",
   "country": "US",
   "state": "FL",
   "linktemplate": "http://iii.ocls.info/search/a?a&searchtype=i&searcharg={rft:isbn}&searchscope=1"

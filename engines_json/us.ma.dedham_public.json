@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Dedham Public Library",
   "tested": "2015-06-29T18:16:08Z",
-  "name": "us.ma.dedham_public",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=12"

@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "NOBLE - Melrose",
   "tested": "2015-06-30T05:46:02Z",
-  "name": "us.ma.noble_melrose",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=16"

@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Mosholu",
   "tested": "2015-06-30T14:31:05Z",
-  "name": "us.ny.nypl.mosholu",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=52"

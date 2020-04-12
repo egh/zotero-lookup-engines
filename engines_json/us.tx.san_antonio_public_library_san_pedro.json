@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "San Antonio Public Library - San Pedro",
   "tested": "2015-06-24T05:58:04Z",
-  "name": "us.tx.san_antonio_public_library_san_pedro",
   "country": "US",
   "state": "TX",
   "linktemplate": "http://sapl.sat.lib.tx.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=25"

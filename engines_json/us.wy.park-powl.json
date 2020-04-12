@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Park Co. - Powell Branch Library",
   "tested": "2015-06-25T21:43:04Z",
-  "name": "us.wy.park-powl",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=park-powlweb&library=PARK-POWL&searchdata1={rft:isbn}"

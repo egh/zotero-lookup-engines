@@ -3,7 +3,6 @@
   "missing": "No results were found for your query.",
   "title": "Phoenix Public Library - Ocotillo",
   "tested": "2015-07-04T10:47:02Z",
-  "name": "us.az.phoenix_public_library_ocotillo",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=6653"

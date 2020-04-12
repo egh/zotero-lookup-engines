@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "NOBLE - Phillips Academy",
   "tested": "2015-06-30T06:31:05Z",
-  "name": "us.ma.noble_phillips_academy",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=36"

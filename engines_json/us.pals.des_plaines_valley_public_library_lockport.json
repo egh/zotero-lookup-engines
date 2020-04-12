@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Des Plaines Valley Public Library - Lockport",
   "tested": "2015-07-03T17:32:21Z",
-  "name": "us.pals.des_plaines_valley_public_library_lockport",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DVLB-1&sort_by=ANY%27"

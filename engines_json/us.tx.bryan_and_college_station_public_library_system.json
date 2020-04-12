@@ -3,7 +3,6 @@
   "missing": "No titles found",
   "title": "Bryan & College Station Public Library System",
   "tested": "2015-06-30T09:01:06Z",
-  "name": "us.tx.bryan_and_college_station_public_library_system",
   "country": "US",
   "state": "TX",
   "linktemplate": "http://ipac.bcslibrary.org/polaris/search/searchresults.aspx?ctx=1.1033.0.0.3&type=Keyword&term={rft:isbn}&by=ISBN&sort=RELEVANCE&limit=TOM=*&query=&page=0"

@@ -3,7 +3,6 @@
   "missing": "No direct matches were found",
   "title": "Ottawa Public Library - Main",
   "tested": "2015-06-28T19:46:03Z",
-  "name": "ca.bc.ottawa_public_library_main",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Main%22&custom_edit=false"

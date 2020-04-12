@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Indianapolis - Marion County Public Library - Franklin Road Branch",
   "tested": "2015-06-25T14:28:03Z",
-  "name": "us.in.indianapolis_marion_county_public_library_franklin_road_branch",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Franklin+Road+Branch"

@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Hamilton - Harrison",
   "tested": "2015-07-03T05:17:03Z",
-  "name": "us.oh.hamilton_county_harrison",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HARRISON"

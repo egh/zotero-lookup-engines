@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Plano CUSD 88 - P.H. Miller School",
   "tested": "2015-07-01T00:17:13Z",
-  "name": "us.pals.plano_cusd_88_ph_miller_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=PHMB-3&sort_by=ANY%27"

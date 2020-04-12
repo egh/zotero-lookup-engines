@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Raymond A Sapp Memorial Township Library",
   "tested": "2015-07-01T02:47:22Z",
-  "name": "us.pals.raymond_a_sapp_memorial_township_library",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=RAYG-8&sort_by=ANY%27"

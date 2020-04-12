@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Andrew Heiskell",
   "tested": "2015-06-29T04:01:06Z",
-  "name": "us.ny.nypl.andrew_heiskell",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=9"

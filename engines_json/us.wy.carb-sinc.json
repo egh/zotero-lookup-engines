@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Carbon Co. - Sinclair Branch",
   "tested": "2015-06-25T07:28:04Z",
-  "name": "us.wy.carb-sinc",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=carb-sincweb&library=CARB-SINC&searchdata1={rft:isbn}"

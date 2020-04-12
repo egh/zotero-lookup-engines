@@ -3,7 +3,6 @@
   "missing": null,
   "title": "PALNI - Butler University",
   "tested": "2015-06-26T09:43:00Z",
-  "name": "us.in.palni_butler_university",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnbup&scan_start={rft:isbn}"

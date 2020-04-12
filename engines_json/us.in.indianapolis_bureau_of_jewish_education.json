@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Indianapolis - Bureau of Jewish Education",
   "tested": "2015-06-26T22:43:02Z",
-  "name": "us.in.indianapolis_bureau_of_jewish_education",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Bureau+of+Jewish+Education"

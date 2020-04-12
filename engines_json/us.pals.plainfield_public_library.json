@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Plainfield Public Library",
   "tested": "2015-06-30T23:32:12Z",
-  "name": "us.pals.plainfield_public_library",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=PLBB-1&sort_by=ANY%27"

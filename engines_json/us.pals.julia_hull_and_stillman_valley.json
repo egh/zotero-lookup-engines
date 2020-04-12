@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Julia Hull and Stillman Valley",
   "tested": "2015-07-01T16:47:21Z",
-  "name": "us.pals.julia_hull_and_stillman_valley",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=JHLYGRP01&sort_by=ANY%27"

@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Morningside Heights",
   "tested": "2015-06-30T14:01:07Z",
-  "name": "us.ny.nypl.morningside_heights",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=49"

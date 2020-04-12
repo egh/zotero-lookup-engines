@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Hamilton - Main Library",
   "tested": "2015-07-03T05:32:01Z",
-  "name": "us.oh.hamilton_county_main_library",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MAIN"

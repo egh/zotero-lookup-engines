@@ -3,7 +3,6 @@
   "missing": "Sorry, could not find anything matching",
   "title": "St. L Muni Lib Consortium",
   "tested": "2015-06-30T03:46:02Z",
-  "name": "us.mo.municipal_library_consortium_of_st_louis",
   "country": "US",
   "state": "MO",
   "linktemplate": "http://catalog.mlc.lib.mo.us/ipac20/ipac.jsp?profile=uc&index=ISBNEX&term={rft:isbn}"

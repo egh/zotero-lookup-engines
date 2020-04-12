@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Chicago Beecher",
   "tested": "2015-06-27T16:46:05Z",
-  "name": "us.il.chicago_beecher",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=10"

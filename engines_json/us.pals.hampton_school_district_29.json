@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Hampton School District 29",
   "tested": "2015-06-24T20:43:22Z",
-  "name": "us.pals.hampton_school_district_29",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HAMG-6&sort_by=ANY%27"

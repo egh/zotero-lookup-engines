@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Dumbarton Elementary Library",
   "tested": "2015-06-24T13:13:20Z",
-  "name": "us.va.dumbarton_elementary_library",
   "country": "US",
   "state": "VA",
   "linktemplate": "http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DUMBARTON"

@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Suffolk County - Longwood",
   "tested": "2015-07-01T01:17:13Z",
-  "name": "us.ny.suffolk_county_longwood",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=36"

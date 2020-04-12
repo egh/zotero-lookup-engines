@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Suffolk County - Hampton Library",
   "tested": "2015-06-30T20:47:24Z",
-  "name": "us.ny.suffolk_county_hampton_library",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=27"

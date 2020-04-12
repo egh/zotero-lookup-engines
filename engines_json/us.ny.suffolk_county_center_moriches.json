@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Suffolk County - Center Moriches",
   "tested": "2015-06-30T19:16:11Z",
-  "name": "us.ny.suffolk_county_center_moriches",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=8"

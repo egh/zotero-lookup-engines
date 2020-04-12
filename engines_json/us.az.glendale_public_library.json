@@ -3,7 +3,6 @@
   "missing": "Sorry, could not find anything matching",
   "title": "Glendale Public Library",
   "tested": "2015-06-26T07:13:07Z",
-  "name": "us.az.glendale_public_library",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://www.glendalelibrary.org/ipac20/ipac.jsp?menu=search&index=ISBNEX&term={rft:isbn}"

@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Chicago Oak Lawn Juvenile",
   "tested": "2015-06-29T09:31:07Z",
-  "name": "us.il.chicago_oak_lawn_juvenile",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=107"

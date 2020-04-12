@@ -1,5 +1,4 @@
 {
   "title": "University of Crete Library",
-  "name": "university_of_crete_library",
   "linktemplate": "http://zeus.lib.uoc.gr:3210/sfxlcl3?{z:openURL}"
 }

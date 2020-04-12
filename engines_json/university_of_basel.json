@@ -1,5 +1,4 @@
 {
   "title": "University of Basel",
-  "name": "university_of_basel",
   "linktemplate": "http://sfx.metabib.ch:9003/sfx_basel?{z:openURL}"
 }

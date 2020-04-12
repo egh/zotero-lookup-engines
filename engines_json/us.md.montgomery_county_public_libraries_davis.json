@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Montgomery County Public Library- Davis",
   "tested": "2015-07-03T06:02:13Z",
-  "name": "us.md.montgomery_county_public_libraries_davis",
   "country": "US",
   "state": "MD",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?user_id=webserver&searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DAVIS"

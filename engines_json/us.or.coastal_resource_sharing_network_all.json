@@ -3,7 +3,6 @@
   "missing": "found no matches in the library you searched.",
   "title": "Coastal Resource Sharing Network",
   "tested": "2015-07-01T13:17:06Z",
-  "name": "us.or.coastal_resource_sharing_network_all",
   "country": "US",
   "state": "OR",
   "linktemplate": "http://www.beachbooks.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ALLSEARCH"

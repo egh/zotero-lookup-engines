@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Gadsden State, All Libraries",
   "tested": "2015-06-26T03:13:01Z",
-  "name": "us.al.gadsden_state_all_libraries",
   "country": "US",
   "state": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=36"

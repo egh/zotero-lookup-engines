@@ -3,7 +3,6 @@
   "missing": "No available matches found",
   "title": "San Jose Public Library - Alviso",
   "tested": "2015-06-25T09:28:19Z",
-  "name": "us.ca.san_jose_public_library_alviso",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&searchscope=1&availlim=16"

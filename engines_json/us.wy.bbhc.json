@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "McCracken Research Library - BBHC",
   "tested": "2015-06-25T04:43:09Z",
-  "name": "us.wy.bbhc",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=bbhcweb&library=BBHC&searchdata1={rft:isbn}"

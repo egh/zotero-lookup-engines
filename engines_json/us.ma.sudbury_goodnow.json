@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Sudbury's Goodnow Library",
   "tested": "2015-06-30T01:16:06Z",
-  "name": "us.ma.sudbury_goodnow",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=35"

@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Austin - Central Austin Branches",
   "tested": "2015-07-04T10:17:09Z",
-  "name": "us.tx.austin_public_library_central_austin_branches",
   "country": "US",
   "state": "TX",
   "linktemplate": "https://www.ci.austin.tx.us/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CENTRAL"

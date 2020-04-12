@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Genesis Med Ctr East",
   "tested": "2015-06-24T18:13:21Z",
-  "name": "us.pals.genesis_med_ctr_east",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GMEG-6&sort_by=ANY%27"

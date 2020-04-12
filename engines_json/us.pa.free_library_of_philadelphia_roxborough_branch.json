@@ -3,7 +3,6 @@
   "missing": "found 0 titles",
   "title": "Free Library of Philadelphia - Roxborough Branch",
   "tested": "2015-07-02T23:32:03Z",
-  "name": "us.pa.free_library_of_philadelphia_roxborough_branch",
   "country": "US",
   "state": "PA",
   "linktemplate": "https://catalog.freelibrary.org/web2/tramp2.exe/form/log_in?setting_key=ENGLISH&servers=1home&query={rft:isbn}&location_group_filter=ROXBOROUGH&buttons=K_Keyword%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3Ddefault+search_button_easy%3DK_Keyword&buttons=*%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3Ddefault+search_button_easy%3DK_Keyword&K_Keyword=Keyword&buttons=K_Author%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3DAU+search_button_easy%3DK_Author&buttons=K_Title%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3DTI+search_button_easy%3DK_Title&buttons=K_Subject%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3DSU+search_button_easy%3DK_Subject&buttons=K_Series%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3DSER+search_button_easy%3DK_Series&buttons=K_Periodical%3Ddo_keyword_search+default_value%3Dsearch_button_easy+index%3DPER+search_button_easy%3DK_Periodical&buttons=prev%3Dprevious_search&buttons=next%3Dnext_search"

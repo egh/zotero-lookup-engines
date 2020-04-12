@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - St. George",
   "tested": "2015-06-30T16:31:07Z",
-  "name": "us.ny.nypl.st._george",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=75"

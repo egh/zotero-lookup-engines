@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Dean College - Anderson Library",
   "tested": "2015-06-29T18:01:06Z",
-  "name": "us.ma.dean_college_anderson",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=11"

@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Suffolk County - Half Hollow Hills",
   "tested": "2015-06-30T20:32:11Z",
-  "name": "us.ny.suffolk_county_half_hollow_hills",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=23"

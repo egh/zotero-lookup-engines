@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Natick's Morse Institute Library",
   "tested": "2015-06-30T00:16:06Z",
-  "name": "us.ma.natick_morse",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=28"

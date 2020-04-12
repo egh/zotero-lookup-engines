@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Uinta Co. - Lyman Branch",
   "tested": "2015-06-26T01:28:14Z",
-  "name": "us.wy.uint-lyman",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=uint-lymanweb&library=UINT-LYMAN&searchdata1={rft:isbn}"

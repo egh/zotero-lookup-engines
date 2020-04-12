@@ -3,7 +3,6 @@
   "missing": "No available matches found",
   "title": "San Jose Public Library - Rosegarden",
   "tested": "2015-06-25T10:28:10Z",
-  "name": "us.ca.san_jose_public_library_rosegarden",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&availlim=1&searchscope=27"

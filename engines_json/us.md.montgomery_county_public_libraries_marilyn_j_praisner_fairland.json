@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Montgomery County Public Library- Marilyn J. Praisner (Fairland)",
   "tested": "2015-07-01T21:17:20Z",
-  "name": "us.md.montgomery_county_public_libraries_marilyn_j_praisner_fairland",
   "country": "US",
   "state": "MD",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=PRAISNER"

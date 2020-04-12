@@ -3,7 +3,6 @@
   "missing": "found no matches in the library you searched",
   "title": "Orange Co. - Villa Park Library",
   "tested": "2015-06-29T00:16:05Z",
-  "name": "us.ca.oc.villa_park_library",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://orca.ocpl.org/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=VILLAPARK"

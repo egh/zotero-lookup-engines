@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Wyoming State Law Library",
   "tested": "2015-07-03T14:17:05Z",
-  "name": "us.wy.wsl-law",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=wsl-lawweb&library=WSL-LAW&searchdata1={rft:isbn}"

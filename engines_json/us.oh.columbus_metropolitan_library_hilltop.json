@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Columbus Metropolitan Library - Hilltop",
   "tested": "2015-06-29T21:01:09Z",
-  "name": "us.oh.columbus_metropolitan_library_hilltop",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Hilltop"

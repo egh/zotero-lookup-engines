@@ -1,5 +1,4 @@
 {
   "title": "Penn State University",
-  "name": "penn_state_university",
   "linktemplate": "http://getit.libraries.psu.edu:9003/sfx_local?{z:openURL}"
 }

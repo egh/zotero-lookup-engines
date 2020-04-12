@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Tompkins Square",
   "tested": "2015-06-30T17:16:08Z",
-  "name": "us.ny.nypl.tompkins_square",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=80"

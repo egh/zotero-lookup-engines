@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Tottenville",
   "tested": "2015-06-30T17:31:05Z",
-  "name": "us.ny.nypl.tottenville",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=81"

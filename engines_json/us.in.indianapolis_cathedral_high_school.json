@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Indianapolis - Cathedral High School",
   "tested": "2015-06-25T16:28:01Z",
-  "name": "us.in.indianapolis_cathedral_high_school",
   "country": "US",
   "state": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Cathedral+High+School"

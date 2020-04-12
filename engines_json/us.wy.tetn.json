@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Teton Co. Library",
   "tested": "2015-06-26T00:58:10Z",
-  "name": "us.wy.tetn",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=tetnweb&library=TETN&searchdata1={rft:isbn}"

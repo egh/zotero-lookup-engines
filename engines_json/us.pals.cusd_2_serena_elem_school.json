@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - CUSD 2 - Serena Elem. School",
   "tested": "2015-07-03T06:47:20Z",
-  "name": "us.pals.cusd_2_serena_elem_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SGBB-3&sort_by=ANY%27"

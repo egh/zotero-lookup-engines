@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "NOBLE - Public Libraries",
   "tested": "2015-06-30T06:46:03Z",
-  "name": "us.ma.noble_public_libraries",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=48"

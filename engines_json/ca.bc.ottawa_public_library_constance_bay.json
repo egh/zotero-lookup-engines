@@ -3,7 +3,6 @@
   "missing": "No direct matches were found",
   "title": "Ottawa Public Library - Constance Bay",
   "tested": "2015-06-28T18:16:03Z",
-  "name": "ca.bc.ottawa_public_library_constance_bay",
   "country": "CA",
   "state": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Constance+Bay%22&custom_edit=false"

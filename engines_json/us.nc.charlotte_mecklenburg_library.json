@@ -3,7 +3,6 @@
   "missing": "No results found",
   "title": "Charlotte Mecklenburg Library",
   "tested": "2015-06-30T04:31:02Z",
-  "name": "us.nc.charlotte_mecklenburg_library",
   "country": "US",
   "state": "NC",
   "linktemplate": "http://catalog.plcmc.org/accessible.ashx?q=isbn%3A{rft:isbn}&cmd=find"

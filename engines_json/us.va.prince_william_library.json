@@ -3,7 +3,6 @@
   "missing": "Sorry, could not find anything matching",
   "title": "Prince William Library",
   "tested": "2015-06-24T22:28:13Z",
-  "name": "us.va.prince_william_library",
   "country": "US",
   "state": "VA",
   "linktemplate": "http://librarycatalog.pwcgov.org/ipac20/ipac.jsp?menu=search&x=0&y=0&aspect=subtab13&index=ISBNEX&term={rft:isbn}"

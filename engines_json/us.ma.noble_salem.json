@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "NOBLE - Salem",
   "tested": "2015-06-30T07:01:01Z",
-  "name": "us.ma.noble_salem",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=24"

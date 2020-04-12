@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Geneseo SD 228 - High School",
   "tested": "2015-06-24T18:13:11Z",
-  "name": "us.pals.geneseo_sd_228_high_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GHSG-7&sort_by=ANY%27"

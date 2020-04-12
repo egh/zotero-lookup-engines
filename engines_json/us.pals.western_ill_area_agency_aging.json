@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Western ILL Area Agency Aging",
   "tested": "2015-07-03T23:02:23Z",
-  "name": "us.pals.western_ill_area_agency_aging",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=WIAG-9&sort_by=ANY%27"

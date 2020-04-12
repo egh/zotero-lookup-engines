@@ -3,7 +3,6 @@
   "missing": "Sorry, could not find anything matching",
   "title": "Loudoun County",
   "tested": "2015-07-02T07:02:02Z",
-  "name": "6046c16937004b4f806ba103c0f21c2f",
   "country": "US",
   "state": "VA",
   "linktemplate": "http://catalog.lcpl.lib.va.us/ipac20/ipac.jsp?menu=search&profile=adm&ri=&term={rft:isbn}&index=PISBNEX"

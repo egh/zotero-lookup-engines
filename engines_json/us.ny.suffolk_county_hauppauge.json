@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Suffolk County - Hauppauge",
   "tested": "2015-06-30T21:02:21Z",
-  "name": "us.ny.suffolk_county_hauppauge",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=29"

@@ -3,7 +3,6 @@
   "missing": "We could not find results in the catalog for",
   "title": "Seattle Public Library",
   "tested": "2015-07-04T00:47:13Z",
-  "name": "us.wa.seattle_public",
   "country": "US",
   "state": "WA",
   "linktemplate": "http://catalog.spl.org/ipac20/ipac.jsp?index=ISBNEX&term={rft:isbn}"

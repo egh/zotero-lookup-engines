@@ -3,7 +3,6 @@
   "missing": "No available matches found",
   "title": "San Jose Public Library - West Valley",
   "tested": "2015-06-25T12:43:07Z",
-  "name": "us.ca.san_jose_public_library_west_valley",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&availlim=1&searchscope=33"

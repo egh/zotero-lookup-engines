@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Suffolk County - Cutchogue",
   "tested": "2015-06-30T19:46:23Z",
-  "name": "us.ny.suffolk_county_cutchogue",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=17"

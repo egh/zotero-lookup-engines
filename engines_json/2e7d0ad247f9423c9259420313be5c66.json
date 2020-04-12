@@ -3,7 +3,6 @@
   "missing": "We did not find any matches for this search.",
   "title": "Library of Congress",
   "tested": "2015-06-29T01:16:12Z",
-  "name": "2e7d0ad247f9423c9259420313be5c66",
   "country": "US",
   "state": "DC",
   "linktemplate": "http://www.loc.gov/search/?q={rft:isbn}&fa=digitized:false"

@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Colona SD 190 - Colona School",
   "tested": "2015-07-03T08:32:21Z",
-  "name": "us.pals.colona_sd_190_colona_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CSDG-7&sort_by=ANY%27"

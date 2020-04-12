@@ -3,7 +3,6 @@
   "missing": "No available matches found",
   "title": "San Jose Public Library - Cambrian",
   "tested": "2015-06-25T09:43:24Z",
-  "name": "us.ca.san_jose_public_library_cambrian",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&availlim=1&searchscope=20"

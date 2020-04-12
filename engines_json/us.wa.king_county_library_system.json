@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "King County Library System",
   "tested": "2015-06-25T01:43:04Z",
-  "name": "us.wa.king_county_library_system",
   "country": "US",
   "state": "WA",
   "linktemplate": "http://catalog.kcls.org/search/i?{rft:isbn}&searchscope=1&SORT=D"

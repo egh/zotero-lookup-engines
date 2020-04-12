@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Lawrence Public Library",
   "tested": "2015-06-29T16:16:05Z",
-  "name": "us.ks.lawrence_pub_library",
   "country": "US",
   "state": "KS",
   "linktemplate": "http://catalog.lawrence.lib.ks.us/search/i?SEARCH={rft:isbn}"

@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Cheyenne Central High School",
   "tested": "2015-06-25T07:43:03Z",
-  "name": "us.wy.cchs",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=cchsweb&library=CCHS&searchdata1={rft:isbn}"

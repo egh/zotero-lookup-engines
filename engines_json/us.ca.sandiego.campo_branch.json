@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "San Diego - Campo Branch",
   "tested": "2015-07-03T10:47:03Z",
-  "name": "us.ca.sandiego.campo_branch",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=5"

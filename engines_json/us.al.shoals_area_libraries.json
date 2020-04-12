@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Shoals Area Libraries",
   "tested": "2015-06-26T06:43:10Z",
-  "name": "us.al.shoals_area_libraries",
   "country": "US",
   "state": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=56"

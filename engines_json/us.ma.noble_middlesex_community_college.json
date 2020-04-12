@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "NOBLE - Middlesex Community College",
   "tested": "2015-06-30T06:01:01Z",
-  "name": "us.ma.noble_middlesex_community_college",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=41"

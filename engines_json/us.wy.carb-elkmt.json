@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Carbon Co. Elk Mtn Branch",
   "tested": "2015-06-25T05:58:05Z",
-  "name": "us.wy.carb-elkmt",
   "country": "US",
   "state": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=carb-elkmtweb&library=CARB-ELKMT&searchdata1={rft:isbn}"

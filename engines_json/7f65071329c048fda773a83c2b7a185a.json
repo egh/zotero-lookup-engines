@@ -3,7 +3,6 @@
   "missing": "would be here",
   "title": "UAFS Boreham Library",
   "tested": "2015-07-03T00:32:01Z",
-  "name": "7f65071329c048fda773a83c2b7a185a",
   "country": "US",
   "state": "AR",
   "linktemplate": "http://libcat.uafortsmith.edu/search~S0/?searchtype=i&searcharg={rft:isbn}"

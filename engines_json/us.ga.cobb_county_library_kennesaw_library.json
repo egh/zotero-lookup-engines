@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Cobb County Library - Kennesaw Library",
   "tested": "2015-07-02T04:17:12Z",
-  "name": "us.ga.cobb_county_library_kennesaw_library",
   "country": "US",
   "state": "GA",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=KENNESAW"

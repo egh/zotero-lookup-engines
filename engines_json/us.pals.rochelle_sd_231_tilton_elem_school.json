@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Rochelle SD 231 - Tilton Elem. School",
   "tested": "2015-07-01T09:32:12Z",
-  "name": "us.pals.rochelle_sd_231_tilton_elem_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=RE3Y-12&sort_by=ANY%27"

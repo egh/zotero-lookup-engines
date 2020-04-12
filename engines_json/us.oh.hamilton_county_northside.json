@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "Hamilton - Northside",
   "tested": "2015-07-03T20:02:09Z",
-  "name": "us.oh.hamilton_county_northside",
   "country": "US",
   "state": "OH",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=NRSIDE"

@@ -3,7 +3,6 @@
   "missing": "Sorry, could not find anything matching",
   "title": "Waco-McLennan County Library",
   "tested": "2015-06-29T08:01:11Z",
-  "name": "us.tx.waco_mclennan_county_library",
   "country": "US",
   "state": "TX",
   "linktemplate": "http://ipac.ci.waco.tx.us:8080/ipac20/ipac.jsp?profile=cen&index=ISBNEX&term={rft:isbn}"

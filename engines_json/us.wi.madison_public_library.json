@@ -3,7 +3,6 @@
   "missing": "Sorry, could not find anything matching",
   "title": "South Central Library System",
   "tested": "2015-06-25T02:13:06Z",
-  "name": "us.wi.madison_public_library",
   "country": "US",
   "state": "WI",
   "linktemplate": "http://www.linkcat.info/ipac20/ipac.jsp?menu=search&term={rft:isbn}&index=CISBN"

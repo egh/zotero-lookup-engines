@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Warren CUSD 205 - Jr/Sr High School",
   "tested": "2015-07-03T23:47:13Z",
-  "name": "us.pals.warren_cusd_205_jr/sr_high_school",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=WALY-13&sort_by=ANY%27"

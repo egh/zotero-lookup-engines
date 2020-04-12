@@ -3,7 +3,6 @@
   "missing": "No results were found for your query.",
   "title": "Phoenix Public Library - Saguaro",
   "tested": "2015-07-04T11:02:03Z",
-  "name": "us.az.phoenix_public_library_saguaro",
   "country": "US",
   "state": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=6655"

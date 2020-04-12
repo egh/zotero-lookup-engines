@@ -3,7 +3,6 @@
   "missing": "No results found for your search",
   "title": "Stanford Libraries",
   "tested": "2015-07-02T10:32:04Z",
-  "name": "977326ef64704457956b38e772fb26ae",
   "country": "US",
   "state": "CA",
   "linktemplate": "http://searchworks.stanford.edu/?utf8=%E2%9C%93&number={rft:isbn}&search_field=advanced"

@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - 96th Street",
   "tested": "2015-06-30T08:31:03Z",
-  "name": "us.ny.nypl.96th_street",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=4"

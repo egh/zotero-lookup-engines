@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "NOBLE - Danvers",
   "tested": "2015-06-28T15:16:08Z",
-  "name": "us.ma.noble_danvers",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=4"

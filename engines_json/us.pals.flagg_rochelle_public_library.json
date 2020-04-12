@@ -3,7 +3,6 @@
   "missing": "found no matches",
   "title": "LS - Flagg-Rochelle Public Library",
   "tested": "2015-07-04T07:32:21Z",
-  "name": "us.pals.flagg_rochelle_public_library",
   "country": "US",
   "state": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=FRPY-12&sort_by=ANY%27"

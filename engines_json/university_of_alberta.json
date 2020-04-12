@@ -1,5 +1,4 @@
 {
   "title": "University of Alberta",
-  "name": "university_of_alberta",
   "linktemplate": "http://resolver.library.ualberta.ca/resolver?{z:openURL}"
 }

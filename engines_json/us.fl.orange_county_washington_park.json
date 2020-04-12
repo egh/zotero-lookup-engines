@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Orange County Public Library - Washington Park",
   "tested": "2015-06-27T15:31:18Z",
-  "name": "us.fl.orange_county_washington_park",
   "country": "US",
   "state": "FL",
   "linktemplate": "http://iii.ocls.info/search/a?a&searchtype=i&searcharg={rft:isbn}&searchscope=12"

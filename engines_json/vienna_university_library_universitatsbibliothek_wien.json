@@ -1,5 +1,4 @@
 {
   "title": "Vienna University Library (Universitätsbibliothek Wien)",
-  "name": "vienna_university_library_universitatsbibliothek_wien",
   "linktemplate": "http://sfx.univie.ac.at:9003/sfx_local/?{z:openURL}"
 }

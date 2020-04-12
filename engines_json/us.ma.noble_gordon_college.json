@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "NOBLE - Gordon College",
   "tested": "2015-06-30T05:16:01Z",
-  "name": "us.ma.noble_gordon_college",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=39"

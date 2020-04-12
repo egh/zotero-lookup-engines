@@ -3,7 +3,6 @@
   "missing": "found no matches ",
   "title": "Detroit Public Library - Parkman Branch Library",
   "tested": "2015-06-24T09:13:08Z",
-  "name": "us.mi.detroit_public_library_parkman_branch_library",
   "country": "US",
   "state": "MI",
   "linktemplate": "http://dplopac.detroitpubliclibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=BRPA"

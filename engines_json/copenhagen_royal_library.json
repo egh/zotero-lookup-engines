@@ -1,5 +1,4 @@
 {
   "title": "Copenhagen Royal Library",
-  "name": "copenhagen_royal_library",
   "linktemplate": "http://sfx.kb.dk/sfx_local/?{z:openURL}"
 }

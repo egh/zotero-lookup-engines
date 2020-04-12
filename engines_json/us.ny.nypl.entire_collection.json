@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Entire Collection",
   "tested": "2015-06-30T10:46:04Z",
-  "name": "us.ny.nypl.entire_collection",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=1"

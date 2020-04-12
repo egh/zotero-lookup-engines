@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "NYPL - Spuyten Duyvil",
   "tested": "2015-06-30T16:31:06Z",
-  "name": "us.ny.nypl.spuyten_duyvil",
   "country": "US",
   "state": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=73"

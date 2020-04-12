@@ -3,7 +3,6 @@
   "missing": "No results for",
   "title": "Toronto Public Library - Oakwood Village Library and Arts Centre",
   "tested": "2015-06-28T05:31:02Z",
-  "name": "ca.on.toronto_public_library_oakwood_village_library_and_arts_centre",
   "country": "CA",
   "state": "ON",
   "linktemplate": "http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&N=0&advancedSearch=true&Ntt={rft:isbn}&N=33159"

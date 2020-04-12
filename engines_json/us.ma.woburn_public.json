@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Woburn Public Library",
   "tested": "2015-06-30T02:16:08Z",
-  "name": "us.ma.woburn_public",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=43"

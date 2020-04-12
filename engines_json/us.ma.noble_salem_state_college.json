@@ -3,7 +3,6 @@
   "missing": "No matches found;",
   "title": "NOBLE - Salem State College",
   "tested": "2015-06-30T07:16:03Z",
-  "name": "us.ma.noble_salem_state_college",
   "country": "US",
   "state": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=45"

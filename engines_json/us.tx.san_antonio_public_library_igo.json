@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "San Antonio Public Library - Igo",
   "tested": "2015-07-04T16:02:03Z",
-  "name": "us.tx.san_antonio_public_library_igo",
   "country": "US",
   "state": "TX",
   "linktemplate": "http://sapl.sat.lib.tx.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=29"

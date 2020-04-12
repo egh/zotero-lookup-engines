@@ -3,7 +3,6 @@
   "missing": "No matches found",
   "title": "Chicago Glenwood-Lynwood Juvenile",
   "tested": "2015-06-29T03:16:00Z",
-  "name": "us.il.chicago_glenwood_lynwood_juvenile",
   "country": "US",
   "state": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=62"
