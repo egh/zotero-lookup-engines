@@ -1,0 +1,5 @@
+{
+  "title": "DBLP",
+  "_icon": "https://dblp.org/img/dblp.icon.192x192.png",
+  "_urlTemplate": "https://dblp.uni-trier.de/search?q={z:title}",
+}
