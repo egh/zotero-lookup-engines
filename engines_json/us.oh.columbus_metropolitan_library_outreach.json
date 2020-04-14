@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2012-12-08T03:46:27Z",
   "title": "Columbus Metropolitan Library - Outreach",
-  "problems": "Missing item found!\n",
-  "problem_count": 88,
-  "tested": "2015-06-29T23:31:09Z",
-  "has_problems": true,
-  "have": "1596292156",
-  "name": "us.oh.columbus_metropolitan_library_outreach",
   "country": "US",
-  "state": "OH",
+  "region": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Outreach"
 }

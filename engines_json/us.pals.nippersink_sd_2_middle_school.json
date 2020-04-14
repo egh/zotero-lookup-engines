@@ -1,15 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
   "title": "LS - Nippersink SD 2 - Middle School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=NMSY&sort_by=ANY%27",
-  "problem_count": 168,
-  "tested": "2015-07-03T12:47:13Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.pals.nippersink_sd_2_middle_school",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=NMSY&sort_by=ANY%27"
 }

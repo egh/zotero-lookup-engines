@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2013-07-05T20:08:01Z",
   "title": "Indianapolis - Marion County Public Library - West Indianapolis Branch",
-  "problems": "Existing item not found!\n",
-  "problem_count": 68,
-  "tested": "2015-06-27T00:58:04Z",
-  "has_problems": true,
-  "have": "0756503256",
-  "name": "us.in.indianapolis_marion_county_public_library_west_indianapolis_branch",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=West+Indianapolis+Branch"
 }

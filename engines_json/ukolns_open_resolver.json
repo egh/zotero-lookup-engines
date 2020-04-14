@@ -1,5 +1,4 @@
 {
   "title": "UKOLN's Open Resolver",
-  "name": "ukolns_open_resolver",
   "linktemplate": "http://resolver.ukoln.ac.uk/openresolver?{z:openURL}"
 }

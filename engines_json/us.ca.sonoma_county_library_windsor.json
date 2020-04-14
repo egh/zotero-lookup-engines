@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "could not find anything matching",
-  "was_valid": "2015-06-27T12:46:08Z",
   "title": "Sonoma County Library - Windsor",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-27T12:46:08Z",
-  "has_problems": false,
-  "have": "0545010225",
-  "name": "us.ca.sonoma_county_library_windsor",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.sonomalibrary.org/ipac20/ipac.jsp?menu=search&index=ISBNEX&term={rft:isbn}&LO01=wind"
 }

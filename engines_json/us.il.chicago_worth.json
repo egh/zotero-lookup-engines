@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-02-16T06:13:48Z",
   "title": "Chicago Worth",
-  "problems": "Missing item found!\n",
-  "problem_count": 47,
-  "tested": "2015-06-29T15:53:01Z",
-  "has_problems": true,
-  "have": "0439786770",
-  "name": "us.il.chicago_worth",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=159"
 }

@@ -1,5 +1,4 @@
 {
-  "name": "amazon",
   "title": "Amazon",
   "linktemplate": "http://www.amazon.com/exec/obidos/ASIN/{rft:isbn}"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-05-22T14:59:12Z",
   "title": "Hamilton - Delhi Township",
-  "problems": "Missing item found!\n",
-  "problem_count": 107,
-  "tested": "2015-07-01T13:47:00Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.oh.hamilton_county_delhi_township",
   "country": "US",
-  "state": "OH",
+  "region": "OH",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DELHI_TWP"
 }

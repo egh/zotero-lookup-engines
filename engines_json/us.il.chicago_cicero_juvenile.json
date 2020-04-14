@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-02-25T00:58:58Z",
   "title": "Chicago Cicero Juvenile",
-  "problems": "Missing item found!\n",
-  "problem_count": 46,
-  "tested": "2015-06-27T20:16:01Z",
-  "has_problems": true,
-  "have": "0439786770",
-  "name": "us.il.chicago_cicero_juvenile",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=33"
 }

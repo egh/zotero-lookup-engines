@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-07-30T09:41:42Z",
   "title": "LS - Kings CUSD 144",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=KNLY-15&sort_by=ANY%27",
-  "problem_count": 100,
-  "tested": "2015-06-26T07:43:21Z",
-  "has_problems": true,
-  "have": "0439786770",
-  "name": "us.pals.kings_cusd_144",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=KNLY-15&sort_by=ANY%27"
 }

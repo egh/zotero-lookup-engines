@@ -1,0 +1,6 @@
+<li>
+  {%- if list_item.icon %}
+    <img src={{ list_item.icon }} height="16px">
+  {% endif %}
+  <a href="{{ list_item.filename }}.html">{{ list_item.title }}</a>
+</li>

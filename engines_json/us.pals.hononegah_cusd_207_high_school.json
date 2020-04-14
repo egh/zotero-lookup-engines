@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-07-28T20:41:44Z",
   "title": "LS - Hononegah CUSD 207 - High School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0590353403&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HCHY-11&sort_by=ANY%27",
-  "problem_count": 100,
-  "tested": "2015-06-24T19:13:21Z",
-  "has_problems": true,
-  "have": "0590353403",
-  "name": "us.pals.hononegah_cusd_207_high_school",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HCHY-11&sort_by=ANY%27"
 }

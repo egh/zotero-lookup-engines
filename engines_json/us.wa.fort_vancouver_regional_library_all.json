@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches in any library",
-  "was_valid": "2013-05-04T08:36:28Z",
   "title": "Fort Vancouver Regional Library - All",
-  "problems": "Missing item found!\n",
-  "problem_count": 74,
-  "tested": "2015-06-28T10:31:01Z",
-  "has_problems": true,
-  "have": "043935806X",
-  "name": "us.wa.fort_vancouver_regional_library_all",
   "country": "US",
-  "state": "WA",
+  "region": "WA",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=ALL"
 }

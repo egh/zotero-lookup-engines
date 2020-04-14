@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2011-11-07T01:50:41Z",
   "title": "Glen Lea Elementary Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1=0152020934&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GLEN-LEA",
-  "problem_count": 125,
-  "tested": "2015-06-24T14:28:11Z",
-  "has_problems": true,
-  "have": "0152020934",
-  "name": "us.va.glen_lea_elementary_library",
   "country": "US",
-  "state": "VA",
+  "region": "VA",
   "linktemplate": "http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GLEN-LEA"
 }

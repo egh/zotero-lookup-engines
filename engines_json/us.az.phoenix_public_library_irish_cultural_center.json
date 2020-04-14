@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No results were found for your query.",
-  "was_valid": "2013-09-25T12:23:37Z",
   "title": "Phoenix Public Library - Irish Cultural Center",
-  "problems": "Missing item found!\n",
-  "problem_count": 61,
-  "tested": "2015-07-04T12:02:02Z",
-  "has_problems": true,
-  "have": "0940279231",
-  "name": "us.az.phoenix_public_library_irish_cultural_center",
   "country": "US",
-  "state": "AZ",
+  "region": "AZ",
   "linktemplate": "http://www.phoenixpubliclibrary.org/advsearch.jsp?N=0&ISBN={rft:isbn}&Submit=Submit&Location=7283"
 }

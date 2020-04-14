@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-06-29T00:46:22Z",
   "title": "San Diego Public - North Clairemont",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-29T00:46:22Z",
-  "has_problems": false,
-  "have": "0439136350",
-  "name": "us.ca.san_diego_public_north_clairemont",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=N_CLARMONT"
 }

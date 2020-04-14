@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2013-02-06T18:31:59Z",
   "title": "Indianapolis - Bureau of Jewish Education",
-  "problems": "Missing item found!\n",
-  "problem_count": 82,
-  "tested": "2015-06-26T22:43:02Z",
-  "has_problems": true,
-  "have": "0809136104",
-  "name": "us.in.indianapolis_bureau_of_jewish_education",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Bureau+of+Jewish+Education"
 }

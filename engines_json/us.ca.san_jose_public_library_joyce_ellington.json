@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No available matches found",
-  "was_valid": "2015-03-01T00:55:08Z",
   "title": "San Jose Public Library - Joyce Ellington",
-  "problems": "Existing item not found!\n",
-  "problem_count": 11,
-  "tested": "2015-06-25T11:43:19Z",
-  "has_problems": true,
-  "have": "0439368375",
-  "name": "us.ca.san_jose_public_library_joyce_ellington",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.sjlibrary.org/search~/a?searchtype=i&searcharg={rft:isbn}&availlim=1&searchscope=25"
 }

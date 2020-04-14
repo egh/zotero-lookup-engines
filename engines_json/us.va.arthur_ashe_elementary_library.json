@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2011-11-07T00:49:24Z",
   "title": "Arthur Ashe Elementary Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1=0590353403&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ARTHURASHE",
-  "problem_count": 125,
-  "tested": "2015-06-24T11:58:19Z",
-  "has_problems": true,
-  "have": "0590353403",
-  "name": "us.va.arthur_ashe_elementary_library",
   "country": "US",
-  "state": "VA",
+  "region": "VA",
   "linktemplate": "http://catalog.henrico.k12.va.us/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ARTHURASHE"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2013-02-15T12:20:44Z",
   "title": "Tacoma Public Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://topcat.tacomapubliclibrary.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ALL",
-  "problem_count": 81,
-  "tested": "2015-06-25T01:58:10Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.wa.tacoma_public_library",
   "country": "US",
-  "state": "WA",
+  "region": "WA",
   "linktemplate": "http://topcat.tacomapubliclibrary.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ALL"
 }

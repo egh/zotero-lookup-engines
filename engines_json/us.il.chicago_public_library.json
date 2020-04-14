@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "Your search did not produce any results",
-  "was_valid": "2014-03-30T11:13:39Z",
   "title": "Chicago Public Library",
-  "problems": "Missing item found!\n",
-  "problem_count": 43,
-  "tested": "2015-06-29T11:01:07Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.il.chicago_public_library",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://www.chipublib.org/search/results?isbn={rft:isbn}&advancedSearch=submitted"
 }

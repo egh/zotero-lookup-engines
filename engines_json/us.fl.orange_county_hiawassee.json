@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2012-10-13T19:32:37Z",
   "title": "Orange County Public Library - Hiawassee",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://iii.ocls.info/search/a?a&searchtype=i&searcharg=0967865204&searchscope=6",
-  "problem_count": 93,
-  "tested": "2015-06-27T14:31:16Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.fl.orange_county_hiawassee",
   "country": "US",
-  "state": "FL",
+  "region": "FL",
   "linktemplate": "http://iii.ocls.info/search/a?a&searchtype=i&searcharg={rft:isbn}&searchscope=6"
 }

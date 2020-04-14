@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-06-21T18:58:06Z",
   "title": "Cobb County Library - System Reserves",
-  "problems": "Existing item not found!\n",
-  "problem_count": 1,
-  "tested": "2015-07-02T07:17:10Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.ga.cobb_county_library_system_reserves",
   "country": "US",
-  "state": "GA",
+  "region": "GA",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=RESERVES"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2011-07-19T22:03:13Z",
   "title": "LS - Rock Island Cnty Historical Society",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0910946159&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=RCHG&sort_by=ANY%27",
-  "problem_count": 154,
-  "tested": "2015-07-03T17:47:11Z",
-  "has_problems": true,
-  "have": "0910946159",
-  "name": "us.pals.rock_island_cnty_historical_society",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=RCHG&sort_by=ANY%27"
 }

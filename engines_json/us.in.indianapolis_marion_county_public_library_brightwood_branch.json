@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2013-05-13T17:32:13Z",
   "title": "Indianapolis - Marion County Public Library - Brightwood Branch",
-  "problems": "Existing item not found!\n",
-  "problem_count": 73,
-  "tested": "2015-06-27T00:13:14Z",
-  "has_problems": true,
-  "have": "0836851161",
-  "name": "us.in.indianapolis_marion_county_public_library_brightwood_branch",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Brightwood+Branch"
 }

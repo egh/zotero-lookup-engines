@@ -1,16 +1,6 @@
 {
-  "dont": "1565119789",
-  "is_community": true,
-  "missing": "No matches found; nearby ISBN/ISSN'S are:",
-  "was_valid": "2015-06-24T11:58:09Z",
   "title": "Ohio State University",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-24T11:58:09Z",
-  "has_problems": false,
-  "have": "1565120108",
-  "name": "104500265c1f44f797edd9d6b83a2ef3",
   "country": "US",
-  "state": null,
+  "region": "OH",
   "linktemplate": "http://library.ohio-state.edu/search/i?SEARCH={rft:isbn}"
 }

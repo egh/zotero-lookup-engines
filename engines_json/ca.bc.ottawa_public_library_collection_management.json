@@ -1,16 +1,6 @@
 {
-  "dont": "0373691122",
-  "is_community": false,
-  "missing": "No direct matches were found",
-  "was_valid": "2011-08-23T16:37:17Z",
   "title": "Ottawa Public Library - Collection Management",
-  "problems": "Existing item not found!\n",
-  "problem_count": 143,
-  "tested": "2015-06-28T22:01:06Z",
-  "has_problems": true,
-  "have": "9781456399009",
-  "name": "ca.bc.ottawa_public_library_collection_management",
   "country": "CA",
-  "state": "BC",
+  "region": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Collection+Management%22&custom_edit=false"
 }

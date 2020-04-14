@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-01-09T02:06:46Z",
   "title": "Orange County Public Library - All",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://iii.ocls.info/search/a?a&searchtype=i&searcharg=0967865204&searchscope=1",
-  "problem_count": 16,
-  "tested": "2015-06-27T14:01:18Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.fl.orange_county_all",
   "country": "US",
-  "state": "FL",
+  "region": "FL",
   "linktemplate": "http://iii.ocls.info/search/a?a&searchtype=i&searcharg={rft:isbn}&searchscope=1"
 }

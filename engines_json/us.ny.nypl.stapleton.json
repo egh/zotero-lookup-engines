@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2011-07-25T07:09:41Z",
   "title": "NYPL - Stapleton",
-  "problems": "Existing item not found!\n",
-  "problem_count": 152,
-  "tested": "2015-06-30T16:46:03Z",
-  "has_problems": true,
-  "have": "0545139708",
-  "name": "us.ny.nypl.stapleton",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=76"
 }

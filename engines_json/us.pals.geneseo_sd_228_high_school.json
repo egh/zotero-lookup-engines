@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-07-28T19:25:43Z",
   "title": "LS - Geneseo SD 228 - High School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GHSG-7&sort_by=ANY%27",
-  "problem_count": 100,
-  "tested": "2015-06-24T18:13:11Z",
-  "has_problems": true,
-  "have": "0439786770",
-  "name": "us.pals.geneseo_sd_228_high_school",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GHSG-7&sort_by=ANY%27"
 }

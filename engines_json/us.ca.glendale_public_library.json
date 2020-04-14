@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "Sorry, could not find anything matching",
-  "was_valid": "2015-05-15T12:54:04Z",
   "title": "Glendale Public Library",
-  "problems": "Missing item found!\n",
-  "problem_count": 4,
-  "tested": "2015-06-26T13:28:02Z",
-  "has_problems": true,
-  "have": "1569245134",
-  "name": "us.ca.glendale_public_library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.glendalepubliclibrary.org/ipac20/ipac.jsp?menu=search&term={rft:isbn}&index=ISBNEX"
 }

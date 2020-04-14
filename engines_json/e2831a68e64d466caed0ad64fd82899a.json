@@ -1,16 +1,6 @@
 {
-  "dont": "0262631113",
-  "is_community": true,
-  "missing": "No matches found",
-  "was_valid": "2015-06-27T15:01:21Z",
   "title": "San Mateo County Libraries",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-27T15:01:21Z",
-  "has_problems": false,
-  "have": "1564780090",
-  "name": "e2831a68e64d466caed0ad64fd82899a",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.plsinfo.org/search/i?SEARCH={rft:isbn}"
 }

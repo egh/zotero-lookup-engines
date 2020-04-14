@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "nohits.jsp",
-  "was_valid": "2015-06-28T13:46:08Z",
   "title": "LA Public - Pico Union Branch Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-28T13:46:08Z",
-  "has_problems": false,
-  "have": "0439136350",
-  "name": "us.ca.los_angeles_public_library_pico_union_branch_library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=PUNION"
 }

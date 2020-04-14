@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "could not find anything matching",
-  "was_valid": "2013-05-03T11:25:38Z",
   "title": "Westport Public Library",
-  "problems": "Missing item found!\n",
-  "problem_count": 74,
-  "tested": "2015-06-27T13:31:04Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.ct.westport_public_library",
   "country": "US",
-  "state": "CT",
+  "region": "CT",
   "linktemplate": "http://catalog.westportlibrary.org/ipac20/ipac.jsp?index=ISBNEX&term={rft:isbn}"
 }

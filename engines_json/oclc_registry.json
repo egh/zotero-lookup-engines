@@ -1,5 +1,4 @@
 {
   "title": "OCLC Registry",
-  "name": "oclc_registry",
   "linktemplate": "http://worldcatlibraries.org/registry/gateway?{z:openURL}"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2013-11-11T10:52:54Z",
   "title": "Chicago Elmhurst Juvenile",
-  "problems": "Missing item found!\n",
-  "problem_count": 56,
-  "tested": "2015-06-28T10:01:04Z",
-  "has_problems": true,
-  "have": "0590353403",
-  "name": "us.il.chicago_elmhurst_juvenile",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=49"
 }

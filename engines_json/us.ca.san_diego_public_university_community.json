@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-06-16T18:12:21Z",
   "title": "San Diego Public - University Community",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=UNIV_COM",
-  "problem_count": 1,
-  "tested": "2015-06-27T06:31:21Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.ca.san_diego_public_university_community",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=UNIV_COM"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-06-26T02:28:12Z",
   "title": "Water Resources Data System",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-26T02:28:12Z",
-  "has_problems": false,
-  "have": "1933115343",
-  "name": "us.wy.wsl-wrds",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=wsl-wrdsweb&library=WSL-WRDS&searchdata1={rft:isbn}"
 }

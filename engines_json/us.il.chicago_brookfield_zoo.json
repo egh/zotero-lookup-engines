@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-02-24T22:58:16Z",
   "title": "Chicago Brookfield Zoo",
-  "problems": "Missing item found!\n",
-  "problem_count": 46,
-  "tested": "2015-06-27T18:31:00Z",
-  "has_problems": true,
-  "have": "0394831284",
-  "name": "us.il.chicago_brookfield_zoo",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=22"
 }

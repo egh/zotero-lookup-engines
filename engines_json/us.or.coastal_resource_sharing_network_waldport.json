@@ -1,15 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": " we couldn't find what you were looking for",
   "title": "Waldport",
-  "problems": "Missing item found!\n",
-  "problem_count": 168,
-  "tested": "2015-07-03T06:02:16Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.or.coastal_resource_sharing_network_waldport",
   "country": "US",
-  "state": "OR",
+  "region": "OR",
   "linktemplate": "http://www.beachbooks.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=WPSEARCH"
 }

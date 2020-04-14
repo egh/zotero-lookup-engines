@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found; nearby ISBN/ISSN are",
-  "was_valid": "2015-07-03T20:47:03Z",
   "title": "San Diego County Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-07-03T20:47:03Z",
-  "has_problems": false,
-  "have": "0967851009",
-  "name": "us.ca.san_diego_county",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search/i?SEARCH={rft:isbn}&searchscope=38"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-07-04T12:47:15Z",
   "title": "Austin - Milwood Branch",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-07-04T12:47:15Z",
-  "has_problems": false,
-  "have": "0590353403",
-  "name": "us.tx.austin_public_library_milwood_branch",
   "country": "US",
-  "state": "TX",
+  "region": "TX",
   "linktemplate": "https://www.ci.austin.tx.us/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MI"
 }

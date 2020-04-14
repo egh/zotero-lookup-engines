@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2014-08-11T18:25:59Z",
   "title": "Laramie County Library System",
-  "problems": "Existing item not found!\n",
-  "problem_count": 30,
-  "tested": "2015-06-25T19:13:07Z",
-  "has_problems": true,
-  "have": "0439139600",
-  "name": "us.wy.larmlibs",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=larmweb&library=LARMLIBS&searchdata1={rft:isbn}"
 }

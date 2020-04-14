@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-01-22T03:48:20Z",
   "title": "Burbank Public Library - Central Library",
-  "problems": "Unable to connect to server at URL: http://66.77.127.97/uhtbin/cgisirsi.exe/x/0/0/123?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CENTRAL",
-  "problem_count": 118,
-  "tested": "2015-06-26T09:58:02Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.ca.burbank_public_library_central_library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://66.77.127.97/uhtbin/cgisirsi.exe/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CENTRAL"
 }

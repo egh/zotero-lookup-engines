@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2011-07-17T05:37:09Z",
   "title": "LS - Hinckley-Big Rock CUSD 429 - Elem. School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0395874955&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HB2Y-15&sort_by=ANY%27",
-  "problem_count": 154,
-  "tested": "2015-06-24T19:43:23Z",
-  "has_problems": true,
-  "have": "0395874955",
-  "name": "us.pals.hinckley_big_rock_cusd_429_elem_school",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=HB2Y-15&sort_by=ANY%27"
 }

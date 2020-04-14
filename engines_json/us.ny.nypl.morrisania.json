@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2013-07-30T14:11:02Z",
   "title": "NYPL - Morrisania",
-  "problems": "Existing item not found!\n",
-  "problem_count": 66,
-  "tested": "2015-06-30T14:31:05Z",
-  "has_problems": true,
-  "have": "0545139708",
-  "name": "us.ny.nypl.morrisania",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=51"
 }

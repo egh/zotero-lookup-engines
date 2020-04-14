@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-06-30T00:46:09Z",
   "title": "Pine Manor College - Annenberg Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-30T00:46:09Z",
-  "has_problems": false,
-  "have": "0060926430",
-  "name": "us.ma.pinemanorcollege_annenberg",
   "country": "US",
-  "state": "MA",
+  "region": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=44"
 }

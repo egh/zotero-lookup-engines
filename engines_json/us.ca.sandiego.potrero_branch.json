@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2012-03-11T10:44:19Z",
   "title": "San Diego - Potrero Branch",
-  "problems": "Existing item not found!\n",
-  "problem_count": 114,
-  "tested": "2015-07-03T10:17:03Z",
-  "has_problems": true,
-  "have": "0439149991",
-  "name": "us.ca.sandiego.potrero_branch",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=27"
 }

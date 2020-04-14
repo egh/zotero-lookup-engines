@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2015-06-25T13:58:02Z",
   "title": "Indianapolis - Marion County Public Library - East 38th Street Branch",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-25T13:58:02Z",
-  "has_problems": false,
-  "have": "043935806X",
-  "name": "us.in.indianapolis_marion_county_public_library_east_38th_street_branch",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=East+38th+Street+Branch"
 }

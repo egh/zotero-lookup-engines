@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found;",
-  "was_valid": "2012-09-14T15:51:50Z",
   "title": "St. Louis University",
-  "problems": "Existing item not found!\n",
-  "problem_count": 96,
-  "tested": "2015-06-30T03:31:25Z",
-  "has_problems": true,
-  "have": "0262031418",
-  "name": "us.mo.St_louis_university_libraries",
   "country": "US",
-  "state": "MO",
+  "region": "MO",
   "linktemplate": "http://libcat.slu.edu/search~S5/?searchtype=i&searcharg={rft:isbn}+&searchscope=5"
 }

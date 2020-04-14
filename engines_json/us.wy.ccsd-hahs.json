@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2014-08-11T07:03:36Z",
   "title": "Carbon Co. SD2 - Hanna-Elk Mtn - High School",
-  "problems": "Missing item found!\n",
-  "problem_count": 30,
-  "tested": "2015-06-25T07:58:03Z",
-  "has_problems": true,
-  "have": "0439139600",
-  "name": "us.wy.ccsd-hahs",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=ccsd-hahsweb&library=CCSD-HAHS&searchdata1={rft:isbn}"
 }

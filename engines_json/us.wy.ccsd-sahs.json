@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-06-25T08:28:09Z",
   "title": "Carbon Co. SD2 - Saratoga High School",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-25T08:28:09Z",
-  "has_problems": false,
-  "have": "0590353403",
-  "name": "us.wy.ccsd-sahs",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=ccsd-sahsweb&library=CCSD-SAHS&searchdata1={rft:isbn}"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2013-03-05T09:42:10Z",
   "title": "Cobb County Library - Stratton Library",
-  "problems": "Existing item not found!\n",
-  "problem_count": 80,
-  "tested": "2015-07-02T06:47:05Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.ga.cobb_county_library_stratton_library",
   "country": "US",
-  "state": "GA",
+  "region": "GA",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=STRATTON"
 }

@@ -1,5 +1,4 @@
 {
   "title": "MIT",
-  "name": "mit",
   "linktemplate": "http://owens.mit.edu:8888/sfx_local?{z:openURL}"
 }

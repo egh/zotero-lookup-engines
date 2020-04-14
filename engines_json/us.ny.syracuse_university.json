@@ -1,16 +1,6 @@
 {
-  "dont": "1558514843",
-  "is_community": false,
-  "missing": "Your search resulted in no hits.",
-  "was_valid": "2011-07-19T06:23:33Z",
   "title": "Syracuse University",
-  "problems": "Missing item found!\n",
-  "problem_count": 154,
-  "tested": "2015-07-01T11:02:02Z",
-  "has_problems": true,
-  "have": "1558514848",
-  "name": "us.ny.syracuse_university",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://summit.syr.edu/cgi-bin/Pwebrecon.cgi?FLD1=ISBN+%28ISBN%29&CNT=1&SAB1={rft:isbn}"
 }

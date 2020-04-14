@@ -1,16 +1,6 @@
 {
-  "dont": "032119375X",
-  "is_community": false,
-  "missing": null,
-  "was_valid": "2012-08-07T21:56:40Z",
   "title": "PALNI - University of Indianapolis",
-  "problems": "Unable to connect to server at URL: http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnuip&scan_start=0321277228",
-  "problem_count": 99,
-  "tested": "2015-06-24T06:43:03Z",
-  "has_problems": true,
-  "have": "0321277228",
-  "name": "us.in.palni_university_of_indianapolis",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://hickory.palni.edu:4505/F/?func=scan&scan_code=ISBN&local_base=plnuip&scan_start={rft:isbn}"
 }

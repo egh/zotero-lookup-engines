@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2014-08-11T03:01:23Z",
   "title": "Albany Co. Public Library",
-  "problems": "Existing item not found!\n",
-  "problem_count": 30,
-  "tested": "2015-06-25T04:13:03Z",
-  "has_problems": true,
-  "have": "0439139600",
-  "name": "us.wy.alby",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=albyweb&library=ALBY&searchdata1={rft:isbn}"
 }

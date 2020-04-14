@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-06-29T19:31:13Z",
   "title": "Lexington - Cary Memorial",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-29T19:31:13Z",
-  "has_problems": false,
-  "have": "0394839129",
-  "name": "us.ma.lexington_cary",
   "country": "US",
-  "state": "MA",
+  "region": "MA",
   "linktemplate": "http://library.minlib.net/search/i?SEARCH={rft:isbn}&searchscope=19"
 }

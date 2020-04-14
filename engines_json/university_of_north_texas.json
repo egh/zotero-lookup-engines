@@ -1,5 +1,4 @@
 {
   "title": "University of North Texas",
-  "name": "university_of_north_texas",
   "linktemplate": "https://iii.library.unt.edu/search/X?SEARCH={rft:title}+{rft:aulast}+{rft:aufirst}"
 }

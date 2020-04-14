@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-06-30T21:17:10Z",
   "title": "Suffolk County - Huntington",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-30T21:17:10Z",
-  "has_problems": false,
-  "have": "0439136350",
-  "name": "us.ny.suffolk_county_huntington",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=30"
 }

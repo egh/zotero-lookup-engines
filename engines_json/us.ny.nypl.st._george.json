@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-06-30T16:31:07Z",
   "title": "NYPL - St. George",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-30T16:31:07Z",
-  "has_problems": false,
-  "have": "0545139708",
-  "name": "us.ny.nypl.st._george",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=75"
 }

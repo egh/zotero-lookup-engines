@@ -1,16 +1,6 @@
 {
-  "dont": "0373691122",
-  "is_community": true,
-  "missing": "No direct matches were found.",
-  "was_valid": "2015-07-01T10:47:12Z",
   "title": "BPL - Central Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-07-01T10:47:12Z",
-  "has_problems": false,
-  "have": "0814474268",
-  "name": "a658e86a8f98422590a142fb2ed6e447",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://brooklyn.bibliocommons.com/search?custom_query=identifier%3A({rft:isbn})&suppress=true&custom_edit=false"
 }

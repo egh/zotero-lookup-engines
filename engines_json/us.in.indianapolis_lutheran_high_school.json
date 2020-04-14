@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2011-10-04T18:48:33Z",
   "title": "Indianapolis - Lutheran High School",
-  "problems": "Missing item found!\n",
-  "problem_count": 133,
-  "tested": "2015-06-26T23:58:02Z",
-  "has_problems": true,
-  "have": "0517657538",
-  "name": "us.in.indianapolis_lutheran_high_school",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Lutheran+High+School"
 }

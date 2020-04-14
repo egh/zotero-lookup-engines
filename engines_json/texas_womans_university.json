@@ -1,5 +1,4 @@
 {
   "title": "Texas Woman's University",
-  "name": "texas_womans_university",
   "linktemplate": "http://twuniversal.twu.edu/primo_library/libweb/action/search.do?fn=search&amp;ct=search&amp;initialSearch=true&amp;mode=Basic&amp;tab=twu_libraries_catalog&amp;indx=1&amp;dum=true&amp;srt=rank&amp;vid=TWU-A&amp;frbg=&amp;tb=t&amp;vl%28freeText0%29={searchTerms}&amp;scp.scps=scope%3A%28ALMA-TXWU%29&amp;vl%281UIStartWith0%29=contains"
 }

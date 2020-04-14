@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2012-09-03T12:49:18Z",
   "title": "Chicago Tinley Park Bookmobile",
-  "problems": "Missing item found!\n",
-  "problem_count": 97,
-  "tested": "2015-06-29T14:31:05Z",
-  "has_problems": true,
-  "have": "0590439049",
-  "name": "us.il.chicago_tinley_park_bookmobile",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=148"
 }

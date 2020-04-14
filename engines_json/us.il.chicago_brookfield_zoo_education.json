@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-02-24T23:13:21Z",
   "title": "Chicago Brookfield Zoo Education",
-  "problems": "Missing item found!\n",
-  "problem_count": 46,
-  "tested": "2015-06-27T18:31:02Z",
-  "has_problems": true,
-  "have": "043940875X",
-  "name": "us.il.chicago_brookfield_zoo_education",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=23"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2014-08-11T17:25:33Z",
   "title": "Johnson Co. Library",
-  "problems": "Existing item not found!\n",
-  "problem_count": 30,
-  "tested": "2015-06-25T18:13:04Z",
-  "has_problems": true,
-  "have": "0439139600",
-  "name": "us.wy.john",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=johnweb&library=JOHN&searchdata1={rft:isbn}"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-07-24T16:31:54Z",
   "title": "LS - River Bend CUSD 2 - Fulton Elem. School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=051604673X&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=FESG-7&sort_by=ANY%27",
-  "problem_count": 101,
-  "tested": "2015-07-01T04:02:23Z",
-  "has_problems": true,
-  "have": "051604673X",
-  "name": "us.pals.river_bend_cusd_2_fulton_elem_school",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=FESG-7&sort_by=ANY%27"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0373691122",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-06-29T02:01:07Z",
   "title": "UT Austin  - Engineering Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-29T02:01:07Z",
-  "has_problems": false,
-  "have": "0399115528",
-  "name": "us.tx.ut_austing_engineering_library",
   "country": "US",
-  "state": "TX",
+  "region": "TX",
   "linktemplate": "http://catalog.lib.utexas.edu/search/i?SEARCH={rft:isbn}&searchscope=15"
 }

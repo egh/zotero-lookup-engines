@@ -1,6 +1,6 @@
 {
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "title": "Berkeley Public Library",
   "icon": "https://www.berkeleypubliclibrary.org/sites/default/files/favicon.ico",
   "linktemplate": "https://catalog.berkeleypubliclibrary.org/?section=search&term={rft:isbn}"

@@ -1,16 +1,6 @@
 {
-  "dont": "0373691122",
-  "is_community": false,
-  "missing": "No direct matches were found",
-  "was_valid": "2015-06-28T16:01:07Z",
   "title": "Vancouver Public Library - Oakridge Branch",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-28T16:01:07Z",
-  "has_problems": false,
-  "have": "9948033841",
-  "name": "ca.bc.vancouver_public_library_oakridge_branch",
   "country": "CA",
-  "state": "BC",
+  "region": "BC",
   "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Oakridge+Branch+Library%22&custom_edit=false"
 }

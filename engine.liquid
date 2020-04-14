@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h1>
+      {% if item.country %}
+      {{ item.country }} -
+      {% endif %}
+      {% if item.region %}
+      {{ item.region }} -
+      {% endif %}
+      {{ item.title }}</h1>
+    <p>
+      This is a Zotero library lookup engine for {{ item.title }}.
+    </p>
+    <p>
+      Unfortunately, Zotero has removed the ability to add these lookup engines
+      to Zotero from a user interface (see https://github.com/zotero/zotero-connectors/issues/81).
+      You can add the following snippet to the file named <code>locate/engines.json</code> in your Zotero data directory.
+      To find out where your Zotero data directory is, check your Zotero
+      preferences, Advanced tab for the data directory location.
+    </p>
+
+    <pre>
+{% include "item_json" %}
+    </pre>
+
+    <p>
+      As an example, here is a complete <code>locate/engines.json</code> file with
+      the default CrossRef and Google scholar lookup engines as well.
+    </p>
+
+    <pre>
+[
+{% include "item_json" -%},
+{% assign item = crossref -%}
+{% include "item_json" -%},
+{% assign item = google -%}
+{% include "item_json" %}
+]
+    </pre>
+  </body>
+</html>

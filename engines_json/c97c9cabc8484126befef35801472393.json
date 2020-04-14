@@ -1,16 +1,4 @@
 {
-  "dont": "9780312263218",
-  "is_community": true,
-  "missing": "Sorry, we were unable to find",
-  "was_valid": "2015-07-02T08:02:05Z",
   "title": "Thriftbooks",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-07-02T08:02:05Z",
-  "has_problems": false,
-  "have": "0446537519",
-  "name": "c97c9cabc8484126befef35801472393",
-  "country": "US",
-  "state": null,
   "linktemplate": "http://www.thriftbooks.com/viewDetails.aspx?ASIN={rft:isbn}"
 }

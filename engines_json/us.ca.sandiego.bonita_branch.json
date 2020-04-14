@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-11-14T18:21:59Z",
   "title": "San Diego - Bonita Branch",
-  "problems": "Existing item not found!\n",
-  "problem_count": 21,
-  "tested": "2015-06-25T07:13:19Z",
-  "has_problems": true,
-  "have": "0439140870",
-  "name": "us.ca.sandiego.bonita_branch",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=3"
 }

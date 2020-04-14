@@ -1,16 +1,6 @@
 {
-  "dont": "0615811728",
-  "is_community": true,
-  "missing": "Nothing was found for your search.",
-  "was_valid": "2013-07-20T20:29:10Z",
   "title": "Jackson-George Regional Library System",
-  "problems": "Missing item found!\n",
-  "problem_count": 67,
-  "tested": "2015-07-01T11:02:03Z",
-  "has_problems": true,
-  "have": "1590522664",
-  "name": "ebd141d21b634356a42cbf737f35f08a",
   "country": "US",
-  "state": "MS",
+  "region": "MS",
   "linktemplate": "http://pac.jgrls.org/TLCScripts/Interpac.dll?NewestSearch&PeriodLimit=-1&FormId=144110048&LimitsId=0&StartIndex=0&SearchField=4096&SearchType=1&SearchData={rft:isbn}&ItemsPerPage=30&Branch=,0,&SearchAvailableOnly=0&NotAddToHistory=1"
 }

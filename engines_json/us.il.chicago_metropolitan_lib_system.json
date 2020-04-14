@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2011-08-28T02:08:46Z",
   "title": "Chicago Metropolitan Lib System",
-  "problems": "Missing item found!\n",
-  "problem_count": 142,
-  "tested": "2015-06-29T08:16:06Z",
-  "has_problems": true,
-  "have": "0426200675",
-  "name": "us.il.chicago_metropolitan_lib_system",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=133"
 }

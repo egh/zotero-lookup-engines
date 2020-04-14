@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "found no matches ",
-  "was_valid": "2015-06-24T11:13:10Z",
   "title": "Detroit Public Library - Main Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-24T11:13:10Z",
-  "has_problems": false,
-  "have": "0380977338",
-  "name": "us.mi.detroit_public_library_main_library",
   "country": "US",
-  "state": "MI",
+  "region": "MI",
   "linktemplate": "http://dplopac.detroitpubliclibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=MAIN"
 }

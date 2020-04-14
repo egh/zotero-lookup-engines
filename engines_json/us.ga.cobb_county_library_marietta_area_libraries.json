@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-07-02T04:02:12Z",
   "title": "Cobb County Library - Marietta Area Libraries",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-07-02T04:02:12Z",
-  "has_problems": false,
-  "have": "0439136350",
-  "name": "us.ga.cobb_county_library_marietta_area_libraries",
   "country": "US",
-  "state": "GA",
+  "region": "GA",
   "linktemplate": "http://cbpl.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MARIETTA"
 }

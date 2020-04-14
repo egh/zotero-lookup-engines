@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-11-12T01:37:23Z",
   "title": "NYPL - Port Richmond",
-  "problems": "Existing item not found!\n",
-  "problem_count": 22,
-  "tested": "2015-07-03T03:32:02Z",
-  "has_problems": true,
-  "have": "0545139708",
-  "name": "us.ny.nypl.port_richmond",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=62"
 }

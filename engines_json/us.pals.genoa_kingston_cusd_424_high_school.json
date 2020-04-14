@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-07-28T20:11:15Z",
   "title": "LS - Genoa-Kingston CUSD 424 - High School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439339049&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GKLY-12&sort_by=ANY%27",
-  "problem_count": 100,
-  "tested": "2015-06-24T18:43:23Z",
-  "has_problems": true,
-  "have": "0439339049",
-  "name": "us.pals.genoa_kingston_cusd_424_high_school",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=GKLY-12&sort_by=ANY%27"
 }

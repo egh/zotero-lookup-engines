@@ -1,5 +1,4 @@
 {
   "title": "University of Twente",
-  "name": "university_of_twente",
   "linktemplate": "http://appso073.utsp.utwente.nl:3210/prod?{z:openURL}"
 }

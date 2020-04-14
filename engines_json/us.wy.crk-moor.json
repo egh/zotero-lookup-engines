@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2014-08-11T11:23:07Z",
   "title": "Crook Co. - Moorcroft Branch",
-  "problems": "Existing item not found!\n",
-  "problem_count": 30,
-  "tested": "2015-06-25T12:13:06Z",
-  "has_problems": true,
-  "have": "0439139600",
-  "name": "us.wy.crk-moor",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=crk-moorweb&library=CRK-MOOR&searchdata1={rft:isbn}"
 }

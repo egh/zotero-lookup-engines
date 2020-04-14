@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2013-02-19T00:21:10Z",
   "title": "Fort Vancouver Regional Library - Woodland Community Library",
-  "problems": "Missing item found!\n",
-  "problem_count": 81,
-  "tested": "2015-06-28T13:31:05Z",
-  "has_problems": true,
-  "have": "0439136369",
-  "name": "us.wa.fort_vancouver_regional_library_woodland_community_library",
   "country": "US",
-  "state": "WA",
+  "region": "WA",
   "linktemplate": "http://catalog.fvrl.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=020^^^^ISBN&library=FV-WD"
 }

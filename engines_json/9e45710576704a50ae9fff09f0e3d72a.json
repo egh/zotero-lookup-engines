@@ -1,16 +1,6 @@
 {
-  "dont": "0373691122",
-  "is_community": true,
-  "missing": "Providing more letters of the search words if you are using wildcards",
-  "was_valid": "2015-06-30T23:47:14Z",
   "title": "Mountain View (updated)",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-30T23:47:14Z",
-  "has_problems": false,
-  "have": "9780970601988",
-  "name": "9e45710576704a50ae9fff09f0e3d72a",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://encore.mountainview.gov/iii/encore/search/C__Si%3A{rft:isbn}__Orightresult__U?lang=eng&suite=cobalt"
 }

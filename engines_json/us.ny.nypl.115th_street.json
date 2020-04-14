@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-06-30T08:01:04Z",
   "title": "NYPL - 115th Street",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-30T08:01:04Z",
-  "has_problems": false,
-  "have": "0545139708",
-  "name": "us.ny.nypl.115th_street",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=5"
 }

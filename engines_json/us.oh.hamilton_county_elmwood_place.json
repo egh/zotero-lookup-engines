@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-05-24T06:48:36Z",
   "title": "Hamilton - Elmwood Place",
-  "problems": "Missing item found!\n",
-  "problem_count": 107,
-  "tested": "2015-07-03T05:17:02Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.oh.hamilton_county_elmwood_place",
   "country": "US",
-  "state": "OH",
+  "region": "OH",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ELMWOOD_PL"
 }

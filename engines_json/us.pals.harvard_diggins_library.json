@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No available matches found; nearby available ISN'S are:",
-  "was_valid": "2015-07-01T16:32:01Z",
   "title": "LS - Harvard Diggins Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-07-01T16:32:01Z",
-  "has_problems": false,
-  "have": "0316969443",
-  "name": "us.pals.harvard_diggins_library",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://www.niclibraries.org/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=6&SORT=D&availlim=1&searchorigarg=i{rft:isbn}"
 }

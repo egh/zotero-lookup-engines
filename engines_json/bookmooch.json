@@ -1,5 +1,4 @@
 {
-  "name": "bookmooch",
   "title": "Book Mooch",
   "linktemplate": "http://bookmooch.com/detail/{rft:isbn}"
 }

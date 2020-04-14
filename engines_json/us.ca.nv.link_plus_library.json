@@ -1,16 +1,6 @@
 {
-  "dont": "9562391418",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-06-26T21:28:06Z",
   "title": "Link+ Libraries",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-26T21:28:06Z",
-  "has_problems": false,
-  "have": "0060254920",
-  "name": "us.ca.nv.link_plus_library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "https://csul.iii.com/search/i?SEARCH={rft:isbn}"
 }

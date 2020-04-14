@@ -1,16 +1,6 @@
 {
-  "dont": "0373872704",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2012-07-09T00:49:49Z",
   "title": "Gadsden State-Ayers",
-  "problems": "Missing item found!\n",
-  "problem_count": 102,
-  "tested": "2015-06-26T03:13:01Z",
-  "has_problems": true,
-  "have": "0394839129",
-  "name": "us.al.gadsden_state_ayers",
   "country": "US",
-  "state": "AL",
+  "region": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=39"
 }

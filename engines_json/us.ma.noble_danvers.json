@@ -1,15 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found;",
   "title": "NOBLE - Danvers",
-  "problems": "Missing item found!\n",
-  "problem_count": 161,
-  "tested": "2015-06-28T15:16:08Z",
-  "has_problems": true,
-  "have": "0321170105 ",
-  "name": "us.ma.noble_danvers",
   "country": "US",
-  "state": "MA",
+  "region": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=4"
 }

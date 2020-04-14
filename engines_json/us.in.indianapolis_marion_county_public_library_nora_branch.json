@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2015-06-25T15:13:03Z",
   "title": "Indianapolis - Marion County Public Library - Nora Branch",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-25T15:13:03Z",
-  "has_problems": false,
-  "have": "043935806X",
-  "name": "us.in.indianapolis_marion_county_public_library_nora_branch",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Nora+Branch"
 }

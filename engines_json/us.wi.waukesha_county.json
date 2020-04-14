@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-10-21T21:35:58Z",
   "title": "Waukesha County",
-  "problems": "Missing item found!\n",
-  "problem_count": 92,
-  "tested": "2015-06-25T02:13:07Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.wi.waukesha_county",
   "country": "US",
-  "state": "WI",
+  "region": "WI",
   "linktemplate": "http://www.cafelibraries.org/uhtbin/cgisirsi.exe/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN"
 }

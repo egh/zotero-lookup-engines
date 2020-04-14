@@ -1,16 +1,6 @@
 {
-  "dont": "0984372903",
-  "is_community": true,
-  "missing": "No results found for your search",
-  "was_valid": "2014-08-29T01:24:42Z",
   "title": "Stanford Libraries",
-  "problems": "Missing item found!\n",
-  "problem_count": 29,
-  "tested": "2015-07-02T10:32:04Z",
-  "has_problems": true,
-  "have": "0814474268",
-  "name": "977326ef64704457956b38e772fb26ae",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://searchworks.stanford.edu/?utf8=%E2%9C%93&number={rft:isbn}&search_field=advanced"
 }

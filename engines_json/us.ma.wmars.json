@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found; nearby ISN'S are:",
-  "was_valid": "2013-01-04T04:46:31Z",
   "title": "Western Mass. Public",
-  "problems": "DNS lookup failed for URL: http://wmars.cwmars.org/search~/i?SEARCH=0321193628",
-  "problem_count": 85,
-  "tested": "2015-06-25T03:58:04Z",
-  "has_problems": true,
-  "have": "0321193628",
-  "name": "us.ma.wmars",
   "country": "US",
-  "state": "MA",
+  "region": "MA",
   "linktemplate": "http://wmars.cwmars.org/search~/i?SEARCH={rft:isbn}"
 }

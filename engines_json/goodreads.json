@@ -1,5 +1,4 @@
 {
-  "name": "goodreads",
   "title": "GoodReads",
   "linktemplate": "http://www.goodreads.com/search?q={rft:isbn}&group_id=&search_type=books"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "could not find anything matching",
-  "was_valid": "2014-06-05T00:57:31Z",
   "title": "Carnegie-Stout Public Library",
-  "problems": "DNS lookup failed for URL: http://hip.dubuque.lib.ia.us/ipac20/ipac.jsp?menu=search&aspect=subtab25&npp=10&ipp=20&spp=20&profile=cspl-horizon-main&ri=3&source=~%21horizon&index=ISBNEX&term=0786708905&x=4&y=8&aspect=subtab25",
-  "problem_count": 37,
-  "tested": "2015-07-02T08:32:03Z",
-  "has_problems": true,
-  "have": "0786708905",
-  "name": "us.ia.carnegie_stout_public_library",
   "country": "US",
-  "state": "IA",
+  "region": "IA",
   "linktemplate": "http://hip.dubuque.lib.ia.us/ipac20/ipac.jsp?menu=search&aspect=subtab25&npp=10&ipp=20&spp=20&profile=cspl-horizon-main&ri=3&source=~%21horizon&index=ISBNEX&term={rft:isbn}&x=4&y=8&aspect=subtab25"
 }

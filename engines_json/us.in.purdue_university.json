@@ -1,16 +1,6 @@
 {
-  "dont": "032119375x",
-  "is_community": false,
-  "missing": "Your search resulted in no hits",
-  "was_valid": "2013-05-10T00:53:48Z",
   "title": "Purdue University",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: https://www1.lib.purdue.edu/cgi-bin/Pwebrecon.cgi?SAB1=0439785960&BOOL1=any+of+these&FLD1=ISBN+%28ISBN%29&CNT=50",
-  "problem_count": 74,
-  "tested": "2015-07-03T20:32:11Z",
-  "has_problems": true,
-  "have": "0439785960",
-  "name": "us.in.purdue_university",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "https://www1.lib.purdue.edu/cgi-bin/Pwebrecon.cgi?SAB1={rft:isbn}&BOOL1=any+of+these&FLD1=ISBN+%28ISBN%29&CNT=50"
 }

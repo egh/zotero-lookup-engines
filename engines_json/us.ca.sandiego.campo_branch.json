@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2011-11-06T09:23:55Z",
   "title": "San Diego - Campo Branch",
-  "problems": "Existing item not found!\n",
-  "problem_count": 126,
-  "tested": "2015-07-03T10:47:03Z",
-  "has_problems": true,
-  "have": "0439317169",
-  "name": "us.ca.sandiego.campo_branch",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=5"
 }

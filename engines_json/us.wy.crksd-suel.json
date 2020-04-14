@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-06-25T13:28:06Z",
   "title": "Crook Co. SD1 - Sundance Elem School",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-25T13:28:06Z",
-  "has_problems": false,
-  "have": "0439136350",
-  "name": "us.wy.crksd-suel",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=crksd-suelweb&library=CRKSD-SUEL&searchdata1={rft:isbn}"
 }

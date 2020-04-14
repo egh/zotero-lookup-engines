@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "nohits.jsp",
-  "was_valid": "2015-06-26T15:43:06Z",
   "title": "LA Public - El Sereno Branch",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-26T15:43:06Z",
-  "has_problems": false,
-  "have": "0439136350",
-  "name": "us.ca.los_angeles_public_library_el_sereno_branch",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://catalog.lapl.org/carlweb/jsp/DoSearch?databaseID=965&index=I&terms={rft:isbn}&bralimit=ELSRNO"
 }

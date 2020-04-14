@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-07-03T14:02:17Z",
   "title": "Wyoming State Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-07-03T14:02:17Z",
-  "has_problems": false,
-  "have": "0792282965",
-  "name": "us.wy.wsl",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=wslweb&library=WSL&searchdata1={rft:isbn}"
 }

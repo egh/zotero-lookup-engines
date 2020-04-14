@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-01-19T11:09:16Z",
   "title": "San Diego - Jacumba Branch",
-  "problems": "Existing item not found!\n",
-  "problem_count": 15,
-  "tested": "2015-06-27T08:16:04Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.ca.sandiego.jacumba_branch",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=18"
 }

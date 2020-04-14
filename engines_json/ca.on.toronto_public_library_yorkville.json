@@ -1,16 +1,6 @@
 {
-  "dont": "0373691122",
-  "is_community": false,
-  "missing": "No results for",
-  "was_valid": "2012-03-27T13:58:04Z",
   "title": "Toronto Public Library - Yorkville",
-  "problems": "Existing item not found!\n",
-  "problem_count": 112,
-  "tested": "2015-06-28T09:31:05Z",
-  "has_problems": true,
-  "have": "9781551929767",
-  "name": "ca.on.toronto_public_library_yorkville",
   "country": "CA",
-  "state": "ON",
+  "region": "ON",
   "linktemplate": "http://www.torontopubliclibrary.ca/search.jsp?Ntk=ISBN%2FISSN_Search_Interface&N=0&advancedSearch=true&Ntt={rft:isbn}&N=33191"
 }

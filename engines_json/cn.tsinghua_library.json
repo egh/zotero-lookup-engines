@@ -1,6 +1,5 @@
 {
     "title": "Tsingua University Library",
-    "name": "cn.tsinghua_library",
     "linktemplate": "http://sfx.lib.tsinghua.edu.cn/tsinghua?{z:openURL}",
     "country": "cn",
     "icon": "http://lib.tsinghua.edu.cn/favicon.ico"

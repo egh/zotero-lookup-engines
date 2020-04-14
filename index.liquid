@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <ul>
+      <li>
+        No location
+        <ul>
+          {% include "list_item" for global %}
+        </ul>
+      </li>  
+      {% for country in countries %}
+        <li>{{ country[0] }}
+          <ul>
+            {% if country[0] == "United States" %}
+              {% for region in country[1] %}
+                <li>{{ region[0] }}
+                  <ul>
+                    {% include "list_item" for region[1] %}
+                  </ul>
+                </li>
+              {% endfor %}
+            {% else %}
+              {% include "list_item" for country[1] %}
+            {% endif %}
+          </ul>
+        </li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

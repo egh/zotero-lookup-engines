@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "Sie einen Suchbegriff und klicken Sie auf <strong>absenden</strong>, oder klicken Sie direkt auf einen Suchbegriff",
-  "was_valid": "2015-06-26T02:43:05Z",
   "title": "Bibliothek der Fachhochschule Hannover",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-26T02:43:05Z",
-  "has_problems": false,
-  "have": "3800635240",
-  "name": "de.de-ni.bibliothek_der_fachhochschule_hannover",
   "country": "DE",
-  "state": null,
+  "region": null,
   "linktemplate": "http://opac.tib.uni-hannover.de/DB=4/SET=1/TTL=1/CLK?IKT=1007&TRM={rft:isbn}"
 }

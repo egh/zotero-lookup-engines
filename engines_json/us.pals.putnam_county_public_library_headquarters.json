@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-07-24T14:30:28Z",
   "title": "LS - Putnam County Public Library - Headquarters",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=PCGG-8&sort_by=ANY%27",
-  "problem_count": 101,
-  "tested": "2015-07-01T02:02:22Z",
-  "has_problems": true,
-  "have": "0439786770",
-  "name": "us.pals.putnam_county_public_library_headquarters",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=PCGG-8&sort_by=ANY%27"
 }

@@ -1,5 +1,4 @@
 {
   "title": "University of Geneva",
-  "name": "university_of_geneva",
   "linktemplate": "http://resolver.rero.ch/unige?{z:openURL}"
 }

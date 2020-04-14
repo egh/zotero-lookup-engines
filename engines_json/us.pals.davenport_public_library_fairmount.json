@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2011-11-02T04:30:17Z",
   "title": "LS - Davenport Public Library - Fairmount",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DPAG-6&sort_by=ANY%27",
-  "problem_count": 127,
-  "tested": "2015-07-03T15:17:13Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.pals.davenport_public_library_fairmount",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DPAG-6&sort_by=ANY%27"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-06-27T06:46:14Z",
   "title": "San Diego - 4S Ranch",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-27T06:46:14Z",
-  "has_problems": false,
-  "have": "0439136350",
-  "name": "us.ca.sandiego.4s_ranch",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://dbpcosdcsgt.co.san-diego.ca.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=1"
 }

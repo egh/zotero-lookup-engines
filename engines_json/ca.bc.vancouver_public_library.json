@@ -1,16 +1,6 @@
 {
-  "dont": "0373691122",
-  "is_community": false,
-  "missing": "No direct matches were found",
-  "was_valid": "2015-06-28T14:01:02Z",
   "title": "Vancouver Public Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-28T14:01:02Z",
-  "has_problems": false,
-  "have": "0814474268",
-  "name": "ca.bc.vancouver_public_library",
   "country": "CA",
-  "state": "BC",
+  "region": "BC",
   "linktemplate": "http://vpl.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})"
 }

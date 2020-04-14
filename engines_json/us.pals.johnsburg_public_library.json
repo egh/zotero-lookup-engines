@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-07-30T06:54:57Z",
   "title": "LS - Johnsburg Public Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=JOLY-11&sort_by=ANY%27",
-  "problem_count": 100,
-  "tested": "2015-06-26T05:13:13Z",
-  "has_problems": true,
-  "have": "0439786770",
-  "name": "us.pals.johnsburg_public_library",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=JOLY-11&sort_by=ANY%27"
 }

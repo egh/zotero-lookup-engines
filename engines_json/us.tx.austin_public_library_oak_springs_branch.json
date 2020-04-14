@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-06-26T09:21:51Z",
   "title": "Austin - Oak Springs Branch",
-  "problems": "Missing item found!\n",
-  "problem_count": 104,
-  "tested": "2015-07-04T13:32:12Z",
-  "has_problems": true,
-  "have": "0590353403",
-  "name": "us.tx.austin_public_library_oak_springs_branch",
   "country": "US",
-  "state": "TX",
+  "region": "TX",
   "linktemplate": "https://www.ci.austin.tx.us/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=OS"
 }

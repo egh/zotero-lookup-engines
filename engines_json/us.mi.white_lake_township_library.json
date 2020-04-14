@@ -1,15 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches in the library you searched",
   "title": "White Lake Township Library",
-  "problems": "DNS lookup failed for URL: http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-WHITELK",
-  "problem_count": 168,
-  "tested": "2015-07-02T08:17:02Z",
-  "has_problems": true,
-  "have": "0439786770",
-  "name": "us.mi.white_lake_township_library",
   "country": "US",
-  "state": "MI",
+  "region": "MI",
   "linktemplate": "http://ibistro.tln.lib.mi.us/uhtbin/cgisirsi/x/0/0/123?user_id=GUEST&password=1234&searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=S-WHITELK"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0373691122",
-  "is_community": false,
-  "missing": "ItemsInThisList",
-  "was_valid": "2013-02-01T15:26:25Z",
   "title": "BCCLS - Edgewater",
-  "problems": "DNS lookup failed for URL: http://web22.bccls.org/web2/tramp2.exe/do_keyword_search/log_in?setting_key=BCCLS&servers=1home&query=0590353403&highlightorlimit=Limit+to&whichlibrary=EDGE",
-  "problem_count": 83,
-  "tested": "2015-07-02T09:47:02Z",
-  "has_problems": true,
-  "have": "0590353403",
-  "name": "us.nj.bccls_edgewater",
   "country": "US",
-  "state": "NJ",
+  "region": "NJ",
   "linktemplate": "http://web22.bccls.org/web2/tramp2.exe/do_keyword_search/log_in?setting_key=BCCLS&servers=1home&query={rft:isbn}&highlightorlimit=Limit+to&whichlibrary=EDGE"
 }

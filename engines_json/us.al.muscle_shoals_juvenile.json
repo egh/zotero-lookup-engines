@@ -1,16 +1,6 @@
 {
-  "dont": "0373872704",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2012-04-04T21:58:43Z",
   "title": "Muscle Shoals Juvenile",
-  "problems": "Missing item found!\n",
-  "problem_count": 111,
-  "tested": "2015-06-26T04:13:04Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.al.muscle_shoals_juvenile",
   "country": "US",
-  "state": "AL",
+  "region": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=44"
 }

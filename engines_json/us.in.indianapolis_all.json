@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2015-06-25T15:53:01Z",
   "title": "Indianapolis - All Libraries",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-25T15:53:01Z",
-  "has_problems": false,
-  "have": "043935806X",
-  "name": "us.in.indianapolis_all",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2014-08-12T00:44:17Z",
   "title": "Uinta Co. - Mtn View Branch",
-  "problems": "Existing item not found!\n",
-  "problem_count": 30,
-  "tested": "2015-06-26T01:43:04Z",
-  "has_problems": true,
-  "have": "0439139600",
-  "name": "us.wy.uint-mtvw",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=uint-mtvwweb&library=UINT-MTVW&searchdata1={rft:isbn}"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0373691122",
-  "is_community": false,
-  "missing": "No direct matches were found",
-  "was_valid": "2015-06-28T19:31:03Z",
   "title": "Ottawa Public Library - Hazeldean",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-28T19:31:03Z",
-  "has_problems": false,
-  "have": "1551929767",
-  "name": "ca.bc.ottawa_public_library_hazeldean",
   "country": "CA",
-  "state": "BC",
+  "region": "BC",
   "linktemplate": "http://ottawa.bibliocommons.com/search?custom_query=Identifier:({rft:isbn})%20%20branch:%22Hazeldean%22&custom_edit=false"
 }

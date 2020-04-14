@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-07-27T06:05:02Z",
   "title": "LS - Dixon CUSD 170 - Dixon High School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=080213422X&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DILY-14&sort_by=ANY%27",
-  "problem_count": 101,
-  "tested": "2015-07-03T17:17:12Z",
-  "has_problems": true,
-  "have": "080213422X",
-  "name": "us.pals.dixon_cusd_170_dixon_high_school",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DILY-14&sort_by=ANY%27"
 }

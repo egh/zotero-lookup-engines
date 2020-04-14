@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches in the library you searched",
-  "was_valid": "2015-06-28T23:31:03Z",
   "title": "Orange Co. - Orangewood Childrens Home Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-28T23:31:03Z",
-  "has_problems": false,
-  "have": "0439786770",
-  "name": "us.ca.oc.orangewood_childrens_home_library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://orca.ocpl.org/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=ORANGEWOOD"
 }

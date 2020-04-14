@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-02-09T02:20:19Z",
   "title": "NYPL - City Island",
-  "problems": "Existing item not found!\n",
-  "problem_count": 48,
-  "tested": "2015-07-03T02:32:05Z",
-  "has_problems": true,
-  "have": "0545139708",
-  "name": "us.ny.nypl.city_island",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=17"
 }

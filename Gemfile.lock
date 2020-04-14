@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    liquid (4.0.0)
+    liquid (4.0.3)
 
 PLATFORMS
   ruby
@@ -10,4 +10,4 @@ DEPENDENCIES
   liquid
 
 BUNDLED WITH
-   1.13.7
+   1.17.2

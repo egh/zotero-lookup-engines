@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-06-30T16:01:04Z",
   "title": "NYPL - Schomburg Center",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-30T16:01:04Z",
-  "has_problems": false,
-  "have": "0439129710",
-  "name": "us.ny.nypl.schomburg_center",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=67"
 }

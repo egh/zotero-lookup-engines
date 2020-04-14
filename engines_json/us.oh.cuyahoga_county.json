@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No available matches found",
-  "was_valid": "2015-07-01T11:17:09Z",
   "title": "Cuyahoga County",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-07-01T11:17:09Z",
-  "has_problems": false,
-  "have": "0439136350",
-  "name": "us.oh.cuyahoga_county",
   "country": "US",
-  "state": "OH",
+  "region": "OH",
   "linktemplate": "https://sciron.cuyahoga.lib.oh.us/search/?searchtype=i&availlim=1&searcharg={rft:isbn}"
 }

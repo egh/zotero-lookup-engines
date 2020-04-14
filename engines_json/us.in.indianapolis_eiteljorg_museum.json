@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2015-06-26T22:58:02Z",
   "title": "Indianapolis - Eiteljorg Museum",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-26T22:58:02Z",
-  "has_problems": false,
-  "have": "025332999X",
-  "name": "us.in.indianapolis_eiteljorg_museum",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Eiteljorg+Museum"
 }

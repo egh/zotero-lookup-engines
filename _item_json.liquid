@@ -1,0 +1,16 @@
+{
+    "_name": "{{ item.title Search }}",
+    "_alias": "{{ item.title }}",
+    "_urlTemplate": "{{ item.linktemplate }}",
+    "_description": "Search {{ item.title  }}",
+    "_urlParams": [],
+    "_hidden": false,
+    {%- if item.icon %}
+    "_icon": "{{ item.icon }}",
+    {% endif -%}
+     "_urlNamespaces": {
+	"rft": "info:ofi/fmt:kev:mtx:journal",
+	"z": "http://www.zotero.org/namespaces/openSearch#",
+	"": "http://a9.com/-/spec/opensearch/1.1/"
+    }
+}

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-03-06T01:49:30Z",
   "title": "NYPL - Hudson Park",
-  "problems": "Existing item not found!\n",
-  "problem_count": 11,
-  "tested": "2015-06-30T11:46:10Z",
-  "has_problems": true,
-  "have": "0545139708",
-  "name": "us.ny.nypl.hudson_park",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=36"
 }

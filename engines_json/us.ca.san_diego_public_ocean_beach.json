@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-06-27T05:01:29Z",
   "title": "San Diego Public - Ocean Beach",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-27T05:01:29Z",
-  "has_problems": false,
-  "have": "0439136350",
-  "name": "us.ca.san_diego_public_ocean_beach",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "https://sddp.sirsi.net/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=OCEAN_B"
 }

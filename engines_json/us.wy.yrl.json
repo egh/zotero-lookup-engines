@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-07-03T14:17:03Z",
   "title": "Yellowstone Research Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-07-03T14:17:03Z",
-  "has_problems": false,
-  "have": "0961454741",
-  "name": "us.wy.yrl",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=yrlweb&library=YRL&searchdata1={rft:isbn}"
 }

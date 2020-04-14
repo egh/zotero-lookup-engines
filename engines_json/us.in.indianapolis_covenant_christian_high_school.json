@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2015-06-26T22:58:01Z",
   "title": "Indianapolis - Covenant Christian High School",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-26T22:58:01Z",
-  "has_problems": false,
-  "have": "0310230551",
-  "name": "us.in.indianapolis_covenant_christian_high_school",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Covenant+Christian+High+School"
 }

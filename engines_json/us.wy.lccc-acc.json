@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-06-25T19:28:08Z",
   "title": "Laramie Co. Community College - Albany Campus",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-25T19:28:08Z",
-  "has_problems": false,
-  "have": "0803251882",
-  "name": "us.wy.lccc-acc",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=lccc-accweb&library=LCCC-ACC&searchdata1={rft:isbn}"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2012-03-29T04:09:17Z",
   "title": "Columbus Metropolitan Library - Northern Lights",
-  "problems": "Missing item found!\n",
-  "problem_count": 112,
-  "tested": "2015-06-29T23:16:08Z",
-  "has_problems": true,
-  "have": "0316034045",
-  "name": "us.oh.columbus_metropolitan_library_northern_lights",
   "country": "US",
-  "state": "OH",
+  "region": "OH",
   "linktemplate": "http://catalog.columbuslibrary.org/result.ashx?q={rft:isbn}&branch=Northern+Lights"
 }

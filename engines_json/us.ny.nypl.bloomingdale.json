@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-08-16T09:14:43Z",
   "title": "NYPL - Bloomingdale",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://catalog.nypl.org/search/i?SEARCH=0545139708,&sortdropdown=-&searchscope=13",
-  "problem_count": 30,
-  "tested": "2015-06-30T09:31:28Z",
-  "has_problems": true,
-  "have": "0545139708",
-  "name": "us.ny.nypl.bloomingdale",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://catalog.nypl.org/search/i?SEARCH={rft:isbn},&sortdropdown=-&searchscope=13"
 }

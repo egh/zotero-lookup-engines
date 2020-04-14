@@ -1,5 +1,4 @@
 {
   "title": "National Institute of Health",
-  "name": "national_institute_of_health",
   "linktemplate": "http://nihlibrarysfx.nih.gov:9003/sfx_local?{z:openURL}"
 }

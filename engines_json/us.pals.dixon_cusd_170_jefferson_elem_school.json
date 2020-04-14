@@ -1,15 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
   "title": "LS - Dixon CUSD 170 - Jefferson Elem. School",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0761302565&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DI3Y-14&sort_by=ANY%27",
-  "problem_count": 165,
-  "tested": "2015-07-03T16:47:21Z",
-  "has_problems": true,
-  "have": "0761302565",
-  "name": "us.pals.dixon_cusd_170_jefferson_elem_school",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=DI3Y-14&sort_by=ANY%27"
 }

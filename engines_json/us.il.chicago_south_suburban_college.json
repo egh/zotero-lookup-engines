@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-02-16T03:13:24Z",
   "title": "Chicago South Suburban College",
-  "problems": "Missing item found!\n",
-  "problem_count": 47,
-  "tested": "2015-06-29T13:01:02Z",
-  "has_problems": true,
-  "have": "0435905406",
-  "name": "us.il.chicago_south_suburban_college",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=137"
 }

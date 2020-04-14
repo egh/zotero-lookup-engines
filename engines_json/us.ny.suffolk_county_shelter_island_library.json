@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-11-20T19:30:16Z",
   "title": "Suffolk County - Shelter Island Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg=0967865204&searchscope=82",
-  "problem_count": 21,
-  "tested": "2015-07-01T07:32:24Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.ny.suffolk_county_shelter_island_library",
   "country": "US",
-  "state": "NY",
+  "region": "NY",
   "linktemplate": "http://alpha2.suffolk.lib.ny.us/search/?searchtype=i&searcharg={rft:isbn}&searchscope=82"
 }

@@ -1,16 +1,6 @@
 {
-  "dont": "0767913469",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2013-08-14T15:16:43Z",
   "title": "Salt Lake City Libraries - All",
-  "problems": "Missing item found!\n",
-  "problem_count": 64,
-  "tested": "2015-06-24T11:28:08Z",
-  "has_problems": true,
-  "have": "0545010225",
-  "name": "us.ut.salt_lake_city_libraries_all",
   "country": "US",
-  "state": "UT",
+  "region": "UT",
   "linktemplate": "http://catalog.slcpl.org/search/?searchtype=i&searcharg={rft:isbn}"
 }

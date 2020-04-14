@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-07-25T03:10:23Z",
   "title": "Hamilton - Mt. Washington",
-  "problems": "Missing item found!\n",
-  "problem_count": 101,
-  "tested": "2015-07-01T15:02:02Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.oh.hamilton_county_mt._washington",
   "country": "US",
-  "state": "OH",
+  "region": "OH",
   "linktemplate": "http://catalog.cincinnatilibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MTWASHNGTN"
 }

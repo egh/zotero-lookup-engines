@@ -1,5 +1,4 @@
 {
   "title": "San Jose State University",
-  "name": "san_jose_state_university",
   "linktemplate": "http://sfx.calstate.edu:9003/sanjose?{z:openURL}"
 }

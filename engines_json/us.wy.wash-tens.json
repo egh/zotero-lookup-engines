@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2014-08-12T01:14:36Z",
   "title": "Washakie Co. - Ten Sleep Branch",
-  "problems": "Existing item not found!\n",
-  "problem_count": 30,
-  "tested": "2015-06-26T02:13:05Z",
-  "has_problems": true,
-  "have": "0439139600",
-  "name": "us.wy.wash-tens",
   "country": "US",
-  "state": "WY",
+  "region": "WY",
   "linktemplate": "http://wyld.state.wy.us/uhtbin/cgisirsi/x/0/0/57/5?user_id=wash-tensweb&library=WASH-TENS&searchdata1={rft:isbn}"
 }

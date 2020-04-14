@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found;",
-  "was_valid": "2012-05-21T07:07:22Z",
   "title": "NOBLE - Middlesex Community College",
-  "problems": "Missing item found!\n",
-  "problem_count": 107,
-  "tested": "2015-06-30T06:01:01Z",
-  "has_problems": true,
-  "have": "0439786770",
-  "name": "us.ma.noble_middlesex_community_college",
   "country": "US",
-  "state": "MA",
+  "region": "MA",
   "linktemplate": "http://catalog.noblenet.org/search/?searchtype=i&searcharg={rft:isbn}&searchscope=41"
 }

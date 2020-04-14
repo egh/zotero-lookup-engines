@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2013-10-19T18:33:38Z",
   "title": "Indianapolis - Marion County Public Library - Fountain Square Branch",
-  "problems": "Existing item not found!\n",
-  "problem_count": 58,
-  "tested": "2015-06-27T00:28:05Z",
-  "has_problems": true,
-  "have": "0761419276",
-  "name": "us.in.indianapolis_marion_county_public_library_fountain_square_branch",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Fountain+Square+Branch"
 }

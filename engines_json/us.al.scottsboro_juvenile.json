@@ -1,16 +1,6 @@
 {
-  "dont": "0373872704",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-03-16T14:21:10Z",
   "title": "Scottsboro Juvenile",
-  "problems": "Missing item found!\n",
-  "problem_count": 44,
-  "tested": "2015-06-26T04:58:04Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.al.scottsboro_juvenile",
   "country": "US",
-  "state": "AL",
+  "region": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=53"
 }

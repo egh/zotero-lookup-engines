@@ -1,16 +1,7 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found;",
-  "was_valid": "2015-07-03T21:02:07Z",
   "title": "San Francisco Public Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-07-03T21:02:07Z",
-  "has_problems": false,
-  "have": "0333002776",
-  "name": "us.ca.san_francisco_public_library",
   "country": "US",
-  "state": "CA",
-  "linktemplate": "http://sflib1.sfpl.org/search/i?SEARCH={rft:isbn}"
+  "region": "CA",
+  "linktemplate": "http://sflib1.sfpl.org/search/i?SEARCH={rft:isbn}",
+  "icon": "http://sflib1.sfpl.org/screens/favicon.ico"
 }

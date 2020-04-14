@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2011-07-25T09:31:17Z",
   "title": "LS - RAILS (Coal Valley Service Center)",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0786555866&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CVSG-9&sort_by=ANY%27",
-  "problem_count": 152,
-  "tested": "2015-06-30T22:17:22Z",
-  "has_problems": true,
-  "have": "0786555866",
-  "name": "us.pals.pals_(coal_valley_service_center)",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CVSG-9&sort_by=ANY%27"
 }

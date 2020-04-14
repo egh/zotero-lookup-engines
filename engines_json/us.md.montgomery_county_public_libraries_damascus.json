@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-04-29T17:15:35Z",
   "title": "Montgomery County Public Library- Damascus",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=DAMASCUS",
-  "problem_count": 6,
-  "tested": "2015-07-01T20:47:12Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.md.montgomery_county_public_libraries_damascus",
   "country": "US",
-  "state": "MD",
+  "region": "MD",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=DAMASCUS"
 }

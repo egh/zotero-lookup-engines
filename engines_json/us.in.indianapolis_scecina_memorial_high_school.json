@@ -1,16 +1,6 @@
 {
-  "dont": "0321279670",
-  "is_community": false,
-  "missing": "No results found",
-  "was_valid": "2011-10-04T06:22:33Z",
   "title": "Indianapolis - Scecina Memorial High School",
-  "problems": "Missing item found!\n",
-  "problem_count": 133,
-  "tested": "2015-06-25T17:28:01Z",
-  "has_problems": true,
-  "have": "043935806X",
-  "name": "us.in.indianapolis_scecina_memorial_high_school",
   "country": "US",
-  "state": "IN",
+  "region": "IN",
   "linktemplate": "http://sherloc.imcpl.org/?q={rft:isbn}&branch=Scecina+Memorial+High+School"
 }

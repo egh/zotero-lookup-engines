@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2014-02-16T05:43:44Z",
   "title": "Chicago William Leonard",
-  "problems": "Missing item found!\n",
-  "problem_count": 47,
-  "tested": "2015-06-29T15:31:05Z",
-  "has_problems": true,
-  "have": "0590353403",
-  "name": "us.il.chicago_william_leonard",
   "country": "US",
-  "state": "IL",
+  "region": "IL",
   "linktemplate": "http://swan.mls.lib.il.us/search~S1/?searchtype=i&searcharg={rft:isbn}&searchscope=155"
 }

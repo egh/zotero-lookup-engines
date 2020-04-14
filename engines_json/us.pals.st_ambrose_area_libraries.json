@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-04-01T23:40:20Z",
   "title": "LS - St. Ambrose Area Libraries",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439786770&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SAUGGRP02&sort_by=ANY%27",
-  "problem_count": 112,
-  "tested": "2015-07-03T18:32:10Z",
-  "has_problems": true,
-  "have": "0439786770",
-  "name": "us.pals.st_ambrose_area_libraries",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=SAUGGRP02&sort_by=ANY%27"
 }

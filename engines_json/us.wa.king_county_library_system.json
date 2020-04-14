@@ -1,15 +1,6 @@
 {
-  "dont": "074254463x",
-  "is_community": false,
-  "missing": "No matches found;",
   "title": "King County Library System",
-  "problems": "Missing item found!\n",
-  "problem_count": 167,
-  "tested": "2015-06-25T01:43:04Z",
-  "has_problems": true,
-  "have": "0742543870",
-  "name": "us.wa.king_county_library_system",
   "country": "US",
-  "state": "WA",
+  "region": "WA",
   "linktemplate": "http://catalog.kcls.org/search/i?{rft:isbn}&searchscope=1&SORT=D"
 }

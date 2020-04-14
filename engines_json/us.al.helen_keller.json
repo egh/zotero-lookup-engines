@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2012-03-25T08:06:15Z",
   "title": "Helen Keller",
-  "problems": "Missing item found!\n",
-  "problem_count": 112,
-  "tested": "2015-06-26T03:58:01Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.al.helen_keller",
   "country": "US",
-  "state": "AL",
+  "region": "AL",
   "linktemplate": "http://www.lmn.lib.al.us/search/i?{rft:isbn}&searchscope=41"
 }

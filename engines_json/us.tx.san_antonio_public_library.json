@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "No matches found",
-  "was_valid": "2015-06-30T16:01:03Z",
   "title": "San Antonio Public Library",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-30T16:01:03Z",
-  "has_problems": false,
-  "have": "043935806X",
-  "name": "us.tx.san_antonio_public_library",
   "country": "US",
-  "state": "TX",
+  "region": "TX",
   "linktemplate": "http://sapl.sat.lib.tx.us/search~S1/?searchtype=i&searcharg={rft:isbn}"
 }

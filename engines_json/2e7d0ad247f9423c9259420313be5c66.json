@@ -1,16 +1,6 @@
 {
-  "dont": "0373691122",
-  "is_community": false,
-  "missing": "We did not find any matches for this search.",
-  "was_valid": "2011-11-04T14:39:24Z",
   "title": "Library of Congress",
-  "problems": "Missing item found!\n",
-  "problem_count": 126,
-  "tested": "2015-06-29T01:16:12Z",
-  "has_problems": true,
-  "have": "0321337220",
-  "name": "2e7d0ad247f9423c9259420313be5c66",
   "country": "US",
-  "state": "DC",
+  "region": "DC",
   "linktemplate": "http://www.loc.gov/search/?q={rft:isbn}&fa=digitized:false"
 }

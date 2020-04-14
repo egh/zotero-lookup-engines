@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2012-07-30T12:59:46Z",
   "title": "LS - Mills & Petrie Memorial Library",
-  "problems": "Deadline exceeded while waiting for HTTP response from URL: http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1=0439136350&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MPMY-12&sort_by=ANY%27",
-  "problem_count": 100,
-  "tested": "2015-06-26T11:13:13Z",
-  "has_problems": true,
-  "have": "0439136350",
-  "name": "us.pals.mills_&_petrie_memorial_library",
   "country": "US",
-  "state": "PA",
+  "region": "PA",
   "linktemplate": "http://216.125.140.44/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=MPMY-12&sort_by=ANY%27"
 }

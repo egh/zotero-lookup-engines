@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches",
-  "was_valid": "2015-06-30T03:01:03Z",
   "title": "Montgomery County Public Library- Potomac",
-  "problems": null,
-  "problem_count": 0,
-  "tested": "2015-06-30T03:01:03Z",
-  "has_problems": false,
-  "have": "0439136350",
-  "name": "us.md.montgomery_county_public_libraries_potomac",
   "country": "US",
-  "state": "MD",
+  "region": "MD",
   "linktemplate": "http://webcat.montgomerylibrary.org/uhtbin/cgisirsi/x/0/0/5?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&user_id=webserver&password=&library=POTOMAC"
 }

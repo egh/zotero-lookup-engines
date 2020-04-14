@@ -1,16 +1,6 @@
 {
-  "dont": "0967865204",
-  "is_community": false,
-  "missing": "found no matches in the library you searched",
-  "was_valid": "2011-10-24T16:56:28Z",
   "title": "Orange Co. - Costa Mesa Technology Library",
-  "problems": "Existing item not found!\n",
-  "problem_count": 129,
-  "tested": "2015-07-03T20:02:08Z",
-  "has_problems": true,
-  "have": "9780385338721",
-  "name": "us.ca.oc.costa_mesa_technology_library",
   "country": "US",
-  "state": "CA",
+  "region": "CA",
   "linktemplate": "http://orca.ocpl.org/uhtbin/cgisirsi/x/0/0/123?searchdata1={rft:isbn}&srchfield1=GENERAL^SUBJECT^GENERAL^^ISBN&library=CMTECH"
 }
