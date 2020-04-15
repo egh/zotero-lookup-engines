@@ -1,4 +1,5 @@
 {
   "title": "RERO",
-  "linktemplate": "http://resolver.rero.ch/rero?{z:openURL}"
+  "icon": "https://www.rero.ch/favicon.ico",
+  "linktemplate": "https://resolver.rero.ch/rero?{z:openURL}"
 }
