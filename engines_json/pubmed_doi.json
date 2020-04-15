@@ -1,14 +1,6 @@
 {
-  "_name": "PubMed DOI",
-  "_alias": "PubMed DOI",
-  "_description": "Search DOI PubMed",
-  "_icon": "https://cdn.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.png",
-  "_hidden": false,
-  "_urlTemplate": "https://pubmed.ncbi.nlm.nih.gov/?term={z:DOI}",
-  "_urlParams": [],
-  "_urlNamespaces": {
-    "rft": "info:ofi/fmt:kev:mtx:journal",
-    "z": "http://www.zotero.org/namespaces/openSearch#",
-    "": "http://a9.com/-/spec/opensearch/1.1/"
-  }
+  "title": "PubMed DOI",
+  "name": "PubMed DOI",
+  "icon": "https://cdn.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.png",
+  "linktemplate": "https://pubmed.ncbi.nlm.nih.gov/?term={z:DOI}"
 }
