@@ -1,0 +1,6 @@
+{
+  "title": "PubMed (title + author)",
+  "name": "PubMed (title + author)",
+  "icon": "https://cdn.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.png",
+  "linktemplate": "https://pubmed.ncbi.nlm.nih.gov/?term=({z:title}[title]) AND ({rft:aulast?}[Author])"
+}
