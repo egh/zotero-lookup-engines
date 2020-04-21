@@ -7,8 +7,8 @@
 		"_urlTemplate": "https://catalogue.bnf.fr/search.do?mots0=NRI;-1;0;{rft:aufirst?}+{rft:aulast?}&mots1=TIT;0;0;{z:title}&mots2=NRC;1;0;{z:ISBN?}&&pageRech=rav",
 		"_urlParams": [],
 		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:book",
 			"z": "http://www.zotero.org/namespaces/openSearch#",
-			"": "http://a9.com/-/spec/opensearch/1.1/"
-		},
+			"": "http://a9.com/-/spec/opensearch/1.1/"		}
 		"_iconSourceURI": "https://catalogue.bnf.fr/images/icones/icone_CG.png"
 	}
