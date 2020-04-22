@@ -1,0 +1,15 @@
+{
+    "_name": "BnF - Bibliothèque nationale de France",
+    "_alias": "BnF",
+    "_country": "FR",
+    "_urlTemplate": "https://catalogue.bnf.fr/search.do?mots0=NRI;-1;0;{rft:aufirst?}+{rft:aulast?}&mots1=TIT;0;0;{z:title}&mots2=NRC;1;0;{z:ISBN?}&&pageRech=rav",
+    "_description": "Recherche dans le catalogue de la BnF",
+    "_urlParams": [],
+    "_hidden": false,
+    "_icon": "https://catalogue.bnf.fr/images/icones/icone_CG.png",
+    "_urlNamespaces": {
+	"rft": "info:ofi/fmt:kev:mtx:journal",
+	"z": "http://www.zotero.org/namespaces/openSearch#",
+	"": "http://a9.com/-/spec/opensearch/1.1/"
+    }
+}
