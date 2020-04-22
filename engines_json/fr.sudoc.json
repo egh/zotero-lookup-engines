@@ -1,60 +1,15 @@
 {
-		"_name": "SUDOC",
-		"_alias": "SUDOC",
-		"_description": "Rechercher dans le SUDOC",
-		"_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
-		"_hidden": false,
-		"_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=2/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=RLV&TRM={z:title}+{rft:aufirst?}+{rft:aulast?}",
-		"_urlParams": [],
-		"_urlNamespaces": {
-			"rft": "info:ofi/fmt:kev:mtx:book",
-			"z": "http://www.zotero.org/namespaces/openSearch#",
-			"": "http://a9.com/-/spec/opensearch/1.1/"
-		},
-		"_iconSourceURI": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico"
-	},
-{
-		"_name": "SUDOC - auteur(s)/titre",
-		"_alias": "SUDOC - auteur(s)/titre",
-		"_description": "Rechercher dans le SUDOC",
-		"_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
-		"_hidden": false,
-		"_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=21/TTL=1/CMD?ACT=SRCHM&MATCFILTER=Y&MATCSET=Y&NOSCAN=Y&PARSE_MNEMONICS=N&PARSE_OPWORDS=N&PARSE_OLDSETS=N&IMPLAND=Y&ACT0=SRCHA&IKT0=1004&TRM0={rft:aufirst?}+{rft:aulast?}&ACT1=*&IKT1=4&TRM1={z:title}",
-		"_urlParams": [],
-		"_urlNamespaces": {
-			"rft": "info:ofi/fmt:kev:mtx:book",
-			"z": "http://www.zotero.org/namespaces/openSearch#",
-			"": "http://a9.com/-/spec/opensearch/1.1/"
-		},
-		"_iconSourceURI": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico"
-	},
-{
-		"_name": "SUDOC - auteur(s)/titre/ISBN",
-		"_alias": "SUDOC - auteur(s)/titre/ISBN",
-		"_description": "Rechercher dans le SUDOC",
-		"_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
-		"_hidden": false,
-		"_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=16/TTL=1/CMD?ACT=SRCHM&MATCFILTER=Y&MATCSET=Y&NOSCAN=Y&PARSE_MNEMONICS=N&PARSE_OPWORDS=N&PARSE_OLDSETS=N&IMPLAND=Y&ACT0=SRCHA&IKT0=1004&TRM0={rft:aufirst?}+{rft:aulast?}&ACT1=*&IKT1=4&TRM1={z:title}&ACT2=*&IKT2=7&TRM2={z:ISBN?}",
-		"_urlParams": [],
-		"_urlNamespaces": {
-			"rft": "info:ofi/fmt:kev:mtx:book",
-			"z": "http://www.zotero.org/namespaces/openSearch#",
-			"": "http://a9.com/-/spec/opensearch/1.1/"
-		},
-		"_iconSourceURI": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico"
-	},
-{
-		"_name": "SUDOC - ISBN",
-		"_alias": "SUDOC - ISBN",
-		"_description": "Rechercher dans le SUDOC",
-		"_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
-		"_hidden": false,
-		"_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=4/TTL=1/CMD?ACT=SRCHM&MATCFILTER=Y&MATCSET=Y&NOSCAN=Y&PARSE_MNEMONICS=N&PARSE_OPWORDS=N&PARSE_OLDSETS=N&IMPLAND=Y&ACT0=SRCHA&IKT0=7&TRM0={z:ISBN?}",
-		"_urlParams": [],
-		"_urlNamespaces": {
-			"rft": "info:ofi/fmt:kev:mtx:book",
-			"z": "http://www.zotero.org/namespaces/openSearch#",
-			"": "http://a9.com/-/spec/opensearch/1.1/"
-		},
-		"_iconSourceURI": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico"
-	}
+    "_name": "SUDOC",
+    "_alias": "SUDOC",
+    "_country": "FR",
+    "_urlTemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=2/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=RLV&TRM={z:title}+{rft:aufirst?}+{rft:aulast?}",
+    "_description": "Recherche dans le SUDOC",
+    "_urlParams": [],
+    "_hidden": false,
+    "_icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico",
+    "_urlNamespaces": {
+	"rft": "info:ofi/fmt:kev:mtx:journal",
+	"z": "http://www.zotero.org/namespaces/openSearch#",
+	"": "http://a9.com/-/spec/opensearch/1.1/"
+    }
+}
