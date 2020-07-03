@@ -1,4 +1,5 @@
 {
   "title": "Arizona State University",
-  "linktemplate": "http://pl8cg5fc8w.search.serialssolutions.com/?{z:openURL}"
+  "linktemplate": "https://search.lib.asu.edu/openurl/01ASU?{z:openURL}",
+  "icon": "https://www.asu.edu/sites/all/themes/asu_home/favicon.ico"
 }
