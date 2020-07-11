@@ -1,0 +1,6 @@
+{
+    "title": "SUDOC",
+    "country": "FR",
+    "linktemplate": "http://www.sudoc.abes.fr/cbs//DB=2.1/SET=2/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=RLV&TRM={z:title}+{rft:aufirst?}+{rft:aulast?}",
+    "icon": "http://www.sudoc.abes.fr/~c_psi/psi_images/img_psi/3.0/favicons/default.ico"
+}
