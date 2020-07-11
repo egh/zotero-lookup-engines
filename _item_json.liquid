@@ -2,7 +2,11 @@
     "_name": "{{ item.title Search }}",
     "_alias": "{{ item.title }}",
     "_urlTemplate": "{{ item.linktemplate }}",
-    "_description": "Search {{ item.description || item.title  }}",
+    {% if item.description -%}
+    "_description": "{{ item.description }}",
+    {%- else -%}
+    "_description": "Search {{ item.title }}",
+    {%- endif %}
     "_urlParams": [],
     "_hidden": false,
     {%- if item.icon %}
