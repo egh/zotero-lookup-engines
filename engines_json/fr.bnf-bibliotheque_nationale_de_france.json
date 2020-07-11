@@ -1,0 +1,6 @@
+{
+    "title": "BnF - Bibliothèque nationale de France",
+    "country": "FR",
+    "linktemplate": "https://catalogue.bnf.fr/search.do?mots0=NRI;-1;0;{rft:aufirst?}+{rft:aulast?}&mots1=TIT;0;0;{z:title}&mots2=NRC;1;0;{z:ISBN?}&&pageRech=rav",
+    "description": "Recherche dans le catalogue de la BnF"
+}
