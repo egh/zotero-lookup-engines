@@ -1,0 +1,6 @@
+{
+    "title": "CNKI",
+    "linktemplate": "https://kns8.cnki.net/kns/DefaultResult/Index?dbcode=SCDB&kw={z:title}&korder=SU",
+    "country": "cn",
+    "icon": "https://enscholar.cnki.net/images/footerlogoicon.png"
+}
