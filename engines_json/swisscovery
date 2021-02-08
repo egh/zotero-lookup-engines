@@ -1,0 +1,6 @@
+{
+  "title": "swisscovery",
+  "name": "swisscovery",
+  "icon": "https://swisscovery.slsp.ch/discovery/custom/41SLSP_NETWORK-VU1_UNION/img/library-logo.png",
+  "linktemplate": "https://swisscovery.slsp.ch/discovery/search?tab=41SLSP_NETWORK&vid=41SLSP_NETWORK:VU1_UNION&query=any,contains,{z:title}&search_scope=DN_and_CI&lang=fr&offset=0"
+}
