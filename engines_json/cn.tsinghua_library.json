@@ -1,6 +1,6 @@
 {
     "title": "Tsingua University Library",
-    "linktemplate": "https://tsinghua-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{z:title}",
+    "linktemplate": "https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/sortList?query=any,contains,{z:title}&tab=default_tab&search_scope=default_scope&vid=86THU",
     "country": "cn",
     "icon": "http://lib.tsinghua.edu.cn/favicon.ico"
 }
