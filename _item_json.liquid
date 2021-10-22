@@ -7,7 +7,7 @@
     {%- else -%}
     "_description": "Search {{ item.title }}",
     {%- endif %}
-    "_urlParams": [],
+    "_urlParams": {{ item.linkparams }},
     "_hidden": false,
     {%- if item.icon %}
     "_icon": "{{ item.icon }}",

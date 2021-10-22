@@ -22,15 +22,22 @@ Liquid::Template.file_system = Liquid::LocalFileSystem.new(__dir__)
 countries = {}
 global = []
 
+def fix_json(json)
+  json['linkparams'] ||= []
+  # Annoying, not sure how to do it better though
+  json['linkparams'] = JSON.generate(json['linkparams'])
+  return json
+end  
+
 # examples
-crossref = JSON.parse(File.read("engines_json/crossref.json"))
-google = JSON.parse(File.read("engines_json/google.json"))
+crossref = fix_json(JSON.parse(File.read("engines_json/crossref.json")))
+google = fix_json(JSON.parse(File.read("engines_json/google.json")))
 
 us_states_map = JSON.parse(File.read("us_states.json"))
 countries_map = JSON.parse(File.read("countries.json"))
 
 items = Dir['engines_json/*'].map do |filename|
-  item = JSON.parse(File.read(filename))
+  item = fix_json(JSON.parse(File.read(filename)))
   filename = File.basename(filename, '.json')
   item['filename'] = filename
   country_code = (item['country'] || '').downcase
