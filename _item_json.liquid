@@ -9,7 +9,7 @@
     {%- endif %}
     {% if item.method -%}
     "_method": "{{ item.method }}",
-    {%- endif %}
+    {% endif -%}
     "_urlParams": {{ item.linkparams }},
     "_hidden": false,
     {%- if item.icon %}
