@@ -3,6 +3,7 @@
     "linkTemplate": "https://kns.cnki.net/kns8/defaultresult/index?kw={z:title}",
     "country": "cn",
     "icon": "https://oversea.cnki.net/kns/Content/images/gb/logo.png",
+    "method": "POST",
     "linkparams": {
         "field0": "DOI",
         "q_text0": "{z:DOI}",

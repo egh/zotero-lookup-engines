@@ -10,7 +10,6 @@
     {% if item.method -%}
     "_method": "{{ item.method }}",
     {%- endif %}
-    "_description": "{{ item.description }}",
     "_urlParams": {{ item.linkparams }},
     "_hidden": false,
     {%- if item.icon %}
