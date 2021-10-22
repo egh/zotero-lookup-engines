@@ -1,6 +1,12 @@
 {
     "title": "CNKI",
-    "linktemplate": "https://kns8.cnki.net/kns/DefaultResult/Index?dbcode=SCDB&kw={z:title}&korder=SU",
+    "linkTemplate": "https://kns.cnki.net/kns8/defaultresult/index?kw={z:title}",
     "country": "cn",
-    "icon": "https://enscholar.cnki.net/images/footerlogoicon.png"
+    "icon": "https://oversea.cnki.net/kns/Content/images/gb/logo.png",
+    "linkparams": {
+        "field0": "DOI",
+        "q_text0": "{z:DOI}",
+        "type": "advance+search",
+        "rt": "all"
+    }
 }
