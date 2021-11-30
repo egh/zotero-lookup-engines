@@ -1,0 +1,6 @@
+{
+    "title": "Connected Papers",
+    "description": "Explore connected papers in a visual graph",
+    "icon": "https://www.connectedpapers.com/favicon.ico",
+    "linktemplate": "https://connectedpapers.com/api/redirect/doi/{z:DOI}"
+}
