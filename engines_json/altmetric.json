@@ -1,0 +1,6 @@
+{
+    "title": "Altmetric",
+    "description": "Explore data for all research outputs from the full Altmetric database",
+    "icon": "https://www.altmetric.com/explorer/favicon-16.png",
+    "linktemplate": "https://www.altmetric.com/explorer/highlights?title={z:title?}&identifier={z:DOI?}&scope=all"
+}
