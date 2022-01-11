@@ -3,4 +3,11 @@
     <img src={{ list_item.icon }} height="16px">
   {% endif %}
   <a href="{{ list_item.filename }}.html">{{ list_item.title }}</a>
+  {%- if list_item.country %}
+    ({{ list_item.country}}
+    {%- if list_item.region -%}
+    , {{ list_item.region }}
+    {%- endif -%}
+    )
+  {%- endif %}
 </li>
