@@ -26,24 +26,22 @@ def fix_json(json)
   json['linkparams'] ||= []
   # Annoying, not sure how to do it better though
   json['linkparams'] = JSON.generate(json['linkparams'])
-  return json
-end  
+  json
+end
 
 # examples
-crossref = fix_json(JSON.parse(File.read("engines_json/crossref.json")))
-google = fix_json(JSON.parse(File.read("engines_json/google.json")))
+crossref = fix_json(JSON.parse(File.read('engines_json/crossref.json')))
+google = fix_json(JSON.parse(File.read('engines_json/google.json')))
 
-us_states_map = JSON.parse(File.read("us_states.json"))
-countries_map = JSON.parse(File.read("countries.json"))
+us_states_map = JSON.parse(File.read('us_states.json'))
+countries_map = JSON.parse(File.read('countries.json'))
 
 items = Dir['engines_json/*'].map do |filename|
   item = fix_json(JSON.parse(File.read(filename)))
   filename = File.basename(filename, '.json')
   item['filename'] = filename
   country_code = (item['country'] || '').downcase
-  if country_code == 'us'
-    item['region'] = us_states_map.fetch((item['region'] || '').downcase, nil)
-  end
+  item['region'] = us_states_map.fetch((item['region'] || '').downcase, nil) if country_code == 'us'
   item['country'] = countries_map.fetch(country_code, nil)
   item
 end.sort_by do |i|
@@ -56,15 +54,13 @@ items.each do |item|
   region = item['region'] || :none
   if country.nil?
     global.push(item)
+  elsif country == 'United States'
+    countries[country] ||= {}
+    countries[country][region] ||= []
+    countries[country][region].push(item)
   else
-    if country == 'United States'
-      countries[country] ||= {}
-      countries[country][region] ||= []
-      countries[country][region].push(item)
-    else
-      countries[country] ||= []
-      countries[country].push(item)
-    end
+    countries[country] ||= []
+    countries[country].push(item)
   end
   File.open(File.join('generated', "#{filename}.html"), 'w') do |f|
     f << html_template.render('item' => item, 'crossref' => crossref, 'google' => google)
