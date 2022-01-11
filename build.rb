@@ -19,9 +19,6 @@ html_template = Liquid::Template.parse(File.read('engine.liquid'))
 index_template = Liquid::Template.parse(File.read('index.liquid'))
 Liquid::Template.file_system = Liquid::LocalFileSystem.new(__dir__)
 
-countries = {}
-global = []
-
 def fix_json(json)
   json['linkparams'] ||= []
   # Annoying, not sure how to do it better though
@@ -45,28 +42,16 @@ items = Dir['engines_json/*'].map do |filename|
   item['country'] = countries_map.fetch(country_code, nil)
   item
 end.sort_by do |i|
-  [i['country'] || '', i['region'] || '', i['filename']]
+  i['title'].downcase
 end
 
 items.each do |item|
   filename = item['filename']
-  country = item['country']
-  region = item['region'] || :none
-  if country.nil?
-    global.push(item)
-  elsif country == 'United States'
-    countries[country] ||= {}
-    countries[country][region] ||= []
-    countries[country][region].push(item)
-  else
-    countries[country] ||= []
-    countries[country].push(item)
-  end
   File.open(File.join('generated', "#{filename}.html"), 'w') do |f|
     f << html_template.render('item' => item, 'crossref' => crossref, 'google' => google)
   end
 end
 
 File.open(File.join('generated', 'index.html'), 'w') do |f|
-  f << index_template.render('countries' => countries, 'global' => global)
+  f << index_template.render('items' => items)
 end
