@@ -1,5 +1,5 @@
 {
   "title": "DBLP",
   "icon": "https://dblp.org/img/dblp.icon.192x192.png",
-  "linkTemplate": "https://dblp.uni-trier.de/search?q={z:title}"
+  "linktemplate": "https://dblp.uni-trier.de/search?q={z:title}"
 }

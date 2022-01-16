@@ -1,6 +1,6 @@
 {
     "title": "CNKI",
-    "linkTemplate": "https://kns.cnki.net/kns8/defaultresult/index?kw={z:title}",
+    "linktemplate": "https://kns.cnki.net/kns8/defaultresult/index?kw={z:title}",
     "country": "cn",
     "icon": "https://oversea.cnki.net/kns/Content/images/gb/logo.png",
     "method": "POST",
