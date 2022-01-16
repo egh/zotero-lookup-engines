@@ -1,0 +1,6 @@
+{
+  "title": "OPAC SBN Catalogo del Servizio Bibliotecario Nazionale",
+  "country": "IT",
+  "linkTemplate": "https://nuovo-opac.sbn.it/risultati-ricerca-avanzata?fieldstruct%5B1%5D=ricerca.parole_tutte%3A4%3D6&struct%3A1001=ricerca.parole_almeno_una%3A%40or%40&fieldvalue%5B1%5D={z:title}&fieldaccess%5B1%5D=Any%3A1016%3Anocheck",
+  "description": "OPAC SBN"
+}
