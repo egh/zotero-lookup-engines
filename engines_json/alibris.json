@@ -1,4 +1,4 @@
 {
   "title": "Alibris",
-  "link": "http://www.alibris.com/booksearch?qsort=p&qisbn={rft:isbn}"
+  "linktemplate": "http://www.alibris.com/booksearch?qsort=p&qisbn={rft:isbn}"
 }

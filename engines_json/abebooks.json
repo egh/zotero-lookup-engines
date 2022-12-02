@@ -1,4 +1,4 @@
 {
   "title": "Abebooks",
-  "link": "http://www.abebooks.com/servlet/SearchResults?isbn={rft:isbn}"
+  "linktemplate": "http://www.abebooks.com/servlet/SearchResults?isbn={rft:isbn}"
 }

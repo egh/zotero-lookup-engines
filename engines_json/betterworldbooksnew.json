@@ -1,4 +1,4 @@
 {
   "title": "Better World Books - New",
-  "link": "http://www.betterworldbooks.com/detail.aspx?ItemId={rft:isbn}"
+  "linktemplate": "http://www.betterworldbooks.com/detail.aspx?ItemId={rft:isbn}"
 }
