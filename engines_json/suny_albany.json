@@ -1,0 +1,7 @@
+{
+   "title": "University at Albany - SUNY",
+   "alias": "UAlbany",
+   "description": "UAlbany search",
+   "icon": "https://library.albany.edu/themes/custom/ualibraries/favicon.ico",
+   "linkTemplate": "https://suny-alb.primo.exlibrisgroup.com/openurl/01SUNY_ALB/01SUNY_ALB:01SUNY_ALB?{z:openURL}"
+}
