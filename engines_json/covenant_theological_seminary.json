@@ -1,4 +1,4 @@
 {
   "title": "Covenant Theological Seminary",
-  "linktemplate": "http://openurl.trueserials.com/GODOT/hold_tab.cgi/CVN?{z:openURL}"
+  "linktemplate": "https://covenantlibrary.org/openurl.php?{z:openURL}"
 }
