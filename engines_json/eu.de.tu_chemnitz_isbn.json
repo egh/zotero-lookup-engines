@@ -1,0 +1,7 @@
+{
+  "title": "TU Chemnitz (ISBN)",
+  "country": "Germany",
+  "region": "Sachsen",
+  "linktemplate": "https://katalog.bibliothek.tu-chemnitz.de/Search/Results?lookfor={rft:isbn}&type=ISN",
+  "icon": "https://katalog.bibliothek.tu-chemnitz.de/themes/de_ch1/images/tuc-favicon.ico"
+}
